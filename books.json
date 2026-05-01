@@ -1,0 +1,30 @@
+{
+  "spotlight": {
+    "title": "100 Facts About Axolotls",
+    "subtitle": "The Eternal Toddler",
+    "description": "The axolotl is one of nature's most astonishing creatures — a salamander that never grows up, can regrow entire limbs, and holds secrets that scientists are only beginning to unlock. 100 jaw-dropping facts about the world's most remarkable amphibian.",
+    "cover": "https://via.placeholder.com/400x620/0a1628/D4AF37?text=Axolotls",
+    "amazon_url": "#",
+    "category": "Animals"
+  },
+  "books": [
+    {
+      "title": "100 Facts About Capybaras",
+      "cover": "https://via.placeholder.com/300x465/0a1628/D4AF37?text=Capybaras",
+      "amazon_url": "#",
+      "category": "Animals"
+    },
+    {
+      "title": "100 Facts About Mantis Shrimp",
+      "cover": "https://via.placeholder.com/300x465/0a1628/D4AF37?text=Mantis+Shrimp",
+      "amazon_url": "#",
+      "category": "Animals"
+    },
+    {
+      "title": "100 Facts About Tardigrades",
+      "cover": "https://via.placeholder.com/300x465/0a1628/D4AF37?text=Tardigrades",
+      "amazon_url": "#",
+      "category": "Animals"
+    }
+  ]
+}
