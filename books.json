@@ -8,197 +8,29 @@
     "category": "Animals"
   },
   "books": [
-    {
-      "title": "100 Facts About Capybaras",
-      "subtitle": "The Zen Master of the Animal Kingdom",
-      "description": "The world's largest rodent convinced crocodiles to use it as a sofa. 100 mind-blowing facts about nature's most lovable giant.",
-      "cover": "https://factologyguru.github.io/2.%20CAPYBARAS%20COVER.jpg",
-      "amazon_url": "https://www.amazon.com/dp/B0GZFN93G2",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Axolotls",
-      "subtitle": "The Eternal Toddler",
-      "description": "A salamander that never grows up, can regrow its own brain, and holds secrets scientists are only beginning to unlock. 100 jaw-dropping facts about nature's most remarkable amphibian.",
-      "cover": "https://factologyguru.github.io/1.%20AXOLOTLS%20COVER.jpg",
-      "amazon_url": "https://www.amazon.com/dp/B0GZFJHFBB",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Tardigrades",
-      "subtitle": "The Unkillable Micro Beast",
-      "description": "They survive in volcanoes, outer space, and mass extinctions. The most indestructible creature on Earth — 100 incredible facts about the water bear.",
-      "cover": "https://factologyguru.github.io/4.%20TARDIGRADES%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Platypuses",
-      "subtitle": "Nature's Greatest Accident",
-      "description": "Part duck, part beaver, part otter — and it hunts with electricity. 100 wild facts about the animal that broke every rule of biology.",
-      "cover": "https://factologyguru.github.io/5.%20PLATYPUSES%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Immortal Jellyfish",
-      "subtitle": "The creature that cheats death",
-      "description": "The only known animal that can revert to its juvenile state and live forever. 100 stunning facts about the jellyfish that broke the rules of mortality.",
-      "cover": "https://factologyguru.github.io/6.%20IMMORTAL%20JELLYFISH%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Narwhals",
-      "subtitle": "The Unicorn of the Sea",
-      "description": "That spiral tusk is actually a tooth packed with millions of nerve endings. 100 extraordinary facts about the ocean's most mythical creature.",
-      "cover": "https://factologyguru.github.io/7.%20NARWHALS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Orcas",
-      "subtitle": "The Ocean's Apex Predator",
-      "description": "They hunt great white sharks for sport and have complex family cultures passed down through generations. 100 powerful facts about the ocean's ultimate predator.",
-      "cover": "https://factologyguru.github.io/8.%20ORCAS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Pangolins",
-      "subtitle": "The Walking Pinecone",
-      "description": "The world's most trafficked mammal is also one of its most mysterious. 100 remarkable facts about the only mammal covered in scales.",
-      "cover": "https://factologyguru.github.io/9.%20PANGOLINS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Quokkas",
-      "subtitle": "The World's Happiest Animal",
-      "description": "Always smiling, always unbothered — this tiny marsupial has taken the internet by storm. 100 delightful facts about Australia's most cheerful resident.",
-      "cover": "https://factologyguru.github.io/10.%20QUOKKAS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Octopuses",
-      "subtitle": "The Alien Among Us",
-      "description": "Three hearts, blue blood, and a brain in every arm. 100 mind-bending facts about the most intelligent invertebrate on Earth.",
-      "cover": "https://factologyguru.github.io/11.%20OCTOPUSES%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Sloths",
-      "subtitle": "The Master of Doing Nothing",
-      "description": "So slow that algae grows on their fur — and that's actually their superpower. 100 surprisingly fascinating facts about the world's most unhurried animal.",
-      "cover": "https://factologyguru.github.io/12.%20SLOTHS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Komodo Dragons",
-      "subtitle": "The Last Living Dragon",
-      "description": "The world's largest lizard hunts with venom, bacteria, and terrifying patience. 100 fierce facts about the closest thing to a real dragon.",
-      "cover": "https://factologyguru.github.io/13.%20KOMODO%20DRAGONS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Snow Leopards",
-      "subtitle": "Ghost of the Mountains",
-      "description": "So elusive it was considered mythical for centuries. 100 breathtaking facts about the most mysterious big cat on Earth.",
-      "cover": "https://factologyguru.github.io/14.%20SNOW%20LEOPARDS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Manta Rays",
-      "subtitle": "Giants of the Deep",
-      "description": "With a wingspan wider than a car and a brain bigger than any fish, the manta ray is the ocean's most graceful genius. 100 stunning facts.",
-      "cover": "https://factologyguru.github.io/15.%20MANTA%20RAYS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Giant Squids",
-      "subtitle": "The Monster of the Deep",
-      "description": "Eyes the size of basketballs, arms lined with razor-sharp suckers, and never fully seen alive until 2004. 100 terrifying facts about the ocean's greatest mystery.",
-      "cover": "https://factologyguru.github.io/16.%20GIANT%20SQUIDS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Secretary Birds",
-      "subtitle": "The Warrior of the Savanna",
-      "description": "A bird that stomps snakes to death with kicks powerful enough to break bones. 100 extraordinary facts about Africa's most striking raptor.",
-      "cover": "https://factologyguru.github.io/17.%20SECRETARY%20BIRDS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Blobfish",
-      "subtitle": "The World's Most Misunderstood Fish",
-      "description": "It's not actually ugly — that's just what happens when you bring a deep sea creature to the surface. 100 surprisingly fascinating facts about the internet's favorite fish.",
-      "cover": "https://factologyguru.github.io/18.%20BLOBFISH%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Leafy Sea Dragons",
-      "subtitle": "The Ocean's Living Artwork",
-      "description": "Part plant, part animal, entirely magical. 100 breathtaking facts about the most beautiful and bizarre creature in the sea.",
-      "cover": "https://factologyguru.github.io/19.%20LEAFY%20SEA%20DRAGONS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Star-Nosed Moles",
-      "subtitle": "Nature's Most Bizarre Nose",
-      "description": "With 22 pink tentacles on its face and the fastest eating speed of any mammal, this creature is pure biological madness. 100 wild facts.",
-      "cover": "https://factologyguru.github.io/20.%20STAR-NOSED%20MOLES%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Mimic Octopuses",
-      "subtitle": "The Master of Disguise",
-      "description": "It can impersonate over 15 different species on demand. 100 astonishing facts about the ocean's most cunning shape-shifter.",
-      "cover": "https://factologyguru.github.io/21.%20MIMIC%20OCTOPUSES%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Pistol Shrimp",
-      "subtitle": "The Tiny Creature with a Sonic Weapon",
-      "description": "A shrimp that creates a bubble hotter than the sun with a snap of its claw. 100 explosive facts about the ocean's smallest but deadliest hunter.",
-      "cover": "https://factologyguru.github.io/22.%20PISTOL%20SHRIMP%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Flying Squirrels",
-      "subtitle": "The Acrobats of the Forest",
-      "description": "They don't actually fly — they glide up to 300 feet through the night sky using a membrane of skin. 100 soaring facts about nature's ultimate daredevil.",
-      "cover": "https://factologyguru.github.io/23.%20FLYING%20SQUIRRELS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Honey Badgers",
-      "subtitle": "The Most Fearless Animal Alive",
-      "description": "It attacks lions, survives snake venom, and has been documented escaping from every enclosure ever built for it. 100 fearless facts.",
-      "cover": "https://factologyguru.github.io/24.%20HONEY%20BADGERS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Peacocks",
-      "subtitle": "Nature's Most Extravagant Show-Off",
-      "description": "Those iridescent feathers contain no blue or green pigment — it's pure physics creating the color. 100 dazzling facts about the world's most spectacular bird.",
-      "cover": "https://factologyguru.github.io/25.%20PEACOCKS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    }
+    {"title":"100 Facts About Capybaras","subtitle":"The Zen Master of the Animal Kingdom","description":"The world's largest rodent convinced crocodiles to use it as a sofa. 100 mind-blowing facts about nature's most lovable giant.","cover":"https://factologyguru.github.io/2.%20CAPYBARAS%20COVER.jpg","amazon_url":"https://www.amazon.com/dp/B0GZFN93G2","category":"Animals"},
+    {"title":"100 Facts About Axolotls","subtitle":"The Eternal Toddler","description":"A salamander that never grows up, can regrow its own brain, and holds secrets scientists are only beginning to unlock. 100 jaw-dropping facts.","cover":"https://factologyguru.github.io/1.%20AXOLOTLS%20COVER.jpg","amazon_url":"https://www.amazon.com/dp/B0GZFJHFBB","category":"Animals"},
+    {"title":"100 Facts About Tardigrades","subtitle":"The Unthinkable Tiny Titan","description":"They survive in volcanoes, outer space, and mass extinctions. 100 incredible facts about the most indestructible creature on Earth.","cover":"https://factologyguru.github.io/4.%20TARDIGRADES%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Platypuses","subtitle":"An Evolutionary Fever Dream","description":"Part duck, part beaver, part otter — and it hunts with electricity. 100 wild facts about the animal that broke every rule of biology.","cover":"https://factologyguru.github.io/5.%20PLATYPUSES%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Immortal Jellyfish","subtitle":"The Jellyfish That Refused to Die","description":"The only known animal that can revert to its juvenile state and live forever. 100 stunning facts about the jellyfish that broke mortality.","cover":"https://factologyguru.github.io/6.%20IMMORTAL%20JELLYFISH%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Narwhals","subtitle":"The Unicorn of the Deep","description":"That spiral tusk is actually a tooth packed with millions of nerve endings. 100 extraordinary facts about the ocean's most mythical creature.","cover":"https://factologyguru.github.io/7.%20NARWHALS%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Orcas","subtitle":"The Ocean's Apex in Black and White","description":"They hunt great white sharks for sport and have complex family cultures passed down through generations. 100 powerful facts.","cover":"https://factologyguru.github.io/8.%20ORCAS%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Pangolins","subtitle":"The Articulated Artichoke","description":"The world's most trafficked mammal is also one of its most mysterious. 100 remarkable facts about the only mammal covered in scales.","cover":"https://factologyguru.github.io/9.%20PANGOLINS%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Quokkas","subtitle":"The World's Happiest Animal","description":"Always smiling, always unbothered — this tiny marsupial has taken the internet by storm. 100 delightful facts about Australia's most cheerful resident.","cover":"https://factologyguru.github.io/10.%20QUOKKAS%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Octopuses","subtitle":"The Eight-Armed Alien of the Sea","description":"Three hearts, blue blood, and a brain in every arm. 100 mind-bending facts about the most intelligent invertebrate on Earth.","cover":"https://factologyguru.github.io/11.%20OCTOPUSES%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Sloths","subtitle":"The Art of Doing Nothing","description":"So slow that algae grows on their fur — and that's actually their superpower. 100 surprisingly fascinating facts about the world's most unhurried animal.","cover":"https://factologyguru.github.io/12.%20SLOTHS%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Komodo Dragons","subtitle":"The Last Living Dragon","description":"The world's largest lizard hunts with venom, bacteria, and terrifying patience. 100 fierce facts about the closest thing to a real dragon.","cover":"https://factologyguru.github.io/13.%20KOMODO%20DRAGONS%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Snow Leopards","subtitle":"The Ghost of the Mountains","description":"So elusive it was considered mythical for centuries. 100 breathtaking facts about the most mysterious big cat on Earth.","cover":"https://factologyguru.github.io/14.%20SNOW%20LEOPARDS%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Manta Rays","subtitle":"The Ocean's Silent Giant","description":"With a wingspan wider than a car and a brain bigger than any fish, the manta ray is the ocean's most graceful genius. 100 stunning facts.","cover":"https://factologyguru.github.io/15.%20MANTA%20RAYS%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Giant Squids","subtitle":"The Monster of the Deep","description":"Eyes the size of basketballs, arms lined with razor-sharp suckers, never fully seen alive until 2004. 100 terrifying facts about the ocean's greatest mystery.","cover":"https://factologyguru.github.io/16.%20GIANT%20SQUIDS%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Secretary Birds","subtitle":"The Bird That Hunts Like a Ninja","description":"A bird that stomps snakes to death with kicks powerful enough to break bones. 100 extraordinary facts about Africa's most striking raptor.","cover":"https://factologyguru.github.io/17.%20SECRETARY%20BIRDS%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Blobfish","subtitle":"The Ugliest Survivor","description":"It's not actually ugly — that's just what happens when you bring a deep sea creature to the surface. 100 surprisingly fascinating facts.","cover":"https://factologyguru.github.io/18.%20BLOBFISH%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Leafy Sea Dragons","subtitle":"The Camouflage Kings","description":"Part plant, part animal, entirely magical. 100 breathtaking facts about the most beautiful and bizarre creature in the sea.","cover":"https://factologyguru.github.io/19.%20LEAFY%20SEA%20DRAGONS%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Star-Nosed Moles","subtitle":"The Star-Faced Digger","description":"With 22 pink tentacles on its face and the fastest eating speed of any mammal, this creature is pure biological madness. 100 wild facts.","cover":"https://factologyguru.github.io/20.%20STAR-NOSED%20MOLES%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Mimic Octopuses","subtitle":"The Master of Disguise","description":"It can impersonate over 15 different species on demand. 100 astonishing facts about the ocean's most cunning shape-shifter.","cover":"https://factologyguru.github.io/21.%20MIMIC%20OCTOPUSES%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Pistol Shrimp","subtitle":"The Fastest Gun in the Ocean","description":"A shrimp that creates a bubble hotter than the sun with a snap of its claw. 100 explosive facts about the ocean's smallest but deadliest hunter.","cover":"https://factologyguru.github.io/22.%20PISTOL%20SHRIMP%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Flying Squirrels","subtitle":"The Flying Rodent","description":"They don't actually fly — they glide up to 300 feet through the night sky. 100 soaring facts about nature's ultimate daredevil.","cover":"https://factologyguru.github.io/23.%20FLYING%20SQUIRRELS%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Honey Badgers","subtitle":"The Fearless Chaos Machine","description":"It attacks lions, survives snake venom, and escapes every enclosure ever built for it. 100 fearless facts about nature's toughest animal.","cover":"https://factologyguru.github.io/24.%20HONEY%20BADGERS%20COVER.jpg","amazon_url":"#","category":"Animals"},
+    {"title":"100 Facts About Peacocks","subtitle":"The King of Colors","description":"Those iridescent feathers contain no blue or green pigment — it's pure physics creating the color. 100 dazzling facts about the world's most spectacular bird.","cover":"https://factologyguru.github.io/25.%20PEACOCKS%20COVER.jpg","amazon_url":"#","category":"Animals"}
   ]
 }
