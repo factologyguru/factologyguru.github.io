@@ -19,22 +19,21 @@
   .nav-links a:hover{color:#D4AF37;}
 
   /* HERO */
-  .hero{background:linear-gradient(160deg,#0d1e35 0%,#0a1628 50%,#060f1e 100%);padding:80px 40px;text-align:center;position:relative;overflow:hidden;border-bottom:1px solid rgba(212,175,55,0.2);}
-  .hero-tag{font-family:'Cinzel',serif;font-size:13px;letter-spacing:6px;color:rgba(212,175,55,0.6);margin-bottom:20px;}
-  .hero-title{font-family:'Cinzel',serif;font-size:clamp(36px,6vw,72px);font-weight:900;color:#D4AF37;line-height:1.1;margin-bottom:20px;}
-  .hero-sub{font-size:22px;font-style:italic;color:rgba(245,240,232,0.6);max-width:600px;margin:0 auto 40px;}
+  .hero{background:linear-gradient(160deg,#0d1e35 0%,#0a1628 50%,#060f1e 100%);padding:60px 40px;text-align:center;position:relative;overflow:hidden;border-bottom:1px solid rgba(212,175,55,0.2);}
+  .hero-tag{font-family:'Cinzel',serif;font-size:13px;letter-spacing:6px;color:rgba(212,175,55,0.6);margin-bottom:16px;}
+  .hero-title{font-family:'Cinzel',serif;font-size:clamp(28px,4vw,52px);font-weight:900;color:#D4AF37;line-height:1.1;margin-bottom:16px;}
+  .hero-sub{font-size:20px;font-style:italic;color:rgba(245,240,232,0.6);max-width:600px;margin:0 auto 32px;}
   .hero-stats{display:flex;gap:40px;justify-content:center;flex-wrap:wrap;}
   .stat{text-align:center;}
-  .stat-num{font-family:'Cinzel',serif;font-size:36px;font-weight:700;color:#D4AF37;}
-  .stat-label{font-size:14px;letter-spacing:2px;color:rgba(245,240,232,0.5);text-transform:uppercase;}
+  .stat-num{font-family:'Cinzel',serif;font-size:32px;font-weight:700;color:#D4AF37;}
+  .stat-label{font-size:13px;letter-spacing:2px;color:rgba(245,240,232,0.5);text-transform:uppercase;}
 
   /* SPOTLIGHT */
-  .spotlight-section{padding:80px 40px;max-width:1200px;margin:0 auto;}
+  .spotlight-section{padding:60px 40px;max-width:1200px;margin:0 auto;}
   .section-label{font-family:'Cinzel',serif;font-size:12px;letter-spacing:6px;color:rgba(212,175,55,0.6);text-transform:uppercase;margin-bottom:40px;display:flex;align-items:center;gap:16px;}
   .section-label::after{content:'';flex:1;height:1px;background:linear-gradient(90deg,rgba(212,175,55,0.3),transparent);}
   .spotlight-card{display:grid;grid-template-columns:1fr 1.5fr;gap:60px;align-items:center;background:linear-gradient(135deg,rgba(13,30,53,0.8),rgba(6,15,30,0.8));border:1px solid rgba(212,175,55,0.2);padding:60px;position:relative;overflow:hidden;}
-  .spotlight-card::before{content:'NEW';position:absolute;top:24px;right:24px;background:linear-gradient(135deg,#D4AF37,#F0D060);color:#0a1628;font-family:'Cinzel',serif;font-size:11px;font-weight:700;letter-spacing:3px;padding:6px 16px;}
-  .spotlight-cover{position:relative;}
+  .new-badge{position:absolute;top:20px;right:20px;background:linear-gradient(135deg,#D4AF37,#F0D060);color:#0a1628;font-family:'Cinzel',serif;font-size:14px;font-weight:700;letter-spacing:4px;padding:10px 24px;}
   .spotlight-cover img{width:100%;max-width:300px;box-shadow:0 30px 80px rgba(0,0,0,0.6),0 0 60px rgba(212,175,55,0.1);display:block;margin:0 auto;}
   .spotlight-info{display:flex;flex-direction:column;gap:20px;}
   .spotlight-category{font-family:'Cinzel',serif;font-size:12px;letter-spacing:4px;color:rgba(212,175,55,0.6);text-transform:uppercase;}
@@ -66,8 +65,8 @@
 
   @media(max-width:768px){
     .spotlight-card{grid-template-columns:1fr;gap:30px;padding:30px;}
-    .hero{padding:50px 20px;}
-    .spotlight-section,.library-section{padding:40px 20px;}
+    .hero{padding:40px 20px;}
+    .spotlight-section,.library-section{padding:30px 20px;}
     nav{padding:16px 20px;}
     .nav-links{display:none;}
   }
@@ -78,7 +77,7 @@
 <nav>
   <div class="nav-logo">
     <img src="https://factologyguru.github.io/2026-04-29%20-%20Factology%20Guru%20LOGO.png" alt="Factology Guru" onerror="this.style.display='none'">
-    <span class="nav-brand">FACTOLOGY GURU</span>
+    <span class="nav-brand">FACTOLOGY GURU™</span>
   </div>
   <div class="nav-links">
     <a href="#">Books</a>
@@ -93,7 +92,7 @@
   <p class="hero-sub">Deep dives into the world's most fascinating creatures — one mind-blowing fact at a time.</p>
   <div class="hero-stats">
     <div class="stat"><div class="stat-num" id="live-count">0</div><div class="stat-label">Books Live</div></div>
-    <div class="stat"><div class="stat-num" id="total-count">0</div><div class="stat-label">Books Coming</div></div>
+    <div class="stat"><div class="stat-num" id="coming-count">0</div><div class="stat-label">Books Coming</div></div>
     <div class="stat"><div class="stat-num">2,500+</div><div class="stat-label">Facts Written</div></div>
   </div>
 </section>
@@ -117,27 +116,31 @@
 fetch('books.json?v=' + Date.now())
   .then(r => r.json())
   .then(data => {
-    // Spotlight
     const s = data.spotlight;
-    const isLive = s.amazon_url && s.amazon_url !== '#';
+    const spotlightLive = s.amazon_url && s.amazon_url !== '#';
+
+    // Spotlight
     document.getElementById('spotlight').innerHTML = `
+      <span class="new-badge">✦ NEW</span>
       <div class="spotlight-cover"><img src="${s.cover}" alt="${s.title}" onerror="this.src='https://via.placeholder.com/300x465/0a1628/D4AF37?text=${encodeURIComponent(s.title)}'"></div>
       <div class="spotlight-info">
         <div class="spotlight-category">${s.category}</div>
         <div class="spotlight-title">${s.title}</div>
         <div class="spotlight-subtitle">${s.subtitle || ''}</div>
         <div class="spotlight-desc">${s.description}</div>
-        ${isLive
+        ${spotlightLive
           ? `<a href="${s.amazon_url}" target="_blank" class="btn-kindle">READ ON AMAZON KINDLE →</a>`
           : `<span class="btn-coming">COMING SOON</span>`}
       </div>`;
 
     // Library
     const grid = document.getElementById('books-grid');
-    let liveCount = isLive ? 1 : 0;
+    let liveCount = spotlightLive ? 1 : 0;
+    let comingCount = spotlightLive ? 0 : 1;
+
     data.books.forEach(b => {
       const live = b.amazon_url && b.amazon_url !== '#';
-      if(live) liveCount++;
+      if(live) liveCount++; else comingCount++;
       const card = document.createElement('div');
       card.className = 'book-card' + (live ? ' live' : '');
       card.innerHTML = `
@@ -152,9 +155,8 @@ fetch('books.json?v=' + Date.now())
       grid.appendChild(card);
     });
 
-    // Stats
     document.getElementById('live-count').textContent = liveCount;
-    document.getElementById('total-count').textContent = data.books.length + 1;
+    document.getElementById('coming-count').textContent = comingCount;
   });
 </script>
 </body>
