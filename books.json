@@ -1,27 +1,27 @@
 {
   "spotlight": {
-    "title": "100 Facts About Axolotl",
-    "subtitle": "The Eternal Toddler",
-    "description": "A salamander that never grows up, can regrow its own brain, and holds secrets scientists are only beginning to unlock. 100 jaw-dropping facts.",
-    "cover": "https://factologyguru.github.io/1.%20AXOLOTLS%20COVER.jpg%20",
-    "amazon_url": "https://www.amazon.com/dp/B0GZFJHFBB",
+    "title": "100 Facts About Capybara",
+    "subtitle": "The Zen Master of the Animal Kingdom",
+    "description": "The world's largest rodent convinced crocodiles to use it as a sofa. 100 mind-blowing facts about nature's most lovable giant.",
+    "cover": "https://factologyguru.github.io/2.%20CAPYBARAS%20COVER.jpg%20",
+    "amazon_url": "https://www.amazon.com/dp/B0GZFN93G2",
     "category": "Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Axolotl",
+      "subtitle": "The Eternal Toddler",
+      "description": "A salamander that never grows up, can regrow its own brain, and holds secrets scientists are only beginning to unlock. 100 jaw-dropping facts.",
+      "cover": "https://factologyguru.github.io/1.%20AXOLOTLS%20COVER.jpg%20",
+      "amazon_url": "https://www.amazon.com/dp/B0GZFJHFBB",
+      "category": "Animals"
+    },
     {
       "title": "100 Facts About Mantis Shrimp",
       "subtitle": "The Rainbow Assassin",
       "description": "It punches with the force of a bullet, sees colors humans can't imagine, and creates underwater explosions hotter than the surface of the sun. Meet the most biologically outrageous creature in the ocean — 100 jaw-dropping facts about nature's ultimate warrior.",
       "cover": "https://factologyguru.github.io/3.%20MANTIS%20SHRIMP%20COVER.jpg",
       "amazon_url": "https://www.amazon.com/dp/B0GX2YDZCL",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Capybaras",
-      "subtitle": "The Zen Master of the Animal Kingdom",
-      "description": "The world's largest rodent convinced crocodiles to use it as a sofa. 100 mind-blowing facts about nature's most lovable giant.",
-      "cover": "https://factologyguru.github.io/2.%20CAPYBARAS%20COVER.jpg",
-      "amazon_url": "https://www.amazon.com/dp/B0GZFN93G2",
       "category": "Animals"
     },
     {
