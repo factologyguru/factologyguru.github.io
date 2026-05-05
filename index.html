@@ -4,14 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- SEO META TAGS — PASTE BELOW HERE -->
 <meta name="description" content="Factology Guru — 100 carefully researched facts about the world's most fascinating subjects. Animals, science, history, space, nature and more. Available on Amazon Kindle.">
 <meta name="keywords" content="100 facts, factology guru, kindle facts books, animal facts, science facts, history facts, nature facts, weird facts, amazing facts, fascinating facts, fact books, kindle unlimited, educational books">
 <meta name="author" content="Factology Guru">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://factologyguru.com">
 
-<!-- Open Graph (Facebook, Pinterest, LinkedIn) -->
 <meta property="og:title" content="Factology Guru — 100 Facts About Everything">
 <meta property="og:description" content="Deep dives into the world's most fascinating subjects — one mind-blowing fact at a time. Available on Amazon Kindle.">
 <meta property="og:image" content="https://factologyguru.github.io/2026-04-29%20-%20Factology%20Guru%20LOGO.png">
@@ -19,13 +17,11 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Factology Guru">
 
-<!-- Twitter/X Card -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@FactologyGuru">
 <meta name="twitter:title" content="Factology Guru — 100 Facts About Everything">
 <meta name="twitter:description" content="Deep dives into the world's most fascinating subjects — one mind-blowing fact at a time.">
 <meta name="twitter:image" content="https://factologyguru.github.io/2026-04-29%20-%20Factology%20Guru%20LOGO.png">
-<!-- SEO META TAGS — END -->
 
 <title>Factology Guru — 100 Facts About Everything</title>
 <style>
@@ -82,6 +78,41 @@
   .btn-card-kindle:hover{opacity:0.9;}
   .btn-card-coming{display:block;text-align:center;background:transparent;color:rgba(212,175,55,0.4);font-family:'Cinzel',serif;font-size:10px;letter-spacing:2px;padding:8px 12px;border:1px solid rgba(212,175,55,0.2);cursor:default;}
 
+  /* ABOUT */
+  .about-section{padding:80px 40px;border-top:1px solid rgba(212,175,55,0.15);}
+  .about-inner{max-width:1200px;margin:0 auto;}
+  .about-card{display:grid;grid-template-columns:220px 1fr;gap:60px;align-items:start;background:linear-gradient(135deg,rgba(13,30,53,0.8),rgba(6,15,30,0.8));border:1px solid rgba(212,175,55,0.2);padding:60px;}
+  .about-left{display:flex;flex-direction:column;align-items:center;text-align:center;gap:18px;}
+  .about-logo{width:100px;height:100px;border-radius:50%;border:2px solid rgba(212,175,55,0.5);box-shadow:0 0 40px rgba(212,175,55,0.1);}
+  .about-name{font-family:'Cinzel',serif;font-size:16px;font-weight:700;color:#D4AF37;letter-spacing:2px;}
+  .about-tagline{font-size:13px;font-style:italic;color:rgba(245,240,232,0.45);letter-spacing:1px;}
+  .about-divider{width:50px;height:1px;background:linear-gradient(90deg,transparent,rgba(212,175,55,0.4),transparent);}
+  .about-social-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;width:100%;}
+  .social-link{display:flex;align-items:center;gap:8px;padding:10px 11px;border:1px solid rgba(212,175,55,0.15);background:rgba(6,15,30,0.5);text-decoration:none;color:rgba(245,240,232,0.7);transition:all 0.3s;}
+  .social-link:hover{border-color:rgba(212,175,55,0.5);color:#D4AF37;}
+  .social-link svg{flex-shrink:0;opacity:0.75;}
+  .social-link:hover svg{opacity:1;}
+  .social-link-label{font-family:'Cinzel',serif;font-size:9px;letter-spacing:1.5px;text-transform:uppercase;}
+  .social-link.full{grid-column:1/-1;justify-content:center;}
+  .social-link.amazon{background:rgba(212,175,55,0.05);border-color:rgba(212,175,55,0.3);}
+  .social-link.amazon .social-link-label{font-size:10px;color:#D4AF37;}
+  .about-right{display:flex;flex-direction:column;gap:24px;}
+  .about-bio{font-size:19px;line-height:1.9;color:rgba(245,240,232,0.75);}
+  .about-bio p{margin-bottom:16px;}
+  .about-bio p:last-child{margin-bottom:0;}
+
+  /* NEWSLETTER */
+  .newsletter-section{padding:0 40px 80px;}
+  .newsletter-inner{max-width:1200px;margin:0 auto;}
+  .newsletter-card{background:linear-gradient(135deg,rgba(13,30,53,0.8),rgba(6,15,30,0.8));border:1px solid rgba(212,175,55,0.2);padding:60px;display:grid;grid-template-columns:1fr 1fr;gap:60px;align-items:center;}
+  .newsletter-left h3{font-family:'Cinzel',serif;font-size:26px;font-weight:700;color:#D4AF37;letter-spacing:2px;line-height:1.3;margin-bottom:16px;}
+  .newsletter-left p{font-size:18px;font-style:italic;color:rgba(245,240,232,0.6);line-height:1.8;}
+  .newsletter-right{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;text-align:center;}
+  .newsletter-soon{font-family:'Cinzel',serif;font-size:13px;letter-spacing:4px;color:rgba(212,175,55,0.5);border:1px solid rgba(212,175,55,0.2);padding:16px 32px;display:inline-block;}
+  .newsletter-follow{font-size:17px;font-style:italic;color:rgba(245,240,232,0.5);line-height:1.7;}
+  .newsletter-follow a{color:rgba(212,175,55,0.7);text-decoration:none;}
+  .newsletter-follow a:hover{color:#D4AF37;}
+
   /* FOOTER */
   footer{border-top:1px solid rgba(212,175,55,0.2);padding:40px;text-align:center;background:rgba(10,22,40,0.5);}
   .footer-brand{font-family:'Cinzel',serif;font-size:20px;color:#D4AF37;letter-spacing:4px;margin-bottom:10px;}
@@ -93,6 +124,10 @@
     .spotlight-section,.library-section{padding:30px 20px;}
     nav{padding:16px 20px;}
     .nav-links{display:none;}
+    .about-card{grid-template-columns:1fr;gap:40px;padding:30px;}
+    .about-section{padding:50px 20px;}
+    .newsletter-card{grid-template-columns:1fr;gap:30px;padding:30px;}
+    .newsletter-section{padding:0 20px 60px;}
   }
 </style>
 </head>
@@ -104,8 +139,9 @@
     <span class="nav-brand">FACTOLOGY GURU™</span>
   </div>
   <div class="nav-links">
-    <a href="#">Books</a>
-    <a href="#">About</a>
+    <a href="#books">Books</a>
+    <a href="#about">About</a>
+    <a href="#newsletter">Newsletter</a>
     <a href="https://www.amazon.com/s?k=factology+guru&i=digital-text" target="_blank">Amazon Store</a>
   </div>
 </nav>
@@ -126,9 +162,87 @@
   <div class="spotlight-card" id="spotlight"></div>
 </section>
 
-<section class="library-section">
+<section class="library-section" id="books">
   <div class="section-label">The Collection</div>
   <div class="books-grid" id="books-grid"></div>
+</section>
+
+<section class="about-section" id="about">
+  <div class="about-inner">
+    <div class="section-label">About</div>
+    <div class="about-card">
+      <div class="about-left">
+        <img src="https://factologyguru.github.io/2026-04-29%20-%20Factology%20Guru%20LOGO.png" alt="Factology Guru" class="about-logo" onerror="this.style.display='none'">
+        <div class="about-name">FACTOLOGY GURU™</div>
+        <div class="about-tagline">Weird, Wild &amp; Wonderful Facts</div>
+        <div class="about-divider"></div>
+        <div class="about-social-grid">
+          <a href="https://www.amazon.com/author/factologyguru" target="_blank" class="social-link full amazon">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#D4AF37" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M8.56 2.75c4.37 6.03 6.02 9.42 8.03 17.72m2.54-15.38c-3.72 4.35-8.94 5.66-16.88 5.85m19.5 1.9c-3.5-.93-6.63-.82-8.94 0-2.58.92-5.01 2.86-7.44 6.32"/></svg>
+            <span class="social-link-label">Amazon Author Page</span>
+          </a>
+          <a href="https://x.com/FactologyGuru" target="_blank" class="social-link">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.259 5.63 5.905-5.63zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            <span class="social-link-label">X / Twitter</span>
+          </a>
+          <a href="https://www.instagram.com/thefactologyguru/" target="_blank" class="social-link">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" stroke="none"/></svg>
+            <span class="social-link-label">Instagram</span>
+          </a>
+          <a href="https://www.tiktok.com/@factologyguru" target="_blank" class="social-link">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.77 0 2.89 2.89 0 0 1 2.89-2.89c.28 0 .54.04.79.1V9.01a6.34 6.34 0 0 0-6.13 6.33 6.34 6.34 0 0 0 12.67 0V8.69a8.17 8.17 0 0 0 4.78 1.52V6.75a4.85 4.85 0 0 1-1.01-.06z"/></svg>
+            <span class="social-link-label">TikTok</span>
+          </a>
+          <a href="https://www.facebook.com/profile.php?id=61588728149166" target="_blank" class="social-link">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+            <span class="social-link-label">Facebook</span>
+          </a>
+          <a href="https://www.youtube.com/@FactologyGuru" target="_blank" class="social-link">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.95-1.96C18.88 4 12 4 12 4s-6.88 0-8.59.46A2.78 2.78 0 0 0 1.46 6.42 29 29 0 0 0 1 12a29 29 0 0 0 .46 5.58 2.78 2.78 0 0 0 1.95 1.96C5.12 20 12 20 12 20s6.88 0 8.59-.46a2.78 2.78 0 0 0 1.95-1.96A29 29 0 0 0 23 12a29 29 0 0 0-.46-5.58z"/><polygon points="9.75 15.02 15.5 12 9.75 8.98 9.75 15.02" fill="#060f1e"/></svg>
+            <span class="social-link-label">YouTube</span>
+          </a>
+          <a href="https://www.pinterest.com/factologyguru/" target="_blank" class="social-link">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12c0 4.24 2.65 7.86 6.39 9.29-.09-.78-.17-1.98.03-2.83.19-.77 1.27-5.38 1.27-5.38s-.32-.65-.32-1.61c0-1.51.88-2.63 1.97-2.63.93 0 1.38.7 1.38 1.53 0 .94-.6 2.34-.9 3.64-.26 1.09.54 1.97 1.6 1.97 1.92 0 3.4-2.02 3.4-4.95 0-2.58-1.86-4.39-4.51-4.39-3.07 0-4.88 2.3-4.88 4.68 0 .93.36 1.92.8 2.46.09.11.1.2.07.31-.08.34-.26 1.09-.3 1.24-.05.2-.16.24-.38.15-1.42-.66-2.3-2.75-2.3-4.43 0-3.6 2.62-6.91 7.55-6.91 3.96 0 7.04 2.82 7.04 6.59 0 3.93-2.48 7.09-5.92 7.09-1.16 0-2.24-.6-2.61-1.31l-.71 2.65c-.26.98-.95 2.21-1.41 2.96.53.1 1.07.16 1.63.16 5.52 0 10-4.48 10-10S17.52 2 12 2z"/></svg>
+            <span class="social-link-label">Pinterest</span>
+          </a>
+          <a href="https://www.reddit.com/user/Own-Painting-3221/" target="_blank" class="social-link full">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="10"/><path fill="#060f1e" d="M15.5 11.5c.6 0 1 .4 1 1s-.4 1-1 1-1-.4-1-1 .4-1 1-1zm-7 0c.6 0 1 .4 1 1s-.4 1-1 1-1-.4-1-1 .4-1 1-1zm3.5 4c-1.1 0-2-.4-2.7-1h5.4c-.7.6-1.6 1-2.7 1zm4.8-5.5c-.3 0-.6.1-.8.3-.8-.5-1.9-.9-3.1-.9l.5-2.4 1.6.3c0 .5.4.9.9.9s.9-.4.9-.9-.4-.9-.9-.9c-.4 0-.7.2-.8.6l-1.8-.4c-.1 0-.2.1-.2.2l-.6 2.7c-1.2 0-2.3.3-3.1.9-.2-.2-.5-.3-.8-.3-.7 0-1.2.5-1.2 1.2 0 .5.3.9.7 1.1 0 .2-.1.3-.1.5 0 2 2.3 3.5 5.2 3.5s5.2-1.6 5.2-3.5c0-.2 0-.3-.1-.5.4-.2.7-.6.7-1.1 0-.7-.6-1.2-1.2-1.2z"/></svg>
+            <span class="social-link-label">Reddit</span>
+          </a>
+        </div>
+      </div>
+      <div class="about-right">
+        <div class="section-label">The Story</div>
+        <div class="about-bio">
+          <p>Factology Guru is a researcher and writer obsessed with one thing: finding the most surprising, counterintuitive, and genuinely fascinating facts hidden inside every subject imaginable.</p>
+          <p>From the biology of Earth's strangest creatures to the science behind everyday objects, the history of human invention, and the mysteries that still baffle experts — the <em>100 Facts</em> series exists to make learning feel less like studying and more like discovery.</p>
+          <p>Every title is built on verified research, drawing from scientific publications, historical records, and expert sources. The goal is simple: leave every reader knowing something remarkable they didn't know before.</p>
+          <p>New titles drop regularly. There is always more to know.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="newsletter-section" id="newsletter">
+  <div class="newsletter-inner">
+    <div class="section-label">Newsletter</div>
+    <div class="newsletter-card">
+      <div class="newsletter-left">
+        <h3>NEW TITLES.<br>ZERO NOISE.</h3>
+        <p>Get notified when a new title drops — plus one remarkable fact you probably don't know yet.</p>
+      </div>
+      <div class="newsletter-right">
+        <div class="newsletter-soon">COMING SOON</div>
+        <p class="newsletter-follow">In the meantime, follow us on social to stay in the know.<br><br>
+          <a href="https://x.com/FactologyGuru" target="_blank">X</a> &nbsp;·&nbsp;
+          <a href="https://www.instagram.com/thefactologyguru/" target="_blank">Instagram</a> &nbsp;·&nbsp;
+          <a href="https://www.tiktok.com/@factologyguru" target="_blank">TikTok</a> &nbsp;·&nbsp;
+          <a href="https://www.youtube.com/@FactologyGuru" target="_blank">YouTube</a>
+        </p>
+      </div>
+    </div>
+  </div>
 </section>
 
 <footer>
@@ -143,7 +257,6 @@ fetch('books.json?v=' + Date.now())
     const s = data.spotlight;
     const spotlightLive = s.amazon_url && s.amazon_url !== '#';
 
-    // Spotlight
     document.getElementById('spotlight').innerHTML = `
       <span class="new-badge">✦ NEW</span>
       <div class="spotlight-cover"><img src="${s.cover}" alt="${s.title}" onerror="this.src='https://via.placeholder.com/300x465/0a1628/D4AF37?text=${encodeURIComponent(s.title)}'"></div>
@@ -157,7 +270,6 @@ fetch('books.json?v=' + Date.now())
           : `<span class="btn-coming">COMING SOON</span>`}
       </div>`;
 
-    // Library
     const grid = document.getElementById('books-grid');
     let liveCount = spotlightLive ? 1 : 0;
     let comingCount = spotlightLive ? 0 : 1;
