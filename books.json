@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Orca",
-    "subtitle": "The Ocean's Apex in Black and White",
-    "description": "They hunt great white sharks for sport and have complex family cultures passed down through generations. 100 powerful facts.",
-    "cover": "https://factologyguru.github.io/8.%20ORCAS%20COVER.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GZSBFYW9",
+    "title": "100 Facts About Pangolin",
+    "subtitle": "The Articulated Artichoke",
+    "description": "The world's most trafficked mammal is also one of its most mysterious. 100 remarkable facts about the only mammal covered in scales.",
+    "cover": "https://factologyguru.github.io/9.%20PANGOLINS%20COVER.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GZW8FVWJ",
     "category": "Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Orca",
+      "subtitle": "The Ocean's Apex in Black and White",
+      "description": "They hunt great white sharks for sport and have complex family cultures passed down through generations. 100 powerful facts.",
+      "cover": "https://factologyguru.github.io/8.%20ORCAS%20COVER.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B0GZSBFYW9",
+      "category": "Animals"
+    },
     {
       "title": "100 Facts About Narwhal",
       "subtitle": "The Unicorn of the Deep",
@@ -62,14 +70,6 @@
       "description": "A salamander that never grows up, can regrow its own brain, and holds secrets scientists are only beginning to unlock. 100 jaw-dropping facts.",
       "cover": "https://factologyguru.github.io/1.%20AXOLOTLS%20COVER.jpg",
       "amazon_url": "https://www.amazon.com/dp/B0GZFJHFBB",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Pangolins",
-      "subtitle": "The Articulated Artichoke",
-      "description": "The world's most trafficked mammal is also one of its most mysterious. 100 remarkable facts about the only mammal covered in scales.",
-      "cover": "https://factologyguru.github.io/9.%20PANGOLINS%20COVER.jpg",
-      "amazon_url": "#",
       "category": "Animals"
     },
     {
