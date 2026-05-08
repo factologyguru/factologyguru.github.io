@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Pangolin",
-    "subtitle": "The Articulated Artichoke",
-    "description": "The world's most trafficked mammal is also one of its most mysterious. 100 remarkable facts about the only mammal covered in scales.",
-    "cover": "https://factologyguru.github.io/9.%20PANGOLINS%20COVER.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GZW8FVWJ",
+    "title": "100 Facts About Quokka",
+    "subtitle": "The World's Happiest Animal",
+    "description": "Always smiling, always unbothered — this tiny marsupial has taken the internet by storm. 100 delightful facts about Australia's most cheerful resident.",
+    "cover": "https://factologyguru.github.io/10.%20Quokka.mp4",
+    "amazon_url": "https://www.amazon.com/dp/B0H12814VG",
     "category": "Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Pangolin",
+      "subtitle": "The Articulated Artichoke",
+      "description": "The world's most trafficked mammal is also one of its most mysterious. 100 remarkable facts about the only mammal covered in scales.",
+      "cover": "https://factologyguru.github.io/9.%20PANGOLINS%20COVER.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B0GZW8FVWJ",
+      "category": "Animals"
+    },
     {
       "title": "100 Facts About Orca",
       "subtitle": "The Ocean's Apex in Black and White",
@@ -70,14 +78,6 @@
       "description": "A salamander that never grows up, can regrow its own brain, and holds secrets scientists are only beginning to unlock. 100 jaw-dropping facts.",
       "cover": "https://factologyguru.github.io/1.%20AXOLOTLS%20COVER.jpg",
       "amazon_url": "https://www.amazon.com/dp/B0GZFJHFBB",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Quokkas",
-      "subtitle": "The World's Happiest Animal",
-      "description": "Always smiling, always unbothered — this tiny marsupial has taken the internet by storm. 100 delightful facts about Australia's most cheerful resident.",
-      "cover": "https://factologyguru.github.io/10.%20QUOKKAS%20COVER.jpg",
-      "amazon_url": "#",
       "category": "Animals"
     },
     {
