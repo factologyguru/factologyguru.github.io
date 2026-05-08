@@ -153,7 +153,7 @@
   <div class="hero-stats">
     <div class="stat"><div class="stat-num" id="live-count">0</div><div class="stat-label">Books Live</div></div>
     <div class="stat"><div class="stat-num" id="coming-count">0</div><div class="stat-label">Books Coming</div></div>
-    <div class="stat"><div class="stat-num">2,500+</div><div class="stat-label">Facts Written</div></div>
+    <div class="stat"><div class="stat-num" id="facts-count">0</div><div class="stat-label">Facts Published</div></div>
   </div>
 </section>
 
@@ -293,6 +293,7 @@ fetch('books.json?v=' + Date.now())
 
     document.getElementById('live-count').textContent = liveCount;
     document.getElementById('coming-count').textContent = comingCount;
+    document.getElementById('facts-count').textContent = (liveCount * 100).toLocaleString() + '+';
   });
 </script>
 </body>
