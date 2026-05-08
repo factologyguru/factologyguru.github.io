@@ -3,7 +3,7 @@
     "title": "100 Facts About Quokka",
     "subtitle": "The World's Happiest Animal",
     "description": "Always smiling, always unbothered — this tiny marsupial has taken the internet by storm. 100 delightful facts about Australia's most cheerful resident.",
-    "cover": "https://factologyguru.github.io/10.%20QUOKKAS%20COVER.jpg",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20QUOKKAS%20COVER.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0H12814VG",
     "category": "Animals"
   },
@@ -12,7 +12,7 @@
       "title": "100 Facts About Pangolin",
       "subtitle": "The Articulated Artichoke",
       "description": "The world's most trafficked mammal is also one of its most mysterious. 100 remarkable facts about the only mammal covered in scales.",
-      "cover": "https://factologyguru.github.io/9.%20PANGOLINS%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20PANGOLINS%20COVER.jpg",
       "amazon_url": "https://www.amazon.com/dp/B0GZW8FVWJ",
       "category": "Animals"
     },
@@ -20,7 +20,7 @@
       "title": "100 Facts About Orca",
       "subtitle": "The Ocean's Apex in Black and White",
       "description": "They hunt great white sharks for sport and have complex family cultures passed down through generations. 100 powerful facts.",
-      "cover": "https://factologyguru.github.io/8.%20ORCAS%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20ORCAS%20COVER.jpg",
       "amazon_url": "https://www.amazon.com/dp/B0GZSBFYW9",
       "category": "Animals"
     },
@@ -28,7 +28,7 @@
       "title": "100 Facts About Narwhal",
       "subtitle": "The Unicorn of the Deep",
       "description": "That spiral tusk is actually a tooth packed with millions of nerve endings. 100 extraordinary facts about the ocean's most mythical creature.",
-      "cover": "https://factologyguru.github.io/7.%20NARWHALS%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/7.%20NARWHALS%20COVER.jpg",
       "amazon_url": "https://www.amazon.com/dp/B0GX31545F",
       "category": "Animals"
     },
@@ -36,7 +36,7 @@
       "title": "100 Facts About Immortal Jellyfish",
       "subtitle": "The Jellyfish That Refused to Die",
       "description": "The only known animal that can revert to its juvenile state and live forever. 100 stunning facts about the jellyfish that broke mortality.",
-      "cover": "https://factologyguru.github.io/6.%20IMMORTAL%20JELLYFISH%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/6.%20IMMORTAL%20JELLYFISH%20COVER.jpg",
       "amazon_url": "https://www.amazon.com/dp/B0GZLW1BH8",
       "category": "Animals"
     },
@@ -44,7 +44,7 @@
       "title": "100 Facts About Platypus",
       "subtitle": "An Evolutionary Fever Dream",
       "description": "Part duck, part beaver, part otter — and it hunts with electricity. 100 wild facts about the animal that broke every rule of biology.",
-      "cover": "https://factologyguru.github.io/5.%20PLATYPUSES%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20PLATYPUSES%20COVER.jpg",
       "amazon_url": "https://www.amazon.com/dp/B0GX32MH5B",
       "category": "Animals"
     },
@@ -52,7 +52,7 @@
       "title": "100 Facts About Tardigrade",
       "subtitle": "The Unthinkable Tiny Titan",
       "description": "They survive in volcanoes, outer space, and mass extinctions. 100 incredible facts about the most indestructible creature on Earth.",
-      "cover": "https://factologyguru.github.io/4.%20TARDIGRADES%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20TARDIGRADES%20COVER.jpg",
       "amazon_url": "https://www.amazon.com/dp/B0GZJ614SQ",
       "category": "Animals"
     },
@@ -60,7 +60,7 @@
       "title": "100 Facts About Mantis Shrimp",
       "subtitle": "The Rainbow Assassin",
       "description": "It punches with the force of a bullet, sees colors humans can't imagine, and creates underwater explosions hotter than the surface of the sun. Meet the most biologically outrageous creature in the ocean — 100 jaw-dropping facts about nature's ultimate warrior.",
-      "cover": "https://factologyguru.github.io/3.%20MANTIS%20SHRIMP%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20MANTIS%20SHRIMP%20COVER.jpg",
       "amazon_url": "https://www.amazon.com/dp/B0GX2YDZCL",
       "category": "Animals"
     },
@@ -68,7 +68,7 @@
       "title": "100 Facts About Capybara",
       "subtitle": "The Zen Master of the Animal Kingdom",
       "description": "The world's largest rodent convinced crocodiles to use it as a sofa. 100 mind-blowing facts about nature's most lovable giant.",
-      "cover": "https://factologyguru.github.io/2.%20CAPYBARAS%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20CAPYBARAS%20COVER.jpg",
       "amazon_url": "https://www.amazon.com/dp/B0GZFN93G2",
       "category": "Animals"
     },
@@ -76,7 +76,7 @@
       "title": "100 Facts About Axolotl",
       "subtitle": "The Eternal Toddler",
       "description": "A salamander that never grows up, can regrow its own brain, and holds secrets scientists are only beginning to unlock. 100 jaw-dropping facts.",
-      "cover": "https://factologyguru.github.io/1.%20AXOLOTLS%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20AXOLOTLS%20COVER.jpg",
       "amazon_url": "https://www.amazon.com/dp/B0GZFJHFBB",
       "category": "Animals"
     },
@@ -84,7 +84,7 @@
       "title": "100 Facts About Octopuses",
       "subtitle": "The Eight-Armed Alien of the Sea",
       "description": "Three hearts, blue blood, and a brain in every arm. 100 mind-bending facts about the most intelligent invertebrate on Earth.",
-      "cover": "https://factologyguru.github.io/11.%20OCTOPUSES%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/11.%20OCTOPUSES%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
@@ -92,7 +92,7 @@
       "title": "100 Facts About Sloths",
       "subtitle": "The Art of Doing Nothing",
       "description": "So slow that algae grows on their fur — and that's actually their superpower. 100 surprisingly fascinating facts about the world's most unhurried animal.",
-      "cover": "https://factologyguru.github.io/12.%20SLOTHS%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/12.%20SLOTHS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
@@ -100,7 +100,7 @@
       "title": "100 Facts About Komodo Dragons",
       "subtitle": "The Last Living Dragon",
       "description": "The world's largest lizard hunts with venom, bacteria, and terrifying patience. 100 fierce facts about the closest thing to a real dragon.",
-      "cover": "https://factologyguru.github.io/13.%20KOMODO%20DRAGONS%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/13.%20KOMODO%20DRAGONS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
@@ -108,7 +108,7 @@
       "title": "100 Facts About Snow Leopards",
       "subtitle": "The Ghost of the Mountains",
       "description": "So elusive it was considered mythical for centuries. 100 breathtaking facts about the most mysterious big cat on Earth.",
-      "cover": "https://factologyguru.github.io/14.%20SNOW%20LEOPARDS%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/14.%20SNOW%20LEOPARDS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
@@ -116,7 +116,7 @@
       "title": "100 Facts About Manta Rays",
       "subtitle": "The Ocean's Silent Giant",
       "description": "With a wingspan wider than a car and a brain bigger than any fish, the manta ray is the ocean's most graceful genius. 100 stunning facts.",
-      "cover": "https://factologyguru.github.io/15.%20MANTA%20RAYS%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/15.%20MANTA%20RAYS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
@@ -124,7 +124,7 @@
       "title": "100 Facts About Giant Squids",
       "subtitle": "The Monster of the Deep",
       "description": "Eyes the size of basketballs, arms lined with razor-sharp suckers, never fully seen alive until 2004. 100 terrifying facts about the ocean's greatest mystery.",
-      "cover": "https://factologyguru.github.io/16.%20GIANT%20SQUIDS%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/16.%20GIANT%20SQUIDS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
@@ -132,7 +132,7 @@
       "title": "100 Facts About Secretary Birds",
       "subtitle": "The Bird That Hunts Like a Ninja",
       "description": "A bird that stomps snakes to death with kicks powerful enough to break bones. 100 extraordinary facts about Africa's most striking raptor.",
-      "cover": "https://factologyguru.github.io/17.%20SECRETARY%20BIRDS%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/17.%20SECRETARY%20BIRDS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
@@ -140,7 +140,7 @@
       "title": "100 Facts About Blobfish",
       "subtitle": "The Ugliest Survivor",
       "description": "It's not actually ugly — that's just what happens when you bring a deep sea creature to the surface. 100 surprisingly fascinating facts.",
-      "cover": "https://factologyguru.github.io/18.%20BLOBFISH%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/18.%20BLOBFISH%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
@@ -148,7 +148,7 @@
       "title": "100 Facts About Leafy Sea Dragons",
       "subtitle": "The Camouflage Kings",
       "description": "Part plant, part animal, entirely magical. 100 breathtaking facts about the most beautiful and bizarre creature in the sea.",
-      "cover": "https://factologyguru.github.io/19.%20LEAFY%20SEA%20DRAGONS%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/19.%20LEAFY%20SEA%20DRAGONS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
@@ -156,7 +156,7 @@
       "title": "100 Facts About Star-Nosed Moles",
       "subtitle": "The Star-Faced Digger",
       "description": "With 22 pink tentacles on its face and the fastest eating speed of any mammal, this creature is pure biological madness. 100 wild facts.",
-      "cover": "https://factologyguru.github.io/20.%20STAR-NOSED%20MOLES%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/20.%20STAR-NOSED%20MOLES%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
@@ -164,7 +164,7 @@
       "title": "100 Facts About Mimic Octopuses",
       "subtitle": "The Master of Disguise",
       "description": "It can impersonate over 15 different species on demand. 100 astonishing facts about the ocean's most cunning shape-shifter.",
-      "cover": "https://factologyguru.github.io/21.%20MIMIC%20OCTOPUSES%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/21.%20MIMIC%20OCTOPUSES%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
@@ -172,7 +172,7 @@
       "title": "100 Facts About Pistol Shrimp",
       "subtitle": "The Fastest Gun in the Ocean",
       "description": "A shrimp that creates a bubble hotter than the sun with a snap of its claw. 100 explosive facts about the ocean's smallest but deadliest hunter.",
-      "cover": "https://factologyguru.github.io/22.%20PISTOL%20SHRIMP%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/22.%20PISTOL%20SHRIMP%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
@@ -180,7 +180,7 @@
       "title": "100 Facts About Flying Squirrels",
       "subtitle": "The Flying Rodent",
       "description": "They don't actually fly — they glide up to 300 feet through the night sky. 100 soaring facts about nature's ultimate daredevil.",
-      "cover": "https://factologyguru.github.io/23.%20FLYING%20SQUIRRELS%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/23.%20FLYING%20SQUIRRELS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
@@ -188,7 +188,7 @@
       "title": "100 Facts About Honey Badgers",
       "subtitle": "The Fearless Chaos Machine",
       "description": "It attacks lions, survives snake venom, and escapes every enclosure ever built for it. 100 fearless facts about nature's toughest animal.",
-      "cover": "https://factologyguru.github.io/24.%20HONEY%20BADGERS%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/24.%20HONEY%20BADGERS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
@@ -196,9 +196,209 @@
       "title": "100 Facts About Peacocks",
       "subtitle": "The King of Colors",
       "description": "Those iridescent feathers contain no blue or green pigment — it's pure physics creating the color. 100 dazzling facts about the world's most spectacular bird.",
-      "cover": "https://factologyguru.github.io/25.%20PEACOCKS%20COVER.jpg",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20PEACOCKS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
+    },
+    {
+      "title": "100 Facts About Black Holes",
+      "subtitle": "The Universe's Ultimate Trap",
+      "description": "The most extreme objects in the universe — where gravity is so strong that not even light escapes. 100 mind-bending facts about the universe's ultimate trap.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20Black%20Holes%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About The Moon",
+      "subtitle": "Earth's Ancient Companion",
+      "description": "It controls our tides, lit our nights for millennia, and got us to dream of reaching it. 100 fascinating facts about Earth's ancient and faithful companion.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20The%20Moon%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About Mars",
+      "subtitle": "The Planet We Can't Stop Dreaming About",
+      "description": "Red, cold, and covered in the tallest volcanoes in the solar system. 100 remarkable facts about the planet humanity can't stop dreaming about.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Mars%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About The James Webb Telescope",
+      "subtitle": "Humanity's Deepest Eye",
+      "description": "The most powerful eye humanity has ever pointed at the cosmos. 100 extraordinary facts about the telescope rewriting everything we thought we knew.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20The%20James%20Webb%20Telescope%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About The Big Bang",
+      "subtitle": "The 13.8-Billion-Year Story",
+      "description": "Everything — all matter, space, and time — exploded from a single point 13.8 billion years ago. 100 incredible facts about how our universe was born.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20The%20Big%20Bang%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About The Fermi Paradox",
+      "subtitle": "Where Is Everybody?",
+      "description": "If the universe is so vast and old, where is everybody? 100 thought-provoking facts about one of science's greatest unsolved mysteries.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/6.%20The%20Fermi%20Paradox%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About Dark Matter",
+      "subtitle": "The Invisible Architect of Everything",
+      "description": "It makes up 85% of all matter in the universe and we can't see, touch or detect it directly. 100 fascinating facts about the invisible architect of everything.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/7.%20Dark%20Matter%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About The Solar System",
+      "subtitle": "Our Cosmic Neighborhood",
+      "description": "Eight planets, dozens of moons, millions of asteroids and one magnificent star. 100 spectacular facts about our cosmic neighborhood.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20The%20Solar%20System%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About Supernovas",
+      "subtitle": "The Most Violent Deaths in the Universe",
+      "description": "The most violent explosions in the universe — so bright they outshine entire galaxies. 100 explosive facts about the dramatic deaths of stars.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20Supernovas%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About The Hubble Space Telescope",
+      "subtitle": "The Eye That Changed Everything",
+      "description": "Launched with a flaw and repaired in orbit, it went on to change everything we know about the cosmos. 100 remarkable facts about the eye that changed everything.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20The%20Hubble%20Space%20telescope%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About Saturn",
+      "subtitle": "The Ringed Wonder",
+      "description": "The ringed wonder of the solar system with over 290 confirmed moons and rings made of ice and rock. 100 stunning facts about the most beautiful planet we know.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/11.%20Saturn%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About Jupiter",
+      "subtitle": "King of the Planets",
+      "description": "The king of the planets — so massive it could swallow every other planet combined. 100 colossal facts about our solar system's giant protector.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/12.%20Jupiter%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About The Sun",
+      "subtitle": "The Star That Made You",
+      "description": "Every atom in your body was forged in a star just like it. 100 blazing facts about the star that made you, feeds you, and keeps you alive.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/13.%20The%20Sun%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About Neutron Stars",
+      "subtitle": "The Densest Objects You'll Never Touch",
+      "description": "A teaspoon weighs a billion tons. They spin hundreds of times per second. 100 dense and dramatic facts about the universe's most extreme objects.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/14.%20Neutron%20Stars%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About Exoplanets",
+      "subtitle": "Worlds Beyond Our Sun",
+      "description": "Over 5,000 worlds beyond our solar system — some with two suns, some raining glass. 100 extraordinary facts about worlds beyond our own.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/15.%20Exoplanets%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About Asteroids",
+      "subtitle": "The Solar System's Leftover Builders",
+      "description": "The leftover building blocks of the solar system — and occasionally, civilization-enders. 100 rocky and remarkable facts about the solar system's ancient debris.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/16.%20Asteroids%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About Comets",
+      "subtitle": "Dirty Snowballs With Billion-Mile Tails",
+      "description": "Dirty snowballs with tails millions of miles long that have terrified and inspired humanity for millennia. 100 dazzling facts about the solar system's greatest travelers.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/17.%20Comets%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About The Milky Way",
+      "subtitle": "The Galaxy We Call Home",
+      "description": "We live inside it but can never see it whole. A spiral galaxy of 400 billion stars — and we're on one tiny arm. 100 breathtaking facts about the galaxy we call home.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/18.%20The%20Milky%20Way%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About Nebulae",
+      "subtitle": "The Universe's Greatest Art",
+      "description": "The universe's greatest art — vast clouds of gas and dust where stars are born and die. 100 colorful and cosmic facts about the universe's most beautiful objects.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/19.%20Nebulae%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About The Voyager Probes",
+      "subtitle": "Humanity's Farthest Reach",
+      "description": "Launched in 1977 and still sending data from beyond our solar system. 100 extraordinary facts about humanity's farthest and most loyal ambassadors.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/20.%20The%20Voyager%20Probe%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About The International Space Station",
+      "subtitle": "Humanity's Outpost in Orbit",
+      "description": "A football-field-sized laboratory orbiting at 17,500 mph where humans have lived continuously since 2000. 100 fascinating facts about humanity's outpost in orbit.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/21.%20The%20International%20Space%20Station%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About Pluto",
+      "subtitle": "The Planet That Fought Back",
+      "description": "Discovered, loved, demoted — but never forgotten. 100 heartfelt and surprising facts about the solar system's most famous underdog.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/22.%20Pluto%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About The Northern Lights",
+      "subtitle": "Nature's Greatest Light Show",
+      "description": "Nature's greatest light show — caused by the sun's fury colliding with Earth's magnetic shield. 100 glowing facts about the aurora borealis.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/23.%20The%20Northern%20Lights%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About Gravity",
+      "subtitle": "The Force That Shapes Everything",
+      "description": "The invisible force that holds galaxies together, keeps your feet on the ground, and bends the fabric of space itself. 100 weighty facts about the force that shapes everything.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/24.%20Gravity%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
+    },
+    {
+      "title": "100 Facts About The Speed of Light",
+      "subtitle": "The Universe's Only Speed Limit",
+      "description": "299,792,458 meters per second — the universe's only true speed limit. 100 illuminating facts about the fastest thing in existence.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Speed%20of%20Light%20Cover.jpg",
+      "amazon_url": "#",
+      "category": "Space"
     }
   ]
 }
