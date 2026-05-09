@@ -1,21 +1,13 @@
 {
   "spotlight": {
     "title": "100 Facts About Black Holes",
-    "subtitle": "",
-    "description": "",
+    "subtitle": "The Universe's Ultimate Trap",
+    "description": "The most extreme objects in the universe — where gravity is so strong that not even light escapes. 100 mind-bending facts about the universe's ultimate trap.",
     "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20Black%20Holes%20Cover.jpg",
     "amazon_url": "https://www.amazon.com/dp/B0GYW7DPZX",
     "category": "Space and the Universe"
   },
   "books": [
-    {
-      "title": "100 Facts About Black Holes",
-      "subtitle": "The Universe's Ultimate Trap",
-      "description": "The most extreme objects in the universe — where gravity is so strong that not even light escapes. 100 mind-bending facts about the universe's ultimate trap.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20Black%20Holes%20Cover.jpg",
-      "amazon_url": "https://www.amazon.com/dp/B0GYW7DPZX",
-      "category": "Animals"
-    },
     {
       "title": "100 Facts About Quokka",
       "subtitle": "The World's Happiest Animal",
