@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Mars",
-    "subtitle": "The Planet We Can't Stop Dreaming About",
-    "description": "Red, cold, and covered in the tallest volcanoes in the solar system. 100 remarkable facts about the planet humanity can't stop dreaming about.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Mars%20Cover.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H19J59X4",
+    "title": "100 Facts About The James Webb Telescope",
+    "subtitle": "Humanity's Deepest Eye",
+    "description": "The most powerful eye humanity has ever pointed at the cosmos. 100 extraordinary facts about the telescope rewriting everything we thought we knew.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20The%20James%20Webb%20Telescope%20Cover.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GZGK9QT3",
     "category": "Space and the Universe"
   },
   "books": [
+    {
+      "title": "100 Facts About Mars",
+      "subtitle": "The Planet We Can't Stop Dreaming About",
+      "description": "Red, cold, and covered in the tallest volcanoes in the solar system. 100 remarkable facts about the planet humanity can't stop dreaming about.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Mars%20Cover.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B0H19J59X4",
+      "category": "Space and the Universe"
+    },
     {
       "title": "100 Facts About The Moon",
       "subtitle": "Earth's Ancient Companion",
@@ -223,14 +231,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20PEACOCKS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
-    },
-    {
-      "title": "100 Facts About The James Webb Telescope",
-      "subtitle": "Humanity's Deepest Eye",
-      "description": "The most powerful eye humanity has ever pointed at the cosmos. 100 extraordinary facts about the telescope rewriting everything we thought we knew.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20The%20James%20Webb%20Telescope%20Cover.jpg",
-      "amazon_url": "#",
-      "category": "Space"
     },
     {
       "title": "100 Facts About The Big Bang",
