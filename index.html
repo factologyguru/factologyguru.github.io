@@ -296,6 +296,9 @@ fetch('books.json?v=' + Date.now())
     document.getElementById('live-count').textContent = liveCount;
     document.getElementById('coming-count').textContent = comingCount;
     document.getElementById('facts-count').textContent = (liveCount * 100).toLocaleString() + '+';
+    document.querySelector('meta[name="description"]').setAttribute('content', `Factology Guru — ${liveCount} books live across Animals, Space, and Mystery. 100 verified facts per book. Available on Amazon Kindle.`);
+    document.querySelector('meta[property="og:description"]').setAttribute('content', `${liveCount} books live. Deep dives into the world's most fascinating subjects — one fact at a time.`);
+    document.querySelector('meta[name="twitter:description"]').setAttribute('content', `${liveCount} books live. Deep dives into the world's most fascinating subjects — one fact at a time.`);
   });
 </script>
 </body>
