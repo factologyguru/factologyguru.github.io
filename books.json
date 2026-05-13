@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The James Webb Telescope",
-    "subtitle": "Humanity's Deepest Eye",
-    "description": "The most powerful eye humanity has ever pointed at the cosmos. 100 extraordinary facts about the telescope rewriting everything we thought we knew.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20The%20James%20Webb%20Telescope%20Cover.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GZGK9QT3",
-    "category": "Space and the Universe"
+    "title": "100 Facts About The Bermuda Triangle",
+    "subtitle": "The Ocean's Most Dangerous Secret",
+    "description": "Hundreds of ships and planes have vanished without a trace in a 500,000-square-mile stretch of the Atlantic. 100 verified facts about the world's most infamous maritime mystery.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20Bermuda%20Triangle.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1K9TZ1L",
+    "category": "Mystery"
   },
   "books": [
+    {
+      "title": "100 Facts About The James Webb Telescope",
+      "subtitle": "Humanity's Deepest Eye",
+      "description": "The most powerful eye humanity has ever pointed at the cosmos. 100 extraordinary facts about the telescope rewriting everything we thought we knew.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20The%20James%20Webb%20Telescope%20Cover.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B0GZGK9QT3",
+      "category": "Space and the Universe"
+    },
     {
       "title": "100 Facts About Mars",
       "subtitle": "The Planet We Can't Stop Dreaming About",
@@ -399,14 +407,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Speed%20of%20Light%20Cover.jpg",
       "amazon_url": "#",
       "category": "Space"
-    },
-    {
-      "title": "100 Facts About The Bermuda Triangle",
-      "subtitle": "The Ocean's Most Dangerous Secret",
-      "description": "Hundreds of ships and planes have vanished without a trace in a 500,000-square-mile stretch of the Atlantic. 100 verified facts about the world's most infamous maritime mystery.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20Bermuda%20Triangle.jpg",
-      "amazon_url": "#",
-      "category": "Mystery, Lost History and The Unexplained"
     },
     {
       "title": "100 Facts About Atlantis",
