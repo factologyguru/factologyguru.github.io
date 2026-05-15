@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Big Bang",
-    "subtitle": "The 13.8-Billion-Year Story",
-    "description": "Everything — all matter, space, and time — exploded from a single point 13.8 billion years ago. 100 incredible facts about how our universe was born.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20The%20Big%20Bang%20Cover.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GX2WRB61",
-    "category": "Space"
+    "title": "100 Facts About Lost Civilizations",
+    "subtitle": "The Worlds That Vanished Without a Trace",
+    "description": "Entire cultures that built empires, wrote laws, and disappeared. 100 remarkable facts about the civilizations history forgot.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Lost%20Civilizations.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H1V42JB4",
+    "category": "Mystery"
   },
   "books": [
+    {
+      "title": "100 Facts About The Big Bang",
+      "subtitle": "The 13.8-Billion-Year Story",
+      "description": "Everything — all matter, space, and time — exploded from a single point 13.8 billion years ago. 100 incredible facts about how our universe was born.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20The%20Big%20Bang%20Cover.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B0GX2WRB61",
+      "category": "Space"
+    },
     {
       "title": "100 Facts About Atlantis",
       "subtitle": "The Lost World That Refuses to Stay Lost",
@@ -415,14 +423,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Speed%20of%20Light%20Cover.jpg",
       "amazon_url": "#",
       "category": "Space"
-    },
-    {
-      "title": "100 Facts About Lost Civilizations",
-      "subtitle": "The Worlds That Vanished Without a Trace",
-      "description": "Entire cultures that built empires, wrote laws, and disappeared. 100 remarkable facts about the civilizations history forgot.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Lost%20Civilizations.jpg",
-      "amazon_url": "#",
-      "category": "Mystery, Lost History and The Unexplained"
     },
     {
       "title": "100 Facts About Ghost Ships",
