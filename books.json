@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Octopus",
-    "subtitle": "The Eight-Armed Alien of the Sea",
-    "description": "Three hearts, blue blood, and a brain in every arm. 100 mind-bending facts about the most intelligent invertebrate on Earth.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/11.%20OCTOPUSES%20COVER.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H1YHBLBN",
-    "category": "Animals"
+    "title": "100 Facts About The Fermi Paradox",
+    "subtitle": "Where Is Everybody?",
+    "description": "If the universe is so vast and old, where is everybody? 100 thought-provoking facts about one of science's greatest unsolved mysteries.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/6.%20The%20Fermi%20Paradox%20Cover.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2217GTW",
+    "category": "Space"
   },
   "books": [
+    {
+      "title": "100 Facts About Octopus",
+      "subtitle": "The Eight-Armed Alien of the Sea",
+      "description": "Three hearts, blue blood, and a brain in every arm. 100 mind-bending facts about the most intelligent invertebrate on Earth.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/11.%20OCTOPUSES%20COVER.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B0H1YHBLBN",
+      "category": "Animals"
+    },
     {
       "title": "100 Facts About Lost Civilizations",
       "subtitle": "The Worlds That Vanished Without a Trace",
@@ -255,14 +263,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20PEACOCKS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
-    },
-    {
-      "title": "100 Facts About The Fermi Paradox",
-      "subtitle": "Where Is Everybody?",
-      "description": "If the universe is so vast and old, where is everybody? 100 thought-provoking facts about one of science's greatest unsolved mysteries.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/6.%20The%20Fermi%20Paradox%20Cover.jpg",
-      "amazon_url": "#",
-      "category": "Space"
     },
     {
       "title": "100 Facts About Dark Matter",
