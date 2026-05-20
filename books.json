@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Sloth",
-    "subtitle": "The Art of Doing Nothing",
-    "description": "So slow that algae grows on their fur — and that's actually their superpower. 100 surprisingly fascinating facts about the world's most unhurried animal.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/12.%20SLOTHS%20COVER.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2B2JLFX",
+    "title": "100 Facts About Snow Leopard",
+    "subtitle": "The Ghost of the Mountains",
+    "description": "So elusive it was considered mythical for centuries. 100 breathtaking facts about the most mysterious big cat on Earth.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/14.%20SNOW%20LEOPARDS%20COVER.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0GX3CSS62",
     "category": "Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Sloth",
+      "subtitle": "The Art of Doing Nothing",
+      "description": "So slow that algae grows on their fur — and that's actually their superpower. 100 surprisingly fascinating facts about the world's most unhurried animal.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/12.%20SLOTHS%20COVER.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B0H2B2JLFX",
+      "category": "Animals"
+    },
     {
       "title": "100 Facts About Dark Matter",
       "subtitle": "The Invisible Architect of Everything",
@@ -189,14 +197,6 @@
       "subtitle": "The Last Living Dragon",
       "description": "The world's largest lizard hunts with venom, bacteria, and terrifying patience. 100 fierce facts about the closest thing to a real dragon.",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/13.%20KOMODO%20DRAGONS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Snow Leopards",
-      "subtitle": "The Ghost of the Mountains",
-      "description": "So elusive it was considered mythical for centuries. 100 breathtaking facts about the most mysterious big cat on Earth.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/14.%20SNOW%20LEOPARDS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
