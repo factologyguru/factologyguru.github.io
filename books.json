@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Snow Leopard",
-    "subtitle": "The Ghost of the Mountains",
-    "description": "So elusive it was considered mythical for centuries. 100 breathtaking facts about the most mysterious big cat on Earth.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/14.%20SNOW%20LEOPARDS%20COVER.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0GX3CSS62",
-    "category": "Animals"
+    "title": "100 Facts About The Solar System",
+    "subtitle": "Our Cosmic Neighborhood",
+    "description": "Eight planets, dozens of moons, millions of asteroids and one magnificent star. 100 spectacular facts about our cosmic neighborhood.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20The%20Solar%20System%20Cover.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2G85J2Q",
+    "category": "Space"
   },
   "books": [
+    {
+      "title": "100 Facts About Snow Leopard",
+      "subtitle": "The Ghost of the Mountains",
+      "description": "So elusive it was considered mythical for centuries. 100 breathtaking facts about the most mysterious big cat on Earth.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/14.%20SNOW%20LEOPARDS%20COVER.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B0GX3CSS62",
+      "category": "Animals"
+    },
     {
       "title": "100 Facts About Sloth",
       "subtitle": "The Art of Doing Nothing",
@@ -287,14 +295,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20PEACOCKS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
-    },
-    {
-      "title": "100 Facts About The Solar System",
-      "subtitle": "Our Cosmic Neighborhood",
-      "description": "Eight planets, dozens of moons, millions of asteroids and one magnificent star. 100 spectacular facts about our cosmic neighborhood.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20The%20Solar%20System%20Cover.jpg",
-      "amazon_url": "#",
-      "category": "Space"
     },
     {
       "title": "100 Facts About Supernovas",
