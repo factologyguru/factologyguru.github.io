@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Hubble Space Telescope",
-    "subtitle": "The Eye That Changed Everything",
-    "description": "Launched with a flaw and repaired in orbit, it went on to change everything we know about the cosmos. 100 remarkable facts about the eye that changed everything.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20The%20Hubble%20Space%20telescope%20Cover.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2QYL2G5",
-    "category": "Space"
+    "title": "100 Facts About The Mary Celeste",
+    "subtitle": "Sailing, But Nobody Onboard",
+    "description": "A fully stocked ship found drifting in the Atlantic with no crew, no distress signal, and no explanation. 100 forensic facts about history's greatest maritime mystery.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/26.%20The%20Mary%20Celeste.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2RGHSND",
+    "category": "Mystery"
   },
   "books": [
+    {
+      "title": "100 Facts About The Hubble Space Telescope",
+      "subtitle": "The Eye That Changed Everything",
+      "description": "Launched with a flaw and repaired in orbit, it went on to change everything we know about the cosmos. 100 remarkable facts about the eye that changed everything.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20The%20Hubble%20Space%20telescope%20Cover.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B0H2QYL2G5",
+      "category": "Space"
+    },
     {
       "title": "100 Facts About Supernovas",
       "subtitle": "The Most Violent Deaths in the Universe",
@@ -601,604 +609,596 @@
       "category": "Mystery, Lost History and The Unexplained"
     },
     {
-  "title": "100 Facts About The Mary Celeste",
-  "subtitle": "Sailing, But Nobody Onboard",
-  "description": "A fully stocked ship found drifting in the Atlantic with no crew, no distress signal, and no explanation. 100 forensic facts about history's greatest maritime mystery.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/26.%20The%20Mary%20Celeste.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Carroll A. Deering",
-  "subtitle": "The Ghost Ship of Diamond Shoals",
-  "description": "Found run aground with sails set, meals cooking, and every crew member gone. 100 chilling facts about the ghost ship that baffled the US government.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/27.%20The%20Carroll%20A.%20Deering.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Ourang Medan",
-  "subtitle": "The Death Ship",
-  "description": "A distress signal, a ship full of corpses frozen in terror, and a vessel that exploded before anyone could ask questions. 100 haunting facts about the deadliest ghost ship ever reported.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/28.%20The%20Ourang%20Medan.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The SS Baychimo",
-  "subtitle": "The Ghost Ship That Wouldn't Sink",
-  "description": "Abandoned in Arctic ice in 1931, it kept reappearing unmanned for decades across thousands of miles of ocean. 100 extraordinary facts about the ship that refused to die.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/29.%20The%20SS%20Baychimo.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Kaz II",
-  "subtitle": "Drifting With No Crew",
-  "description": "Engine running, table set, life jackets on board, crew gone. 100 unsettling facts about the modern ghost yacht nobody can explain.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/30.%20The%20Kaz%20II.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Indus Valley Civilization",
-  "subtitle": "Millions Left No Trace",
-  "description": "A Bronze Age supercivilization of over a million people with running water, city planning, and no armies — that vanished without a war. 100 extraordinary facts about history's most peaceful lost empire.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/31.%20The%20Indus%20Valley%20Civilization.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Minoans",
-  "subtitle": "Europe's First Civilization",
-  "description": "Europe's first great civilization built palaces, traded across the Mediterranean, and collapsed completely around 1450 BC with no clear explanation. 100 fascinating facts about the ancient world's greatest vanishing act.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/32.%20The%20Minoans.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About Cahokia",
-  "subtitle": "North America's Lost Metropolis",
-  "description": "A pre-Columbian city larger than London that rose, thrived, and was completely abandoned centuries before Europeans arrived. 100 stunning facts about America's forgotten ancient metropolis.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/33.%20Cahokia.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Khmer Empire",
-  "subtitle": "Swallowed by the Jungle",
-  "description": "They built Angkor Wat, ruled Southeast Asia for centuries, and then disappeared into the jungle they had conquered. 100 incredible facts about the empire the trees took back.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/34.%20The%20Khmer%20Empire.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About Tartaria",
-  "subtitle": "Erased From History",
-  "description": "Old maps show a massive empire called Tartaria spanning half the world. Modern history books don't mention it once. 100 facts about the civilization the internet can't stop investigating.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/35.%20Tartaria.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Franklin Expedition",
-  "subtitle": "Ice Defeated Britain",
-  "description": "Britain's most advanced Arctic expedition sailed in 1845 with 129 men, two warships, and enough supplies for years. None of them came back. 100 frozen facts about the Royal Navy's greatest disaster.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/36.%20The%20Franklin%20Expedition.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Donner Party",
-  "subtitle": "Trapped by Mountain Snow",
-  "description": "Stranded in the Sierra Nevada with no food and no rescue coming, a wagon train made a decision history never forgot. 100 brutal facts about survival's darkest chapter.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/37.%20The%20Donner%20Party.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About Percy Fawcett",
-  "subtitle": "The Jungle Kept Him Forever",
-  "description": "A legendary British explorer walked into the Amazon in 1925 searching for a lost city of gold and was never seen again. 100 extraordinary facts about history's most famous disappearance.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/38.%20Percy%20Fawcett.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The USS Cyclops",
-  "subtitle": "Vanished Without a Trace",
-  "description": "A US Navy collier carrying 309 men vanished in 1918 without a distress signal, a wreck, or a single body ever found. 100 haunting facts about the Navy's greatest unsolved loss.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/39.%20The%20USS%20Cyclops.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Anasazi",
-  "subtitle": "The Cliff Builders That Moved On",
-  "description": "They carved entire cities into canyon walls, mastered desert survival for centuries, and then abandoned everything overnight. 100 remarkable facts about the Ancient Pueblo people who left without looking back.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/40.%20The%20Anasazi.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Kryptos Sculpture",
-  "subtitle": "The Code the CIA Can't Crack",
-  "description": "It sits in the courtyard of CIA headquarters. It has four encrypted messages. Three have been solved. One has defeated the world's best codebreakers for decades. 100 cryptic facts about the most famous unsolved code on earth.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/41.%20The%20Kryptos%20Sculpture.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Dorabella Cipher",
-  "subtitle": "Elgar's Secret Message",
-  "description": "In 1897 composer Edward Elgar sent a friend a letter written in a code nobody has ever cracked. 100 fascinating facts about music's most enduring encrypted secret.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/42.%20The%20Dorabella%20Cipher.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Beale Ciphers",
-  "subtitle": "Millions Hidden Behind Code",
-  "description": "Three encrypted documents. One decoded. Two still unbroken. And supposedly a fortune in gold and silver buried somewhere in Virginia waiting for whoever cracks them. 100 addictive facts about the world's most valuable unsolved code.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/43.%20The%20Beale%20Ciphers.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Zodiac Letters",
-  "subtitle": "A Killer's Code Still Unbroken",
-  "description": "He taunted police with encrypted letters, claimed dozens of victims, and was never caught. 100 chilling facts about the Zodiac Killer's coded messages that still haven't been fully solved.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/44.%20The%20Zodiac%20Letters.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Taman Shud Case",
-  "subtitle": "The Mystery Man of Somerton Beach",
-  "description": "A dead man on an Australian beach with no identity, no cause of death, a hidden note with an uncracked code, and zero answers 75 years later. 100 gripping facts about the world's most baffling cold case.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/45.%20The%20Taman%20Shud%20Case.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Amber Room",
-  "subtitle": "Looted and Never Found",
-  "description": "Called the Eighth Wonder of the World, the Amber Room was looted by the Nazis in 1941 and has never been seen since. 100 dazzling facts about history's most valuable missing masterpiece.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/46.%20The%20Amber%20Room.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Beale Treasure",
-  "subtitle": "Millions Still Waiting Underground",
-  "description": "Somewhere in Bedford County, Virginia, a fortune in gold, silver, and jewels has been buried since the 1820s. The map exists. The code is the problem. 100 treasure-hunting facts about America's greatest buried mystery.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/47.%20The%20Beale%20Treasure.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About Yamashita's Gold",
-  "subtitle": "Treasure Hunters Still Digging",
-  "description": "Japanese forces supposedly buried billions in looted Asian treasure across the Philippines before their defeat. Decades of digging have found tunnels, booby traps, and more questions. 100 extraordinary facts about the war fortune nobody has claimed.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/48.%20Yamashitas%20Gold.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Lost Dutchman Mine",
-  "subtitle": "Arizona's Endless Hunt",
-  "description": "Somewhere in Arizona's Superstition Mountains hides a gold mine so rich and so cursed that it has driven searchers to madness and death for over a century. 100 gripping facts about America's most dangerous treasure hunt.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/49.%20The%20Lost%20Dutchman%20Mine.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Copper Scroll Treasure",
-  "subtitle": "Ancient Wealth Still Hidden",
-  "description": "Unlike the other Dead Sea Scrolls, this one isn't scripture. It's a treasure map listing 64 locations of hidden gold and silver worth billions. None of it has ever been found. 100 astonishing facts about the scroll that changed everything.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/50.%20The%20Copper%20Scroll%20Treasure.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Yonaguni Monument",
-  "subtitle": "Japan's Submerged Enigma",
-  "description": "A massive underwater stone structure off the coast of Japan with terraced platforms, right angles, and no scientific consensus on whether humans built it. 100 mind-bending facts about the pyramid beneath the waves.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/51.%20The%20Yonaguni%20Monument.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About Pavlopetri",
-  "subtitle": "Ancient Streets Beneath the Sea",
-  "description": "A 5,000 year old city sits perfectly preserved on the ocean floor off the coast of Greece, with streets, buildings, and courtyards still intact. 100 incredible facts about the oldest submerged city ever discovered.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/52.%20Pavlopetri.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About Dwarka",
-  "subtitle": "India's Sunken Sacred City",
-  "description": "Hindu scriptures described Krishna's golden city of Dwarka for thousands of years. Then divers found it submerged off the coast of India. 100 extraordinary facts about the sacred city the ocean swallowed.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/53.%20Dwarka.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About Port Royal",
-  "subtitle": "Pirate Capital Lost to Sea",
-  "description": "The most lawless city on earth, home to pirates, privateers, and every vice imaginable, sank into the Caribbean in minutes during the 1692 earthquake. 100 wild facts about the city too wicked to survive.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/54.%20Port%20Royal.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About Heracleion",
-  "subtitle": "Egypt's Drowned Gateway",
-  "description": "For 1,200 years, Egypt's greatest port city lay hidden under the Mediterranean. Then divers found it almost perfectly intact. 100 stunning facts about the ancient gateway the sea reclaimed.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/55.%20Heracleion.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About Derinkuyu",
-  "subtitle": "The City Under the City",
-  "description": "Carved 18 floors straight down into Turkish rock, Derinkuyu could hide 20,000 people from any threat on the surface. 100 incredible facts about the deepest underground city ever discovered.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/56.%20Derinkuyu.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About Cappadocia",
-  "subtitle": "City of Tunnels and Secrets",
-  "description": "Beneath the fairy chimneys of central Turkey lies an entire underground world of tunnels, cities, and chambers carved by ancient hands. 100 fascinating facts about the civilization that moved below ground.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/57.%20Cappadocia.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Wieliczka Salt Mine",
-  "subtitle": "The Subterranean Salt Cathedral",
-  "description": "Seven centuries of mining carved out a world beneath Poland's surface complete with chapels, ballrooms, and lakes — all sculpted entirely from salt. 100 extraordinary facts about the underground cathedral nobody expected.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/58.%20The%20Wieliczka%20Salt%20Mine.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About Coober Pedy",
-  "subtitle": "Life Beneath the Outback",
-  "description": "When the Australian outback hits 50 degrees, you don't fight it — you go underground. 100 remarkable facts about the opal mining town where homes, hotels, and churches are all carved into the earth.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/59.%20Coober%20Pedy.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Catacombs of Paris",
-  "subtitle": "Skulls and Bones Beneath the City of Light",
-  "description": "Beneath the most glamorous city on earth lie 300 kilometers of tunnels holding the bones of six million people. 100 dark and gripping facts about Paris's underground empire of the dead.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/60.%20The%20Catacombs%20of%20Paris.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Baghdad Battery",
-  "subtitle": "Power Before Its Time",
-  "description": "A 2,000 year old clay jar found in Iraq appears to generate electricity when filled with an acidic liquid. 100 electrifying facts about the ancient device that shouldn't exist.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/61.%20The%20Baghdad%20Battery.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Antikythera Mechanism",
-  "subtitle": "Ancient Tech Too Advanced",
-  "description": "A 2,000 year old Greek device with more than 30 interlocking bronze gears that tracked the movements of the sun, moon, and planets. 100 mind-blowing facts about the world's first computer.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/62.%20The%20Antikythera%20Mechanism.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Saqqara Bird",
-  "subtitle": "Ancient Dream of Flight",
-  "description": "A wooden bird found in an Egyptian tomb has aerodynamic properties so precise that some researchers believe it represents ancient knowledge of flight. 100 soaring facts about Egypt's most debated artifact.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/63.%20The%20Saqqara%20Bird.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Dendera Light",
-  "subtitle": "The First Lightbulb?",
-  "description": "Stone carvings inside an Egyptian temple appear to show a working electric lightbulb 2,000 years before Edison. 100 illuminating facts about the ancient image that rewrites technological history.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/64.%20The%20Dendera%20Light.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Piri Reis Map",
-  "subtitle": "The Impossible Chart",
-  "description": "A 1513 Ottoman map accurately shows the Antarctic coastline 300 years before Antarctica was officially discovered. 100 astonishing facts about the map that should not exist.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/65.%20The%20Piri%20Reis%20Map.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About Amelia Earhart's Disappearance",
-  "subtitle": "The Flight That Failed the Dream",
-  "description": "The world's most famous aviator took off to circle the globe in 1937 and was never seen again. 100 gripping facts about aviation's greatest unsolved mystery.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/66.%20Amelia%20Earharts%20Disappearance.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About D.B. Cooper",
-  "subtitle": "A Ghost in the Sky",
-  "description": "In 1971 a man hijacked a plane, extorted $200,000, parachuted into a storm over the Pacific Northwest, and was never identified or found. 100 thrilling facts about America's only unsolved air piracy case.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/67.%20D.B.%20Cooper.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About Jimmy Hoffa's Disappearance",
-  "subtitle": "America's Most Famous Missing Body",
-  "description": "The most powerful union boss in American history walked into a Detroit parking lot in 1975 and was never seen again. 100 explosive facts about the disappearance that still haunts American organized crime.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/68.%20Jimmy%20Hoffas%20Disappearance.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Princes in the Tower",
-  "subtitle": "Vanished for a Throne",
-  "description": "Two young English princes were locked in the Tower of London in 1483 and never seen again. Their uncle became king. 100 royal facts about England's most chilling unsolved murder.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/69.%20The%20Princes%20in%20the%20Tower.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Sodder Children",
-  "subtitle": "The Fire That Left No Graves",
-  "description": "Five children vanished during a Christmas Eve house fire in 1945. No remains were ever found. Their parents never stopped believing they were alive. 100 heartbreaking facts about America's most haunting cold case.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/70.%20The%20Sodder%20Children.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Vatican Secret Archives",
-  "subtitle": "History Behind Locked Doors",
-  "description": "85 kilometers of shelving, documents spanning 12 centuries, and access granted to almost nobody. 100 extraordinary facts about the most restricted library in human history.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/71.%20The%20Vatican%20Secret%20Archives.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Svalbard Vault",
-  "subtitle": "Humanity's Backup for Doomsday",
-  "description": "Buried inside an Arctic mountain on a remote Norwegian island sits the world's largest seed bank, designed to survive any catastrophe civilization can produce. 100 vital facts about humanity's ultimate insurance policy.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/72.%20The%20Svalbard%20Vault.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About Fort Knox",
-  "subtitle": "The Stronghold of America's Reserves",
-  "description": "The most secure building in America supposedly holds the nation's gold reserves. Nobody outside the government has verified it since 1974. 100 guarded facts about the vault everyone talks about and nobody gets inside.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/73.%20Fort%20Knox.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Iron Mountain Vault",
-  "subtitle": "Guarding History",
-  "description": "A former limestone mine in Pennsylvania now stores the world's most irreplaceable records, from Hollywood masters to the DNA of extinct species. 100 fascinating facts about the facility holding civilization's backup copy.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/74.%20The%20Iron%20Mountain%20Vault.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Greenbrier Bunker",
-  "subtitle": "Cold War Worries",
-  "description": "For 30 years, a luxury five-star resort in West Virginia hid a fully equipped nuclear bunker designed to shelter the entire US Congress after an atomic attack. 100 classified facts about America's most elegant secret.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/75.%20The%20Greenbrier%20Bunker.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Death of Edgar Allan Poe",
-  "subtitle": "Missing for Four Days",
-  "description": "America's master of horror was found delirious on a Baltimore street in 1849, died four days later, and the cause was never established. 100 dark facts about literature's most mysterious death.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/76.%20The%20Death%20of%20Edgar%20Allan%20Poe.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Death of Nikola Tesla",
-  "subtitle": "His Life's Work Gone",
-  "description": "The inventor who lit the world died alone in a New York hotel room and had his papers seized by government agents within hours. 100 electrifying facts about the genius whose secrets died with him.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/77.%20The%20Death%20of%20Nikola%20Tesla.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Black Dahlia",
-  "subtitle": "Broken Hollywood Dream",
-  "description": "Elizabeth Short came to Hollywood with a dream and was found murdered in a vacant lot in 1947 in the most shocking crime scene LA had ever seen. 100 haunting facts about Hollywood's most famous unsolved murder.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/78.%20The%20Black%20Dahlia.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Death of Elisa Lam",
-  "subtitle": "Elevator to Nowhere",
-  "description": "A 21-year-old tourist was found dead in a rooftop water tank at the Cecil Hotel after surveillance footage of her bizarre behavior in an elevator went viral worldwide. 100 unsettling facts about the case that haunted the internet.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/79.%20The%20Death%20of%20Elisa%20Lam.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Death of William Desmond Taylor",
-  "subtitle": "The Director's Last Scene",
-  "description": "Hollywood's most powerful director was shot dead in 1922, the investigation was immediately tampered with, and no one was ever charged. 100 glamorous and gritty facts about the murder that exposed old Hollywood's darkest secrets.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/80.%20The%20Death%20of%20William%20Desmond%20Taylor.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Nazi Gold Train",
-  "subtitle": "The Golden Myth",
-  "description": "A train loaded with Nazi gold, artwork, and treasure supposedly disappeared into a Polish mountain tunnel at the end of World War Two. 100 gripping facts about Europe's most hunted buried fortune.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/81.%20The%20Nazi%20Gold%20Train.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About Operation Bernhard",
-  "subtitle": "The Audacious Pound Plot",
-  "description": "The Nazis forged over 130 million British pounds in the most ambitious counterfeiting operation in history, using concentration camp prisoners as the workforce. 100 shocking facts about the plot that nearly broke Britain's economy.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/82.%20Operation%20Bernhard.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Quedlinburg Treasures",
-  "subtitle": "Masterpieces Stolen in War",
-  "description": "A Texas soldier packed priceless medieval relics into his duffel bag during World War Two and hid them in a Texas cave for decades. 100 extraordinary facts about the greatest art theft in American military history.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/83.%20The%20Quedlinburg%20Treasures.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About Goering's Art Hoard",
-  "subtitle": "Looting Europe's Soul",
-  "description": "Hermann Goering personally looted over 1,300 masterpieces from across occupied Europe, building the greatest stolen art collection in history. 100 staggering facts about the Nazi who tried to steal a civilization's culture.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/84.%20Gorings%20Art%20Hoard.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Merkers Mine",
-  "subtitle": "The Nazi Gold Vault",
-  "description": "In April 1945 American soldiers stumbled into a German salt mine packed with Nazi gold, currency, and looted art worth billions. 100 astonishing facts about the greatest single treasure discovery of World War Two.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/85.%20Merkers%20Mine.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Hope Diamond",
-  "subtitle": "The Curse in Blue",
-  "description": "The world's most famous gemstone has passed through the hands of kings, collectors, and thieves, leaving a trail of misfortune, madness, and death in its wake. 100 dazzling facts about the most cursed diamond in history.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/86.%20The%20Hope%20Diamond.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Crying Boy Paintings",
-  "subtitle": "Surviving the Inferno",
-  "description": "Mass-produced portraits of crying children were reportedly found undamaged in the ruins of dozens of house fires across Britain in the 1980s. 100 eerie facts about the paintings the flames refused to destroy.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/87.%20The%20Crying%20Boy%20Paintings.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Dybbuk Box",
-  "subtitle": "The Cabinet of Misfortune",
-  "description": "A Jewish wine cabinet sold on eBay came with a warning, a history of nightmares, and a chain of owners who all reported the same terrifying experiences. 100 spine-chilling facts about the most haunted object ever listed online.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/88.%20The%20Dybbuk%20Box.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Delhi Purple Sapphire",
-  "subtitle": "Fortune's Dark Jewel",
-  "description": "Stolen from an Indian temple in 1857, this gemstone left a trail of illness, bankruptcy, and suicide among every owner until it was donated to a museum with a warning letter attached. 100 cursed facts about the gem nobody wanted to keep.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/89.%20The%20Delhi%20Purple%20Sapphire.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Basano Vase",
-  "subtitle": "Silver Vessel of Doom",
-  "description": "A 15th century Italian silver vase was found with a note warning of its curse. Four owners died shortly after acquiring it. A museum refused to accept it. 100 chilling facts about the vase nobody wants to own.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/90.%20The%20Basano%20Vase.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Ark of the Covenant",
-  "subtitle": "Sacred Treasure Hunted Forever",
-  "description": "The gold chest built to hold the Ten Commandments has been sought by armies, explorers, and governments for 2,500 years and has never been found. 100 extraordinary facts about history's most searched sacred object.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/91.%20The%20Ark%20of%20the%20Covenant.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Holy Grail",
-  "subtitle": "The Quest for Eternity",
-  "description": "The cup used at the Last Supper has inspired crusades, obsessions, and centuries of searching by everyone from medieval knights to modern treasure hunters. 100 sacred facts about the most sought object in Western history.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/92.%20The%20Holy%20Grail.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Shroud of Turin",
-  "subtitle": "Image Science Can't Explain",
-  "description": "A linen cloth bearing the image of a crucified man has survived fires, wars, and centuries of scientific testing without producing a definitive answer. 100 remarkable facts about the burial cloth that keeps defeating science.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/93.%20The%20Shroud%20of%20Turin.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Spear of Destiny",
-  "subtitle": "Lance of Divine Power",
-  "description": "The Roman lance that pierced Jesus at the crucifixion has been claimed by Charlemagne, Napoleon, and Hitler, each believing it granted world domination. 100 powerful facts about the weapon every conqueror wanted to own.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/94.%20The%20Spear%20of%20Destiny.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Lost Tablets of Gilgamesh",
-  "subtitle": "Epic Older Than the Bible",
-  "description": "Clay tablets over 4,000 years old tell the story of a great flood, a search for immortality, and a hero's journey that predates every holy book on earth. 100 ancient facts about humanity's oldest written epic.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/95.%20The%20Lost%20Tablets%20of%20Gilgamesh.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Lost Roman Legion",
-  "subtitle": "Rome's Vanished Ninth",
-  "description": "The Ninth Legion marched into northern Britain around 120 AD and was never recorded again. No battle, no surrender, no explanation. 100 gripping facts about Rome's most famous military disappearance.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/96.%20The%20Lost%20Roman%20Legion.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Dancing Plague of 1518",
-  "subtitle": "When a Town Danced For Weeks",
-  "description": "In July 1518 a woman in Strasbourg began dancing uncontrollably. Within weeks hundreds had joined her and couldn't stop. Nobody knows why. 100 bizarre facts about history's strangest mass hysteria event.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/97.%20The%20Dancing%20Plague%20of%201518.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Wow! Signal",
-  "subtitle": "Echo of Extraterrestrial Contact",
-  "description": "On August 15, 1977 a radio telescope detected a 72-second signal so powerful and so structured that the astronomer who found it wrote WOW in the margin. It has never been detected again. 100 cosmic facts about the most compelling evidence of alien contact ever recorded.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/98.%20The%20Wow%20Signal.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Taos Hum",
-  "subtitle": "Mystery Sound Heard by Few",
-  "description": "A persistent low-frequency hum has been heard by residents of Taos, New Mexico for decades. No source has ever been identified. 100 resonating facts about the sound that drives people to madness.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/99.%20The%20Taos%20Hum.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-},
-{
-  "title": "100 Facts About The Green Children of Woolpit",
-  "subtitle": "Medieval Tale of Strangers",
-  "description": "Two green-skinned children appeared in a 12th century English village speaking an unknown language, eating only raw beans, and claiming to come from a land without sun. 100 extraordinary facts about history's most inexplicable arrival.",
-  "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/100.%20The%20Green%20Children%20of%20Woolpit.jpg",
-  "amazon_url": "#",
-  "category": "Mystery"
-}
+      "title": "100 Facts About The Carroll A. Deering",
+      "subtitle": "The Ghost Ship of Diamond Shoals",
+      "description": "Found run aground with sails set, meals cooking, and every crew member gone. 100 chilling facts about the ghost ship that baffled the US government.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/27.%20The%20Carroll%20A.%20Deering.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Ourang Medan",
+      "subtitle": "The Death Ship",
+      "description": "A distress signal, a ship full of corpses frozen in terror, and a vessel that exploded before anyone could ask questions. 100 haunting facts about the deadliest ghost ship ever reported.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/28.%20The%20Ourang%20Medan.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The SS Baychimo",
+      "subtitle": "The Ghost Ship That Wouldn't Sink",
+      "description": "Abandoned in Arctic ice in 1931, it kept reappearing unmanned for decades across thousands of miles of ocean. 100 extraordinary facts about the ship that refused to die.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/29.%20The%20SS%20Baychimo.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Kaz II",
+      "subtitle": "Drifting With No Crew",
+      "description": "Engine running, table set, life jackets on board, crew gone. 100 unsettling facts about the modern ghost yacht nobody can explain.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/30.%20The%20Kaz%20II.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Indus Valley Civilization",
+      "subtitle": "Millions Left No Trace",
+      "description": "A Bronze Age supercivilization of over a million people with running water, city planning, and no armies — that vanished without a war. 100 extraordinary facts about history's most peaceful lost empire.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/31.%20The%20Indus%20Valley%20Civilization.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Minoans",
+      "subtitle": "Europe's First Civilization",
+      "description": "Europe's first great civilization built palaces, traded across the Mediterranean, and collapsed completely around 1450 BC with no clear explanation. 100 fascinating facts about the ancient world's greatest vanishing act.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/32.%20The%20Minoans.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About Cahokia",
+      "subtitle": "North America's Lost Metropolis",
+      "description": "A pre-Columbian city larger than London that rose, thrived, and was completely abandoned centuries before Europeans arrived. 100 stunning facts about America's forgotten ancient metropolis.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/33.%20Cahokia.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Khmer Empire",
+      "subtitle": "Swallowed by the Jungle",
+      "description": "They built Angkor Wat, ruled Southeast Asia for centuries, and then disappeared into the jungle they had conquered. 100 incredible facts about the empire the trees took back.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/34.%20The%20Khmer%20Empire.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About Tartaria",
+      "subtitle": "Erased From History",
+      "description": "Old maps show a massive empire called Tartaria spanning half the world. Modern history books don't mention it once. 100 facts about the civilization the internet can't stop investigating.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/35.%20Tartaria.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Franklin Expedition",
+      "subtitle": "Ice Defeated Britain",
+      "description": "Britain's most advanced Arctic expedition sailed in 1845 with 129 men, two warships, and enough supplies for years. None of them came back. 100 frozen facts about the Royal Navy's greatest disaster.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/36.%20The%20Franklin%20Expedition.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Donner Party",
+      "subtitle": "Trapped by Mountain Snow",
+      "description": "Stranded in the Sierra Nevada with no food and no rescue coming, a wagon train made a decision history never forgot. 100 brutal facts about survival's darkest chapter.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/37.%20The%20Donner%20Party.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About Percy Fawcett",
+      "subtitle": "The Jungle Kept Him Forever",
+      "description": "A legendary British explorer walked into the Amazon in 1925 searching for a lost city of gold and was never seen again. 100 extraordinary facts about history's most famous disappearance.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/38.%20Percy%20Fawcett.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The USS Cyclops",
+      "subtitle": "Vanished Without a Trace",
+      "description": "A US Navy collier carrying 309 men vanished in 1918 without a distress signal, a wreck, or a single body ever found. 100 haunting facts about the Navy's greatest unsolved loss.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/39.%20The%20USS%20Cyclops.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Anasazi",
+      "subtitle": "The Cliff Builders That Moved On",
+      "description": "They carved entire cities into canyon walls, mastered desert survival for centuries, and then abandoned everything overnight. 100 remarkable facts about the Ancient Pueblo people who left without looking back.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/40.%20The%20Anasazi.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Kryptos Sculpture",
+      "subtitle": "The Code the CIA Can't Crack",
+      "description": "It sits in the courtyard of CIA headquarters. It has four encrypted messages. Three have been solved. One has defeated the world's best codebreakers for decades. 100 cryptic facts about the most famous unsolved code on earth.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/41.%20The%20Kryptos%20Sculpture.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Dorabella Cipher",
+      "subtitle": "Elgar's Secret Message",
+      "description": "In 1897 composer Edward Elgar sent a friend a letter written in a code nobody has ever cracked. 100 fascinating facts about music's most enduring encrypted secret.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/42.%20The%20Dorabella%20Cipher.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Beale Ciphers",
+      "subtitle": "Millions Hidden Behind Code",
+      "description": "Three encrypted documents. One decoded. Two still unbroken. And supposedly a fortune in gold and silver buried somewhere in Virginia waiting for whoever cracks them. 100 addictive facts about the world's most valuable unsolved code.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/43.%20The%20Beale%20Ciphers.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Zodiac Letters",
+      "subtitle": "A Killer's Code Still Unbroken",
+      "description": "He taunted police with encrypted letters, claimed dozens of victims, and was never caught. 100 chilling facts about the Zodiac Killer's coded messages that still haven't been fully solved.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/44.%20The%20Zodiac%20Letters.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Taman Shud Case",
+      "subtitle": "The Mystery Man of Somerton Beach",
+      "description": "A dead man on an Australian beach with no identity, no cause of death, a hidden note with an uncracked code, and zero answers 75 years later. 100 gripping facts about the world's most baffling cold case.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/45.%20The%20Taman%20Shud%20Case.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Amber Room",
+      "subtitle": "Looted and Never Found",
+      "description": "Called the Eighth Wonder of the World, the Amber Room was looted by the Nazis in 1941 and has never been seen since. 100 dazzling facts about history's most valuable missing masterpiece.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/46.%20The%20Amber%20Room.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Beale Treasure",
+      "subtitle": "Millions Still Waiting Underground",
+      "description": "Somewhere in Bedford County, Virginia, a fortune in gold, silver, and jewels has been buried since the 1820s. The map exists. The code is the problem. 100 treasure-hunting facts about America's greatest buried mystery.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/47.%20The%20Beale%20Treasure.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About Yamashita's Gold",
+      "subtitle": "Treasure Hunters Still Digging",
+      "description": "Japanese forces supposedly buried billions in looted Asian treasure across the Philippines before their defeat. Decades of digging have found tunnels, booby traps, and more questions. 100 extraordinary facts about the war fortune nobody has claimed.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/48.%20Yamashitas%20Gold.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Lost Dutchman Mine",
+      "subtitle": "Arizona's Endless Hunt",
+      "description": "Somewhere in Arizona's Superstition Mountains hides a gold mine so rich and so cursed that it has driven searchers to madness and death for over a century. 100 gripping facts about America's most dangerous treasure hunt.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/49.%20The%20Lost%20Dutchman%20Mine.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Copper Scroll Treasure",
+      "subtitle": "Ancient Wealth Still Hidden",
+      "description": "Unlike the other Dead Sea Scrolls, this one isn't scripture. It's a treasure map listing 64 locations of hidden gold and silver worth billions. None of it has ever been found. 100 astonishing facts about the scroll that changed everything.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/50.%20The%20Copper%20Scroll%20Treasure.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Yonaguni Monument",
+      "subtitle": "Japan's Submerged Enigma",
+      "description": "A massive underwater stone structure off the coast of Japan with terraced platforms, right angles, and no scientific consensus on whether humans built it. 100 mind-bending facts about the pyramid beneath the waves.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/51.%20The%20Yonaguni%20Monument.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About Pavlopetri",
+      "subtitle": "Ancient Streets Beneath the Sea",
+      "description": "A 5,000 year old city sits perfectly preserved on the ocean floor off the coast of Greece, with streets, buildings, and courtyards still intact. 100 incredible facts about the oldest submerged city ever discovered.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/52.%20Pavlopetri.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About Dwarka",
+      "subtitle": "India's Sunken Sacred City",
+      "description": "Hindu scriptures described Krishna's golden city of Dwarka for thousands of years. Then divers found it submerged off the coast of India. 100 extraordinary facts about the sacred city the ocean swallowed.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/53.%20Dwarka.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About Port Royal",
+      "subtitle": "Pirate Capital Lost to Sea",
+      "description": "The most lawless city on earth, home to pirates, privateers, and every vice imaginable, sank into the Caribbean in minutes during the 1692 earthquake. 100 wild facts about the city too wicked to survive.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/54.%20Port%20Royal.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About Heracleion",
+      "subtitle": "Egypt's Drowned Gateway",
+      "description": "For 1,200 years, Egypt's greatest port city lay hidden under the Mediterranean. Then divers found it almost perfectly intact. 100 stunning facts about the ancient gateway the sea reclaimed.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/55.%20Heracleion.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About Derinkuyu",
+      "subtitle": "The City Under the City",
+      "description": "Carved 18 floors straight down into Turkish rock, Derinkuyu could hide 20,000 people from any threat on the surface. 100 incredible facts about the deepest underground city ever discovered.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/56.%20Derinkuyu.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About Cappadocia",
+      "subtitle": "City of Tunnels and Secrets",
+      "description": "Beneath the fairy chimneys of central Turkey lies an entire underground world of tunnels, cities, and chambers carved by ancient hands. 100 fascinating facts about the civilization that moved below ground.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/57.%20Cappadocia.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Wieliczka Salt Mine",
+      "subtitle": "The Subterranean Salt Cathedral",
+      "description": "Seven centuries of mining carved out a world beneath Poland's surface complete with chapels, ballrooms, and lakes — all sculpted entirely from salt. 100 extraordinary facts about the underground cathedral nobody expected.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/58.%20The%20Wieliczka%20Salt%20Mine.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About Coober Pedy",
+      "subtitle": "Life Beneath the Outback",
+      "description": "When the Australian outback hits 50 degrees, you don't fight it — you go underground. 100 remarkable facts about the opal mining town where homes, hotels, and churches are all carved into the earth.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/59.%20Coober%20Pedy.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Catacombs of Paris",
+      "subtitle": "Skulls and Bones Beneath the City of Light",
+      "description": "Beneath the most glamorous city on earth lie 300 kilometers of tunnels holding the bones of six million people. 100 dark and gripping facts about Paris's underground empire of the dead.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/60.%20The%20Catacombs%20of%20Paris.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Baghdad Battery",
+      "subtitle": "Power Before Its Time",
+      "description": "A 2,000 year old clay jar found in Iraq appears to generate electricity when filled with an acidic liquid. 100 electrifying facts about the ancient device that shouldn't exist.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/61.%20The%20Baghdad%20Battery.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Antikythera Mechanism",
+      "subtitle": "Ancient Tech Too Advanced",
+      "description": "A 2,000 year old Greek device with more than 30 interlocking bronze gears that tracked the movements of the sun, moon, and planets. 100 mind-blowing facts about the world's first computer.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/62.%20The%20Antikythera%20Mechanism.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Saqqara Bird",
+      "subtitle": "Ancient Dream of Flight",
+      "description": "A wooden bird found in an Egyptian tomb has aerodynamic properties so precise that some researchers believe it represents ancient knowledge of flight. 100 soaring facts about Egypt's most debated artifact.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/63.%20The%20Saqqara%20Bird.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Dendera Light",
+      "subtitle": "The First Lightbulb?",
+      "description": "Stone carvings inside an Egyptian temple appear to show a working electric lightbulb 2,000 years before Edison. 100 illuminating facts about the ancient image that rewrites technological history.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/64.%20The%20Dendera%20Light.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Piri Reis Map",
+      "subtitle": "The Impossible Chart",
+      "description": "A 1513 Ottoman map accurately shows the Antarctic coastline 300 years before Antarctica was officially discovered. 100 astonishing facts about the map that should not exist.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/65.%20The%20Piri%20Reis%20Map.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About Amelia Earhart's Disappearance",
+      "subtitle": "The Flight That Failed the Dream",
+      "description": "The world's most famous aviator took off to circle the globe in 1937 and was never seen again. 100 gripping facts about aviation's greatest unsolved mystery.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/66.%20Amelia%20Earharts%20Disappearance.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About D.B. Cooper",
+      "subtitle": "A Ghost in the Sky",
+      "description": "In 1971 a man hijacked a plane, extorted $200,000, parachuted into a storm over the Pacific Northwest, and was never identified or found. 100 thrilling facts about America's only unsolved air piracy case.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/67.%20D.B.%20Cooper.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About Jimmy Hoffa's Disappearance",
+      "subtitle": "America's Most Famous Missing Body",
+      "description": "The most powerful union boss in American history walked into a Detroit parking lot in 1975 and was never seen again. 100 explosive facts about the disappearance that still haunts American organized crime.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/68.%20Jimmy%20Hoffas%20Disappearance.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Princes in the Tower",
+      "subtitle": "Vanished for a Throne",
+      "description": "Two young English princes were locked in the Tower of London in 1483 and never seen again. Their uncle became king. 100 royal facts about England's most chilling unsolved murder.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/69.%20The%20Princes%20in%20the%20Tower.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Sodder Children",
+      "subtitle": "The Fire That Left No Graves",
+      "description": "Five children vanished during a Christmas Eve house fire in 1945. No remains were ever found. Their parents never stopped believing they were alive. 100 heartbreaking facts about America's most haunting cold case.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/70.%20The%20Sodder%20Children.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Vatican Secret Archives",
+      "subtitle": "History Behind Locked Doors",
+      "description": "85 kilometers of shelving, documents spanning 12 centuries, and access granted to almost nobody. 100 extraordinary facts about the most restricted library in human history.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/71.%20The%20Vatican%20Secret%20Archives.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Svalbard Vault",
+      "subtitle": "Humanity's Backup for Doomsday",
+      "description": "Buried inside an Arctic mountain on a remote Norwegian island sits the world's largest seed bank, designed to survive any catastrophe civilization can produce. 100 vital facts about humanity's ultimate insurance policy.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/72.%20The%20Svalbard%20Vault.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About Fort Knox",
+      "subtitle": "The Stronghold of America's Reserves",
+      "description": "The most secure building in America supposedly holds the nation's gold reserves. Nobody outside the government has verified it since 1974. 100 guarded facts about the vault everyone talks about and nobody gets inside.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/73.%20Fort%20Knox.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Iron Mountain Vault",
+      "subtitle": "Guarding History",
+      "description": "A former limestone mine in Pennsylvania now stores the world's most irreplaceable records, from Hollywood masters to the DNA of extinct species. 100 fascinating facts about the facility holding civilization's backup copy.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/74.%20The%20Iron%20Mountain%20Vault.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Greenbrier Bunker",
+      "subtitle": "Cold War Worries",
+      "description": "For 30 years, a luxury five-star resort in West Virginia hid a fully equipped nuclear bunker designed to shelter the entire US Congress after an atomic attack. 100 classified facts about America's most elegant secret.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/75.%20The%20Greenbrier%20Bunker.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Death of Edgar Allan Poe",
+      "subtitle": "Missing for Four Days",
+      "description": "America's master of horror was found delirious on a Baltimore street in 1849, died four days later, and the cause was never established. 100 dark facts about literature's most mysterious death.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/76.%20The%20Death%20of%20Edgar%20Allan%20Poe.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Death of Nikola Tesla",
+      "subtitle": "His Life's Work Gone",
+      "description": "The inventor who lit the world died alone in a New York hotel room and had his papers seized by government agents within hours. 100 electrifying facts about the genius whose secrets died with him.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/77.%20The%20Death%20of%20Nikola%20Tesla.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Black Dahlia",
+      "subtitle": "Broken Hollywood Dream",
+      "description": "Elizabeth Short came to Hollywood with a dream and was found murdered in a vacant lot in 1947 in the most shocking crime scene LA had ever seen. 100 haunting facts about Hollywood's most famous unsolved murder.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/78.%20The%20Black%20Dahlia.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Death of Elisa Lam",
+      "subtitle": "Elevator to Nowhere",
+      "description": "A 21-year-old tourist was found dead in a rooftop water tank at the Cecil Hotel after surveillance footage of her bizarre behavior in an elevator went viral worldwide. 100 unsettling facts about the case that haunted the internet.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/79.%20The%20Death%20of%20Elisa%20Lam.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Death of William Desmond Taylor",
+      "subtitle": "The Director's Last Scene",
+      "description": "Hollywood's most powerful director was shot dead in 1922, the investigation was immediately tampered with, and no one was ever charged. 100 glamorous and gritty facts about the murder that exposed old Hollywood's darkest secrets.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/80.%20The%20Death%20of%20William%20Desmond%20Taylor.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Nazi Gold Train",
+      "subtitle": "The Golden Myth",
+      "description": "A train loaded with Nazi gold, artwork, and treasure supposedly disappeared into a Polish mountain tunnel at the end of World War Two. 100 gripping facts about Europe's most hunted buried fortune.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/81.%20The%20Nazi%20Gold%20Train.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About Operation Bernhard",
+      "subtitle": "The Audacious Pound Plot",
+      "description": "The Nazis forged over 130 million British pounds in the most ambitious counterfeiting operation in history, using concentration camp prisoners as the workforce. 100 shocking facts about the plot that nearly broke Britain's economy.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/82.%20Operation%20Bernhard.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Quedlinburg Treasures",
+      "subtitle": "Masterpieces Stolen in War",
+      "description": "A Texas soldier packed priceless medieval relics into his duffel bag during World War Two and hid them in a Texas cave for decades. 100 extraordinary facts about the greatest art theft in American military history.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/83.%20The%20Quedlinburg%20Treasures.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About Goering's Art Hoard",
+      "subtitle": "Looting Europe's Soul",
+      "description": "Hermann Goering personally looted over 1,300 masterpieces from across occupied Europe, building the greatest stolen art collection in history. 100 staggering facts about the Nazi who tried to steal a civilization's culture.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/84.%20Gorings%20Art%20Hoard.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Merkers Mine",
+      "subtitle": "The Nazi Gold Vault",
+      "description": "In April 1945 American soldiers stumbled into a German salt mine packed with Nazi gold, currency, and looted art worth billions. 100 astonishing facts about the greatest single treasure discovery of World War Two.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/85.%20Merkers%20Mine.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Hope Diamond",
+      "subtitle": "The Curse in Blue",
+      "description": "The world's most famous gemstone has passed through the hands of kings, collectors, and thieves, leaving a trail of misfortune, madness, and death in its wake. 100 dazzling facts about the most cursed diamond in history.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/86.%20The%20Hope%20Diamond.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Crying Boy Paintings",
+      "subtitle": "Surviving the Inferno",
+      "description": "Mass-produced portraits of crying children were reportedly found undamaged in the ruins of dozens of house fires across Britain in the 1980s. 100 eerie facts about the paintings the flames refused to destroy.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/87.%20The%20Crying%20Boy%20Paintings.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Dybbuk Box",
+      "subtitle": "The Cabinet of Misfortune",
+      "description": "A Jewish wine cabinet sold on eBay came with a warning, a history of nightmares, and a chain of owners who all reported the same terrifying experiences. 100 spine-chilling facts about the most haunted object ever listed online.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/88.%20The%20Dybbuk%20Box.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Delhi Purple Sapphire",
+      "subtitle": "Fortune's Dark Jewel",
+      "description": "Stolen from an Indian temple in 1857, this gemstone left a trail of illness, bankruptcy, and suicide among every owner until it was donated to a museum with a warning letter attached. 100 cursed facts about the gem nobody wanted to keep.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/89.%20The%20Delhi%20Purple%20Sapphire.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Basano Vase",
+      "subtitle": "Silver Vessel of Doom",
+      "description": "A 15th century Italian silver vase was found with a note warning of its curse. Four owners died shortly after acquiring it. A museum refused to accept it. 100 chilling facts about the vase nobody wants to own.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/90.%20The%20Basano%20Vase.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Ark of the Covenant",
+      "subtitle": "Sacred Treasure Hunted Forever",
+      "description": "The gold chest built to hold the Ten Commandments has been sought by armies, explorers, and governments for 2,500 years and has never been found. 100 extraordinary facts about history's most searched sacred object.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/91.%20The%20Ark%20of%20the%20Covenant.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Holy Grail",
+      "subtitle": "The Quest for Eternity",
+      "description": "The cup used at the Last Supper has inspired crusades, obsessions, and centuries of searching by everyone from medieval knights to modern treasure hunters. 100 sacred facts about the most sought object in Western history.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/92.%20The%20Holy%20Grail.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Shroud of Turin",
+      "subtitle": "Image Science Can't Explain",
+      "description": "A linen cloth bearing the image of a crucified man has survived fires, wars, and centuries of scientific testing without producing a definitive answer. 100 remarkable facts about the burial cloth that keeps defeating science.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/93.%20The%20Shroud%20of%20Turin.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Spear of Destiny",
+      "subtitle": "Lance of Divine Power",
+      "description": "The Roman lance that pierced Jesus at the crucifixion has been claimed by Charlemagne, Napoleon, and Hitler, each believing it granted world domination. 100 powerful facts about the weapon every conqueror wanted to own.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/94.%20The%20Spear%20of%20Destiny.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Lost Tablets of Gilgamesh",
+      "subtitle": "Epic Older Than the Bible",
+      "description": "Clay tablets over 4,000 years old tell the story of a great flood, a search for immortality, and a hero's journey that predates every holy book on earth. 100 ancient facts about humanity's oldest written epic.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/95.%20The%20Lost%20Tablets%20of%20Gilgamesh.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Lost Roman Legion",
+      "subtitle": "Rome's Vanished Ninth",
+      "description": "The Ninth Legion marched into northern Britain around 120 AD and was never recorded again. No battle, no surrender, no explanation. 100 gripping facts about Rome's most famous military disappearance.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/96.%20The%20Lost%20Roman%20Legion.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Dancing Plague of 1518",
+      "subtitle": "When a Town Danced For Weeks",
+      "description": "In July 1518 a woman in Strasbourg began dancing uncontrollably. Within weeks hundreds had joined her and couldn't stop. Nobody knows why. 100 bizarre facts about history's strangest mass hysteria event.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/97.%20The%20Dancing%20Plague%20of%201518.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Wow! Signal",
+      "subtitle": "Echo of Extraterrestrial Contact",
+      "description": "On August 15, 1977 a radio telescope detected a 72-second signal so powerful and so structured that the astronomer who found it wrote WOW in the margin. It has never been detected again. 100 cosmic facts about the most compelling evidence of alien contact ever recorded.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/98.%20The%20Wow%20Signal.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Taos Hum",
+      "subtitle": "Mystery Sound Heard by Few",
+      "description": "A persistent low-frequency hum has been heard by residents of Taos, New Mexico for decades. No source has ever been identified. 100 resonating facts about the sound that drives people to madness.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/99.%20The%20Taos%20Hum.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    },
+    {
+      "title": "100 Facts About The Green Children of Woolpit",
+      "subtitle": "Medieval Tale of Strangers",
+      "description": "Two green-skinned children appeared in a 12th century English village speaking an unknown language, eating only raw beans, and claiming to come from a land without sun. 100 extraordinary facts about history's most inexplicable arrival.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/100.%20The%20Green%20Children%20of%20Woolpit.jpg",
+      "amazon_url": "#",
+      "category": "Mystery"
+    }
   ]
 }
