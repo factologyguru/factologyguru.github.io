@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Mary Celeste",
-    "subtitle": "Sailing, But Nobody Onboard",
-    "description": "A fully stocked ship found drifting in the Atlantic with no crew, no distress signal, and no explanation. 100 forensic facts about history's greatest maritime mystery.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/26.%20The%20Mary%20Celeste.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2RGHSND",
+    "title": "100 Facts About The Dyatlov Pass Incident",
+    "subtitle": "Nine Hikers. One Night. No Answers.",
+    "description": "Nine experienced hikers set up camp on a Siberian mountain and were never seen alive again. 100 disturbing facts about the most baffling unsolved case in modern history.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/6.%20The%20Dyatlov%20Pass%20Incident.mjpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2T1Z5YH",
     "category": "Mystery"
   },
   "books": [
+    {
+      "title": "100 Facts About The Mary Celeste",
+      "subtitle": "Sailing, But Nobody Onboard",
+      "description": "A fully stocked ship found drifting in the Atlantic with no crew, no distress signal, and no explanation. 100 forensic facts about history's greatest maritime mystery.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/26.%20The%20Mary%20Celeste.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B0H2RGHSND",
+      "category": "Mystery"
+    },
     {
       "title": "100 Facts About The Hubble Space Telescope",
       "subtitle": "The Eye That Changed Everything",
@@ -445,14 +453,6 @@
       "subtitle": "They Left and Never Came Back",
       "description": "They were experienced, equipped, and prepared. Then they were gone. 100 gripping facts about the world's most baffling disappearances on land, sea, and ice.",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20Vanished%20Expeditions.jpg",
-      "amazon_url": "#",
-      "category": "Mystery, Lost History and The Unexplained"
-    },
-    {
-      "title": "100 Facts About The Dyatlov Pass Incident",
-      "subtitle": "Nine Hikers. One Night. No Answers.",
-      "description": "Nine experienced hikers set up camp on a Siberian mountain and were never seen alive again. 100 disturbing facts about the most baffling unsolved case in modern history.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/6.%20The%20Dyatlov%20Pass%20Incident.jpg",
       "amazon_url": "#",
       "category": "Mystery, Lost History and The Unexplained"
     },
