@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Saturn",
-    "subtitle": "The Ringed Wonder",
-    "description": "The ringed wonder of the solar system with over 290 confirmed moons and rings made of ice and rock. 100 stunning facts about the most beautiful planet we know.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/11.%20Saturn%20Cover.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H2X3D25F",
-    "category": "Space"
+    "title": "100 Facts About Manta Ray",
+    "subtitle": "The Ocean's Silent Giant",
+    "description": "With a wingspan wider than a car and a brain bigger than any fish, the manta ray is the ocean's most graceful genius. 100 stunning facts.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/15.%20MANTA%20RAYS%20COVER.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H2ZLMWH9",
+    "category": "Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Saturn",
+      "subtitle": "The Ringed Wonder",
+      "description": "The ringed wonder of the solar system with over 290 confirmed moons and rings made of ice and rock. 100 stunning facts about the most beautiful planet we know.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/11.%20Saturn%20Cover.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B0H2X3D25F",
+      "category": "Space"
+    },
     {
       "title": "100 Facts About The Dyatlov Pass Incident",
       "subtitle": "Nine Hikers. One Night. No Answers.",
@@ -246,14 +254,6 @@
       "description": "A salamander that never grows up, can regrow its own brain, and holds secrets scientists are only beginning to unlock. 100 jaw-dropping facts.",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20AXOLOTLS%20COVER.jpg",
       "amazon_url": "https://www.amazon.com/dp/B0GZFJHFBB",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Manta Rays",
-      "subtitle": "The Ocean's Silent Giant",
-      "description": "With a wingspan wider than a car and a brain bigger than any fish, the manta ray is the ocean's most graceful genius. 100 stunning facts.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/15.%20MANTA%20RAYS%20COVER.jpg",
-      "amazon_url": "#",
       "category": "Animals"
     },
     {
