@@ -608,7 +608,7 @@
       "amazon_url": "#",
       "category": "Mystery, Lost History and The Unexplained"
     },
-    {
+   {
       "title": "100 Facts About The Carroll A. Deering",
       "subtitle": "The Ghost Ship of Diamond Shoals",
       "description": "Found run aground with sails set, meals cooking, and every crew member gone. 100 chilling facts about the ghost ship that baffled the US government.",
@@ -617,10 +617,10 @@
       "category": "Mystery"
     },
     {
-      "title": "100 Facts About The Ourang Medan",
-      "subtitle": "The Death Ship",
-      "description": "A distress signal, a ship full of corpses frozen in terror, and a vessel that exploded before anyone could ask questions. 100 haunting facts about the deadliest ghost ship ever reported.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/28.%20The%20Ourang%20Medan.jpg",
+      "title": "100 Facts About The MV Joyita",
+      "subtitle": "Ghost Ship Without a Crew",
+      "description": "Found adrift in the Pacific in 1955 with 25 passengers and crew gone, the vessel seaworthy and the radio still on. 100 chilling facts about the ghost ship that left no answers.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/28.%20The%20MV%20Joyita.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
@@ -673,10 +673,10 @@
       "category": "Mystery"
     },
     {
-      "title": "100 Facts About Tartaria",
-      "subtitle": "Erased From History",
-      "description": "Old maps show a massive empire called Tartaria spanning half the world. Modern history books don't mention it once. 100 facts about the civilization the internet can't stop investigating.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/35.%20Tartaria.jpg",
+      "title": "100 Facts About The Cochno Stone",
+      "subtitle": "Scotland's Unreadable Stone Map",
+      "description": "A 6,000-year-old slab covered in mysterious cup-and-ring markings — the largest collection of Bronze Age rock art in Europe — with a purpose nobody has ever explained. 100 extraordinary facts about Scotland's buried enigma.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/35.%20The%20Cochno%20Stone.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
@@ -689,10 +689,10 @@
       "category": "Mystery"
     },
     {
-      "title": "100 Facts About The Donner Party",
-      "subtitle": "Trapped by Mountain Snow",
-      "description": "Stranded in the Sierra Nevada with no food and no rescue coming, a wagon train made a decision history never forgot. 100 brutal facts about survival's darkest chapter.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/37.%20The%20Donner%20Party.jpg",
+      "title": "100 Facts About The Flannan Isles Lighthouse",
+      "subtitle": "Keepers Who Vanished",
+      "description": "In December 1900 three experienced lighthouse keepers vanished from a remote Scottish island. An overturned chair, a half-eaten meal, oilskins still hanging. No bodies. No explanation. 100 haunting facts about one of history's most baffling disappearances.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/37.%20The%20Flannan%20Isles%20Lighthouse.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
@@ -721,10 +721,10 @@
       "category": "Mystery"
     },
     {
-      "title": "100 Facts About The Kryptos Sculpture",
-      "subtitle": "The Code the CIA Can't Crack",
-      "description": "It sits in the courtyard of CIA headquarters. It has four encrypted messages. Three have been solved. One has defeated the world's best codebreakers for decades. 100 cryptic facts about the most famous unsolved code on earth.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/41.%20The%20Kryptos%20Sculpture.jpg",
+      "title": "100 Facts About Linear A",
+      "subtitle": "The Script No One Can Crack",
+      "description": "The ancient Minoan writing system has over 1,500 known inscriptions and has defeated every codebreaker for over 100 years. Every other ancient script has been deciphered. Not this one. 100 fascinating facts about history's most stubborn unsolved language.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/41.%20Linear%20A.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
@@ -745,10 +745,10 @@
       "category": "Mystery"
     },
     {
-      "title": "100 Facts About The Zodiac Letters",
-      "subtitle": "A Killer's Code Still Unbroken",
-      "description": "He taunted police with encrypted letters, claimed dozens of victims, and was never caught. 100 chilling facts about the Zodiac Killer's coded messages that still haven't been fully solved.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/44.%20The%20Zodiac%20Letters.jpg",
+      "title": "100 Facts About The Circleville Letters",
+      "subtitle": "Terror From an Anonymous Pen",
+      "description": "For nearly two decades, anonymous threatening letters terrorized residents of a small Ohio town. One person was convicted. The letters kept coming from prison. The writer was never identified. 100 gripping facts about America's most disturbing unsolved correspondence.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/44.%20The%20Circleville%20Letters.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
@@ -825,10 +825,10 @@
       "category": "Mystery"
     },
     {
-      "title": "100 Facts About Port Royal",
-      "subtitle": "Pirate Capital Lost to Sea",
-      "description": "The most lawless city on earth, home to pirates, privateers, and every vice imaginable, sank into the Caribbean in minutes during the 1692 earthquake. 100 wild facts about the city too wicked to survive.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/54.%20Port%20Royal.jpg",
+      "title": "100 Facts About The Rongorongo Script",
+      "subtitle": "Easter Island's Unbreakable Code",
+      "description": "Twenty-seven wooden tablets covered in an undeciphered script found on Easter Island. The culture that created it was wiped out before anyone recorded its meaning. 100 remarkable facts about possibly the last independent invention of writing in human history.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/54.%20The%20Rongorongo%20Script.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
@@ -857,18 +857,18 @@
       "category": "Mystery"
     },
     {
-      "title": "100 Facts About The Wieliczka Salt Mine",
-      "subtitle": "The Subterranean Salt Cathedral",
-      "description": "Seven centuries of mining carved out a world beneath Poland's surface complete with chapels, ballrooms, and lakes — all sculpted entirely from salt. 100 extraordinary facts about the underground cathedral nobody expected.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/58.%20The%20Wieliczka%20Salt%20Mine.jpg",
+      "title": "100 Facts About The Sannikov Land",
+      "subtitle": "The Island That Disappeared",
+      "description": "Multiple credible explorers reported a large Arctic island between 1811 and 1886. Soviet expeditions were sent to find it. It was never found. 100 extraordinary facts about the island that vanished from the map.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/58.%20The%20Sannikov%20Land.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
     {
-      "title": "100 Facts About Coober Pedy",
-      "subtitle": "Life Beneath the Outback",
-      "description": "When the Australian outback hits 50 degrees, you don't fight it — you go underground. 100 remarkable facts about the opal mining town where homes, hotels, and churches are all carved into the earth.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/59.%20Coober%20Pedy.jpg",
+      "title": "100 Facts About The Tunguska Event",
+      "subtitle": "Explosion With No Crater",
+      "description": "In 1908 an explosion 1,000 times more powerful than Hiroshima flattened 2,000 square kilometers of Siberian forest and left no crater. No fragment of whatever caused it has ever been conclusively found. 100 explosive facts about the largest impact event in recorded history.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/59.%20The%20Tunguska%20Event.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
@@ -881,10 +881,10 @@
       "category": "Mystery"
     },
     {
-      "title": "100 Facts About The Baghdad Battery",
-      "subtitle": "Power Before Its Time",
-      "description": "A 2,000 year old clay jar found in Iraq appears to generate electricity when filled with an acidic liquid. 100 electrifying facts about the ancient device that shouldn't exist.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/61.%20The%20Baghdad%20Battery.jpg",
+      "title": "100 Facts About The Roman Dodecahedra",
+      "subtitle": "Relics Rome Never Mentioned",
+      "description": "Over 130 hollow bronze twelve-sided objects have been found across the Roman Empire. Not a single Roman text mentions them. Their purpose remains completely unknown. 100 baffling facts about antiquity's most mysterious artifact.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/61.%20The%20Roman%20Dodecahedra.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
@@ -897,26 +897,26 @@
       "category": "Mystery"
     },
     {
-      "title": "100 Facts About The Saqqara Bird",
-      "subtitle": "Ancient Dream of Flight",
-      "description": "A wooden bird found in an Egyptian tomb has aerodynamic properties so precise that some researchers believe it represents ancient knowledge of flight. 100 soaring facts about Egypt's most debated artifact.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/63.%20The%20Saqqara%20Bird.jpg",
+      "title": "100 Facts About The Lycurgus Cup",
+      "subtitle": "The Cup That Changes Color",
+      "description": "A 4th century Roman glass cup turns from green to red depending on where light shines through it — due to nanoparticles of gold and silver embedded in the glass. Ancient nanotechnology nobody can fully explain. 100 illuminating facts about Rome's most impossible artifact.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/63.%20The%20Lycurgus%20Cup.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
     {
-      "title": "100 Facts About The Dendera Light",
-      "subtitle": "The First Lightbulb?",
-      "description": "Stone carvings inside an Egyptian temple appear to show a working electric lightbulb 2,000 years before Edison. 100 illuminating facts about the ancient image that rewrites technological history.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/64.%20The%20Dendera%20Light.jpg",
+      "title": "100 Facts About The Phaistos Disc",
+      "subtitle": "Minoan Message No One Can Read",
+      "description": "A fired clay disc from 1700 BC covered in 241 stamped symbols arranged in a spiral. The only object of its kind ever found. Never deciphered. 100 remarkable facts about the most unique mystery in archaeology.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/64.%20The%20Phaistos%20Disc.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
     {
-      "title": "100 Facts About The Piri Reis Map",
-      "subtitle": "The Impossible Chart",
-      "description": "A 1513 Ottoman map accurately shows the Antarctic coastline 300 years before Antarctica was officially discovered. 100 astonishing facts about the map that should not exist.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/65.%20The%20Piri%20Reis%20Map.jpg",
+      "title": "100 Facts About The Map of the Creator",
+      "subtitle": "The Stone That Rewrites History",
+      "description": "A stone slab found in Russia in 1999 appears to show a detailed three-dimensional relief map of the Ural region with canals, dams, and structures that should not exist. 100 controversial facts about the discovery that divided scientists.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/65.%20The%20Map%20of%20the%20Creator.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
@@ -969,26 +969,26 @@
       "category": "Mystery"
     },
     {
-      "title": "100 Facts About The Svalbard Vault",
-      "subtitle": "Humanity's Backup for Doomsday",
-      "description": "Buried inside an Arctic mountain on a remote Norwegian island sits the world's largest seed bank, designed to survive any catastrophe civilization can produce. 100 vital facts about humanity's ultimate insurance policy.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/72.%20The%20Svalbard%20Vault.jpg",
+      "title": "100 Facts About The Beaumont Children",
+      "subtitle": "Australia's Unsolved Beach Vanishing",
+      "description": "On Australia Day 1966 three children aged 4, 7 and 9 walked to the beach and never came home. No bodies. No suspects charged. Australia's biggest unsolved case. 100 heartbreaking facts about the disappearance that changed a nation.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/72.%20The%20Beaumont%20Children.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
     {
-      "title": "100 Facts About Fort Knox",
-      "subtitle": "The Stronghold of America's Reserves",
-      "description": "The most secure building in America supposedly holds the nation's gold reserves. Nobody outside the government has verified it since 1974. 100 guarded facts about the vault everyone talks about and nobody gets inside.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/73.%20Fort%20Knox.jpg",
+      "title": "100 Facts About The Overtoun Bridge",
+      "subtitle": "Where Dogs Leap to Death",
+      "description": "Since the 1950s over 600 dogs have leaped from the same spot on a Scottish stone bridge. Survivors climb back and jump again. No scientific explanation has been fully accepted. 100 haunting facts about the bridge that calls to dogs.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/73.%20The%20Overtoun%20Bridge.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
     {
-      "title": "100 Facts About The Iron Mountain Vault",
-      "subtitle": "Guarding History",
-      "description": "A former limestone mine in Pennsylvania now stores the world's most irreplaceable records, from Hollywood masters to the DNA of extinct species. 100 fascinating facts about the facility holding civilization's backup copy.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/74.%20The%20Iron%20Mountain%20Vault.jpg",
+      "title": "100 Facts About The Oakville Blobs",
+      "subtitle": "When It Rained Mystery",
+      "description": "In August 1994 a gelatinous substance rained down on Oakville, Washington six times in three weeks. Residents fell ill. Lab tests found human white blood cells inside. The government tested and never fully explained it. 100 unsettling facts about the day it rained something nobody could identify.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/74.%20The%20Oakville%20Blobs.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
@@ -1009,10 +1009,10 @@
       "category": "Mystery"
     },
     {
-      "title": "100 Facts About The Death of Nikola Tesla",
-      "subtitle": "His Life's Work Gone",
-      "description": "The inventor who lit the world died alone in a New York hotel room and had his papers seized by government agents within hours. 100 electrifying facts about the genius whose secrets died with him.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/77.%20The%20Death%20of%20Nikola%20Tesla.jpg",
+      "title": "100 Facts About The Max Headroom Broadcast Intrusion",
+      "subtitle": "TV Hijack That Stunned America",
+      "description": "In November 1987 an unknown person hijacked two Chicago television broadcasts wearing a Max Headroom mask, transmitted bizarre content, and was never identified despite FBI investigation. 100 electrifying facts about the most brazen unsolved broadcast intrusion in history.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/77.%20The%20Max%20Headroom%20Broadcast%20Intrusion.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
