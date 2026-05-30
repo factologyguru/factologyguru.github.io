@@ -1199,6 +1199,606 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/100.%20The%20Green%20Children%20of%20Woolpit.jpg",
       "amazon_url": "#",
       "category": "Mystery"
-    }
+    },
+    {
+      "title": "100 Facts About The Eiffel Tower",
+      "subtitle": "Paris Wanted It Torn Down",
+      "description": "Built as a temporary structure for the 1889 World's Fair, Paris despised it. Artists called it an eyesore. The city planned to demolish it. 100 extraordinary facts about the tower that became the most visited monument on Earth.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20Eiffel%20Tower.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Statue of Liberty",
+      "subtitle": "She Wasn't Always Green",
+      "description": "When she arrived from France, Lady Liberty was a gleaming copper brown. The green came later. So did the secrets hidden inside her torch, her crown, and her foundation. 100 stunning facts about America's most iconic symbol.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20The%20Statue%20of%20Liberty.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Burj Khalifa",
+      "subtitle": "The Building That Broke Every Record",
+      "description": "It is the tallest structure ever built by human hands. Its construction required engineering solutions that had never been attempted before. 100 staggering facts about the skyscraper that redefined what is possible.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20The%20Burj%20Khalifa.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Sydney Opera House",
+      "subtitle": "The Architect Never Saw It Finished",
+      "description": "The man who designed one of the world's most recognizable buildings was forced off the project mid-construction and never returned to see it completed. 100 remarkable facts about the building that almost never existed.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20The%20Sydney%20Opera%20House.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About Big Ben",
+      "subtitle": "It's Not Even Big Ben",
+      "description": "The name everyone uses refers to the bell inside the tower, not the tower itself. And that is just the beginning of what most people get wrong. 100 surprising facts about London's most misunderstood landmark.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20Big%20Ben.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Empire State Building",
+      "subtitle": "A Plane Once Crashed Into It",
+      "description": "In 1945 a B-25 bomber flew into the 79th floor on a foggy morning. The building survived. So did some of the people inside. 100 electrifying facts about New York's most legendary skyscraper.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/6.%20The%20Empire%20State%20Building.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Golden Gate Bridge",
+      "subtitle": "Everyone Said It Was Impossible",
+      "description": "Engineers said the currents were too strong, the fog too thick, the water too deep. They were wrong. 100 breathtaking facts about the bridge that defied every prediction.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/7.%20The%20Golden%20Gate%20Bridge.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About Buckingham Palace",
+      "subtitle": "The Palace Full of Secrets",
+      "description": "Behind the gates and the famous balcony lies a building with a post office, a cinema, a swimming pool, and a history far stranger than any royal biography admits. 100 fascinating facts about the world's most famous residence.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20Buckingham%20Palace.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Colosseum",
+      "subtitle": "The Greatest Show in Human History",
+      "description": "It held 80,000 spectators. It had retractable awnings, underground tunnels, and elevators for wild animals. It hosted executions, hunts, and battles for over four centuries. 100 staggering facts about Rome's greatest arena.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20The%20Colosseum.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Taj Mahal",
+      "subtitle": "Built From a Broken Heart",
+      "description": "An emperor lost his beloved wife and spent 22 years and the labor of 20,000 workers building her a tomb. Then he was imprisoned by his own son, left to stare at it from a window until he died. 100 magnificent facts about the world's greatest monument to love.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20The%20Taj%20Mahal.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Sagrada Familia",
+      "subtitle": "140 Years and Still Not Finished",
+      "description": "Construction began in 1882. The architect who took it over was killed by a tram in 1926. The building is still not complete. 100 incredible facts about the most ambitious church ever attempted.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/11.%20The%20Sagrada%20Familia.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About Mount Rushmore",
+      "subtitle": "The Mountain With a Hidden Secret Chamber",
+      "description": "Behind Lincoln's head is a sealed chamber carved into the rock, designed to hold the most important records of American civilization. Almost no one knows it exists. 100 explosive facts about the monument carved into a sacred mountain.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/12.%20Mount%20Rushmore.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Leaning Tower of Pisa",
+      "subtitle": "They Knew It Was Tilting and Kept Going",
+      "description": "The tilt began during construction in the 12th century. They noticed. They kept building anyway. 100 astonishing facts about the engineering blunder that became one of the world's most visited monuments.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/13.%20The%20Leaning%20Tower%20of%20Pisa.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Hagia Sophia",
+      "subtitle": "Church Then Mosque Then Museum Then Mosque Again",
+      "description": "For nearly 1,000 years it was the largest cathedral in the world. Then it became a mosque, then a museum, then a mosque again. 100 extraordinary facts about the building that has survived empires, earthquakes, and centuries of reinvention.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/14.%20The%20Hagia%20Sophia.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Trevi Fountain",
+      "subtitle": "One Coin, One Wish, One Million a Year",
+      "description": "Tourists throw roughly one million euros worth of coins into this fountain every year. The money goes to charity. The wishes, as far as anyone can tell, are on their own. 100 wonderful facts about Rome's most theatrical landmark.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/15.%20The%20Trevi%20Fountain.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Acropolis of Athens",
+      "subtitle": "Where Western Civilization Was Born",
+      "description": "On this rocky hill above Athens, the foundations of democracy, philosophy, drama, and architecture were laid. The buildings are still standing after 2,500 years. 100 profound facts about the birthplace of the modern world.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/16.%20The%20Acropolis%20of%20Athens.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Notre-Dame Cathedral",
+      "subtitle": "850 Years Standing, One Night Nearly Ended It",
+      "description": "It survived the French Revolution, two World Wars, and centuries of neglect. Then on April 15, 2019, the world watched it burn. 100 gripping facts about Paris's most beloved cathedral.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/17.%20The%20Notre-Dame%20Cathedral.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Panama Canal",
+      "subtitle": "27,000 People Died to Connect Two Oceans",
+      "description": "France tried first and failed catastrophically. The United States took over and finished what became the greatest engineering project of its era, at a devastating human cost. 100 powerful facts about the canal that changed global trade forever.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/18.%20The%20Panama%20Canal.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About Times Square",
+      "subtitle": "The Most Photographed Spot on Earth",
+      "description": "It was once called Longacre Square, a hub for horse trading. Today it is the most photographed location on the planet, with over 50 million visitors a year. 100 dazzling facts about New York's most electric intersection.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/19.%20Times%20Square.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The CN Tower",
+      "subtitle": "32 Years Nobody Could Touch It",
+      "description": "From 1976 to 2009 it was the tallest free-standing structure on Earth. For 32 years nothing humans built came close. 100 towering facts about Canada's most iconic structure.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/20.%20The%20CN%20Tower.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Arc de Triomphe",
+      "subtitle": "Napoleon Never Saw It Finished",
+      "description": "Napoleon commissioned it after his greatest victory. It took 30 years to build. He was dead before it was complete. 100 triumphant facts about Paris's most powerful monument.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/21.%20The%20Arc%20de%20Triomphe.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About St. Peter's Basilica",
+      "subtitle": "120 Years to Build the Biggest Church on Earth",
+      "description": "It took 120 years, 20 architects, and the labor of thousands to complete. It consumed the wealth of the Catholic Church and sparked a religious revolution. 100 monumental facts about the largest church ever built.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/22.%20St.%20Peters%20Basilica.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Kremlin",
+      "subtitle": "Not Just a Building. A Secret City.",
+      "description": "Behind its red walls lies a complex of palaces, cathedrals, arsenals, and secrets that has been the center of Russian power for over 500 years. 100 revealing facts about the fortress at the heart of the world's largest country.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/23.%20The%20Kremlin.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Brandenburg Gate",
+      "subtitle": "It Survived Two World Wars and a Wall",
+      "description": "Napoleon marched through it. Hitler used it as a backdrop. The Berlin Wall sealed it off for 28 years. When the Wall fell, it was the first place the crowds gathered. 100 historic facts about Germany's most enduring symbol.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/24.%20The%20Brandenburg%20Gate.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Great Wall of China",
+      "subtitle": "The Biggest Thing Humans Ever Built",
+      "description": "It stretches over 13,000 miles, took centuries to build, and required the labor of millions. It did not stop the invasions it was designed to prevent. 100 immense facts about the greatest construction project in human history.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Great%20Wall%20of%20China.jpg",
+      "amazon_url": "#",
+      "category": "Landmarks"
+    },
+    {
+      "title": "100 Facts About The Great White Shark",
+      "subtitle": "Nature Built the Perfect Killing Machine",
+      "description": "It has no natural predators. It can detect a single drop of blood in 25 gallons of water. It has been hunting in Earth's oceans for 16 million years. 100 razor-sharp facts about the ocean's apex predator.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20Great%20White%20Shark.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Saltwater Crocodile",
+      "subtitle": "Unchanged for 200 Million Years for Good Reason",
+      "description": "It survived the extinction event that killed the dinosaurs. It has the strongest bite force of any living animal. Evolution has not needed to improve it. 100 ancient and terrifying facts about the world's largest reptile.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20The%20Saltwater%20Crocodile.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Mosquito",
+      "subtitle": "The Deadliest Creature on Earth Is Smaller Than Your Thumb",
+      "description": "It kills more humans every year than every other animal on Earth combined. Wars have been altered by it. Civilizations have been slowed by it. 100 staggering facts about the planet's most lethal insect.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20The%20Mosquito.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Box Jellyfish",
+      "subtitle": "No Brain. No Heart. Still Deadly Enough to Kill You in Minutes.",
+      "description": "It has no brain, no heart, and no bones. It also has 24 eyes and enough venom to kill 60 adult humans. 100 chilling facts about the most venomous marine creature on Earth.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20The%20Box%20Jellyfish.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Black Mamba",
+      "subtitle": "The Snake That Doesn't Miss",
+      "description": "It is the fastest snake on Earth, can strike up to 12 times in a single attack, and without antivenom its bite is nearly always fatal. 100 gripping facts about Africa's most feared serpent.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20The%20Black%20Mamba.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Hippopotamus",
+      "subtitle": "Africa's Most Dangerous Animal Isn't the Lion",
+      "description": "It looks slow. It is not slow. It kills more people in Africa every year than lions, leopards, and crocodiles combined. 100 explosive facts about the most aggressive large animal on the continent.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/6.%20The%20Hippopotamus.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The King Cobra",
+      "subtitle": "One Bite Kills an Elephant",
+      "description": "It is the longest venomous snake in the world and delivers enough neurotoxin in a single bite to kill an elephant. It also builds nests and guards its eggs. 100 commanding facts about the snake that rules them all.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/7.%20The%20King%20Cobra.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Polar Bear",
+      "subtitle": "The Arctic's Apex Predator Has No Natural Enemies",
+      "description": "Nothing hunts it. It can smell a seal through three feet of ice from a mile away. It is the largest land carnivore on Earth. 100 formidable facts about the white giant of the Arctic.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20The%20Polar%20Bear.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The African Lion",
+      "subtitle": "The King Didn't Get That Title for Nothing",
+      "description": "It is the only cat that lives and hunts in social groups. Its roar can be heard five miles away. It sleeps 20 hours a day and wakes up ready to kill. 100 majestic facts about the apex predator of the African savanna.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20The%20African%20Lion.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Nile Crocodile",
+      "subtitle": "It's Been Eating Everything in Its Path Since the Dinosaurs",
+      "description": "It has barely changed in 200 million years because it has never needed to. It is responsible for hundreds of human deaths every year across Africa. 100 ferocious facts about the river's deadliest resident.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20The%20Nile%20Crocodile.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Cassowary",
+      "subtitle": "The World's Most Dangerous Bird Looks Like a Dinosaur",
+      "description": "It cannot fly but it can run at 30 miles per hour and deliver a kick that can disembowel a human. It is the direct descendant of theropod dinosaurs. 100 prehistoric facts about the world's most dangerous bird.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/11.%20The%20Cassowary.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Cone Snail",
+      "subtitle": "The Deadliest Thing in a Pretty Shell",
+      "description": "It looks beautiful lying on the beach. Pick it up and it can fire a harpoon-like tooth that delivers venom with no known antidote. 100 lethal facts about the ocean's most deceptive killer.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/12.%20The%20Cone%20Snail.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Inland Taipan",
+      "subtitle": "Drop for Drop the Most Venomous Snake Alive",
+      "description": "A single bite contains enough venom to kill 100 adult humans. It is the most toxic venom of any land snake ever measured. 100 venomous facts about the snake that wins every comparison.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/13.%20The%20Inland%20Taipan.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Piranha",
+      "subtitle": "The Truth Is Scarier Than the Legend",
+      "description": "Hollywood exaggerated the feeding frenzy. The reality of piranha biology, hunting behavior, and documented attacks is frightening enough without the fiction. 100 razor-toothed facts about the Amazon's most notorious fish.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/14.%20The%20Piranha.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Harpy Eagle",
+      "subtitle": "Talons Bigger Than a Grizzly Bear's Claws",
+      "description": "It is the most powerful eagle on Earth. Its talons are longer than the claws of a grizzly bear and strong enough to crush bone. It hunts monkeys and sloths from the jungle canopy. 100 powerful facts about the sky's apex predator.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/15.%20The%20Harpy%20Eagle.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Grizzly Bear",
+      "subtitle": "900 Pounds of Pure Survival Instinct",
+      "description": "It can run faster than a horse over short distances, smell food from 18 miles away, and remember every food source it has ever visited. 100 formidable facts about North America's most powerful land predator.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/16.%20The%20Grizzly%20Bear.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Cape Buffalo",
+      "subtitle": "The Animal That Kills the Most Hunters in Africa",
+      "description": "It has never been domesticated. It holds grudges and has been known to ambush hunters who wounded it days earlier. It kills more big game hunters than any other animal in Africa. 100 relentless facts about the continent's most dangerous prey.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/17.%20The%20Cape%20Buffalo.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Poison Dart Frog",
+      "subtitle": "Bright Colors Are Nature's Way of Saying Stay Away",
+      "description": "The most toxic species carries enough poison to kill 10 adult humans. Indigenous hunters have used its secretions on blowgun darts for centuries. 100 vivid facts about the most colorful killers in the rainforest.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/18.%20The%20Poison%20Dart%20Frog.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Brazilian Wandering Spider",
+      "subtitle": "The World's Most Aggressive Spider Doesn't Build Webs",
+      "description": "It does not wait in a web. It wanders. It is the most venomous spider on Earth and it actively pursues threats rather than retreating from them. 100 unsettling facts about the spider that holds the Guinness record for most toxic.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/19.%20The%20Brazilian%20Wandering%20Spider.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Stonefish",
+      "subtitle": "You Won't See It Until It's Too Late",
+      "description": "It is the most venomous fish in the world and it is virtually invisible on the ocean floor. Step on one and you will know immediately. 100 excruciating facts about the ocean's greatest camouflage artist.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/20.%20The%20Stonefish.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Killer Whale",
+      "subtitle": "The Ocean's Most Intelligent Apex Predator",
+      "description": "It has no natural predators in any ocean on Earth. It teaches hunting techniques to its young, coordinates attacks with military precision, and has been documented hunting great white sharks. 100 awe-inspiring facts about the ocean's ultimate predator.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/21.%20The%20Killer%20Whale.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The African Elephant",
+      "subtitle": "The Largest Land Animal on Earth Doesn't Forget",
+      "description": "It is the largest land animal alive. It mourns its dead, recognizes itself in mirrors, and has been documented returning to the bones of fallen family members years later. 100 magnificent facts about the giant that never forgets.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/22.%20The%20African%20Elephant.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Tiger",
+      "subtitle": "The Most Powerful Cat That Ever Walked the Earth",
+      "description": "It is the largest wild cat on Earth, capable of taking down prey four times its own size. It hunts alone, strikes without warning, and leaves almost no survivors. 100 fierce facts about the planet's most powerful feline.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/23.%20The%20Tiger.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Wolverine",
+      "subtitle": "Pound for Pound the Most Fearless Animal Alive",
+      "description": "It has been documented driving grizzly bears off kills. It has no fear response that researchers can reliably trigger. Pound for pound it may be the most aggressive animal on the planet. 100 ferocious facts about the wilderness's most relentless fighter.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/24.%20The%20Wolverine.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About The Deathstalker Scorpion",
+      "subtitle": "The Most Dangerous Scorpion on the Planet",
+      "description": "It is responsible for 75 percent of all scorpion-related deaths worldwide. Its venom is a complex cocktail of neurotoxins with no single antidote. 100 venomous facts about the desert's deadliest arachnid.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Deathstalker%20Scorpion.jpg",
+      "amazon_url": "#",
+      "category": "Deadly Animals"
+    },
+    {
+      "title": "100 Facts About Coffee",
+      "subtitle": "The Most Popular Drug on Earth",
+      "description": "It is the second most traded commodity on the planet after oil. It has been banned by governments, celebrated by empires, and consumed by billions every single day. 100 energizing facts about the world's favorite stimulant.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20Coffee.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Chocolate",
+      "subtitle": "It Was Currency Before It Was Candy",
+      "description": "The Aztecs used cacao beans as money. European royalty drank it as medicine. The solid bar form was only invented 200 years ago. 100 rich facts about the world's most beloved indulgence.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20Chocolate.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Honey",
+      "subtitle": "The Only Food That Never Expires",
+      "description": "Archaeologists have found 3,000-year-old honey in Egyptian tombs that was still perfectly edible. It has been used as currency, medicine, and offering to the gods. 100 golden facts about nature's most remarkable food.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Honey.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Salt",
+      "subtitle": "Wars Were Fought Over This",
+      "description": "Roman soldiers were paid in it. Empires were built on controlling it. Gandhi defied the British Empire over it. 100 essential facts about the mineral that shaped human civilization.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20Salt.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Sugar",
+      "subtitle": "The Sweetest Poison in History",
+      "description": "It fueled the slave trade, built colonial empires, and is now the most consumed addictive substance on Earth. 100 bitter facts about the world's sweetest commodity.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20Sugar.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Beer",
+      "subtitle": "Older Than Bread and Just as Important",
+      "description": "Some archaeologists argue beer may have been the reason humans first settled and began farming. It has been medicine, currency, and daily sustenance for ten thousand years. 100 frothy facts about humanity's oldest drink.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/6.%20Beer.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Wine",
+      "subtitle": "Ten Thousand Years in a Glass",
+      "description": "The oldest evidence of winemaking dates back 8,000 years. It has been central to religion, medicine, trade, and every major civilization since. 100 intoxicating facts about the world's most storied drink.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/7.%20Wine.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Cheese",
+      "subtitle": "The Most Stolen Food on the Planet",
+      "description": "It is the most shoplifted food item in the world. It has over 1,800 documented varieties. Some of it is legally required to be made within a specific radius of a specific village. 100 aged facts about the world's most obsessively crafted food.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20Cheese.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Bread",
+      "subtitle": "The Food That Built Civilization",
+      "description": "It is 14,000 years old. It has been the foundation of every major human civilization. When it runs out, revolutions begin. 100 foundational facts about the food that fed the world.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20Bread.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Pizza",
+      "subtitle": "How a Peasant Dish Conquered the World",
+      "description": "It started as street food for the poor of Naples. Today it is a 145 billion dollar global industry. 100 saucy facts about the dish that went from peasant staple to planetary obsession.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20Pizza.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Hot Sauce",
+      "subtitle": "The Science Behind the Burn",
+      "description": "Capsaicin does not actually burn you. It tricks your brain into thinking you are on fire. Understanding why humans voluntarily seek that sensation is stranger than the sensation itself. 100 scorching facts about the world's most addictive condiment.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/11.%20Hot%20Sauce.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Ice Cream",
+      "subtitle": "The Coldest Obsession in Human History",
+      "description": "Chinese emperors ate frozen milk mixtures 2,000 years ago. By the time it reached Europe it was a luxury only royalty could afford. Today humanity consumes 15 billion liters of it per year. 100 delicious facts about the world's most beloved frozen treat.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/12.%20Ice%20Cream.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Tea",
+      "subtitle": "The Drink That Changed the World",
+      "description": "It sparked a revolution in America, drove the British Empire's trade policy, and is the second most consumed beverage on Earth after water. 100 steeped facts about the drink that moved history.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/13.%20Tea.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Sushi",
+      "subtitle": "Not What You Think It Is",
+      "description": "The original form of sushi had no raw fish and was not Japanese. It was a fermented preservation method invented in Southeast Asia. 100 surprising facts about the food the world thinks it understands.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/14.%20Sushi.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Mushrooms",
+      "subtitle": "Neither Plant Nor Animal and Stranger Than Both",
+      "description": "They are more closely related to animals than to plants. The largest living organism on Earth is a fungus. Some species can dissolve rock and communicate through underground networks. 100 extraordinary facts about the kingdom science is still figuring out.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/15.%20Mushrooms.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Olive Oil",
+      "subtitle": "Liquid Gold Since Ancient Greece",
+      "description": "The Greeks used it as currency, medicine, fuel, and cosmetic. Olympic athletes were bathed in it. Wars were fought over the trees that produced it. 100 ancient facts about the oil that built the Mediterranean world.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/16.%20Olive%20Oil.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Eggs",
+      "subtitle": "The Most Perfect Food Ever Designed",
+      "description": "It contains every nutrient needed to sustain life except Vitamin C. It has been eaten by every human civilization in recorded history. Its structure has never been improved upon by food science. 100 essential facts about the world's most complete food.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/17.%20Eggs.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Bananas",
+      "subtitle": "The World's Most Complicated Fruit",
+      "description": "The banana you eat today is a clone. The variety the world ate 60 years ago was wiped out by a fungus. The same fungus is coming for the current variety. 100 unexpected facts about the world's most popular fruit.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/18.%20Bananas.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Chili Peppers",
+      "subtitle": "Your Brain Thinks You're on Fire",
+      "description": "There is no heat. Capsaicin binds to pain receptors designed to detect actual burning. Your brain is being fooled every single time. 100 blazing facts about the fruit that conquered global cuisine.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/19.%20Chili%20Peppers.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Butter",
+      "subtitle": "From Sacred Offering to Breakfast Staple",
+      "description": "Ancient cultures buried it as an offering to the gods. Medieval Europeans used it as medicine. It has been declared both deadly and essential by nutritional science in the same century. 100 rich facts about the world's most debated spread.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/20.%20Butter.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Whiskey",
+      "subtitle": "Water of Life and Liquid History",
+      "description": "The word whiskey comes from the Gaelic for water of life. It has been medicine, currency, and the cause of a rebellion against the United States government. 100 aged facts about the spirit that runs through history.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/21.%20Whiskey.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Pasta",
+      "subtitle": "Italy Didn't Invent It and That's Just the Beginning",
+      "description": "The Chinese were eating noodles 4,000 years before Marco Polo allegedly brought pasta to Italy. The origin story most people know is almost entirely myth. 100 tangled facts about the world's most consumed staple.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/22.%20Pasta.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Bacon",
+      "subtitle": "The Most Obsessed Over Food in Human History",
+      "description": "Humans have been curing pork for over 3,000 years. In the modern era it has achieved a cultural status no other food has matched. 100 sizzling facts about the strip of meat that the world cannot stop talking about.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/23.%20Bacon.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Garlic",
+      "subtitle": "Medicine, Magic and the World's Most Powerful Ingredient",
+      "description": "Egyptian pyramid workers were paid in garlic. Roman soldiers ate it before battle. Modern science has confirmed properties that ancient medicine claimed for thousands of years. 100 pungent facts about the ingredient that has never gone out of style.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/24.%20Garlic.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Rum",
+      "subtitle": "Pirates, Revolutions and the Most Notorious Drink Ever Made",
+      "description": "It was the currency of the slave trade, the fuel of the British Navy, and the drink that bankrolled the American Revolution. 100 intoxicating facts about the spirit that built and broke empires.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20Rum.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
   ]
 }
