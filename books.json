@@ -1799,6 +1799,209 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20Rum.jpg",
       "amazon_url": "#",
       "category": "Food and Drink"
+    },
+    Here are the 25 entries ready to paste into books.json:
+
+```json
+    {
+      "title": "100 Facts About Hamburgers",
+      "subtitle": "The Sandwich Nobody Wanted to Claim",
+      "description": "Nobody agrees on who invented it. Germany claims it. America claims it. A county fair in Texas claims it. The truth is stranger than all of them. 100 surprising facts about the world's most contested sandwich.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/26.%20Hamburgers.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Kimchi",
+      "subtitle": "Older Than Most Civilizations Still Standing",
+      "description": "It has been fermenting in Korean culture for over 3,000 years. It went to space. UNESCO protected it. North and South Korea both claim they invented it. 100 pungent facts about the world's most fiercely defended dish.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/27.%20Kimchi.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Tequila",
+      "subtitle": "The Sacred Cactus Juice of Mexico",
+      "description": "It is not made from a cactus. The agave plant takes 12 years to mature. The worm in the bottle is a marketing invention. 100 eye-opening facts about Mexico's most misunderstood spirit.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/28.%20Tequila.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Pretzels",
+      "subtitle": "Baked by Monks, Eaten by Everyone",
+      "description": "A monk baked the first pretzel as a reward for children who memorized their prayers. The twisted shape represents arms folded in devotion. It became the snack of empires. 100 twisted facts about the world's oldest baked treat.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/29.%20Pretzels.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Vodka",
+      "subtitle": "The Drink That Fueled a Revolution",
+      "description": "Russia and Poland have been arguing over who invented it for 600 years. It funded the Soviet Union. It has been used as currency, medicine, and rocket fuel. 100 clear facts about the world's most politically charged spirit.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/30.%20Vodka.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Avocados",
+      "subtitle": "The Ancient Fruit That Almost Vanished",
+      "description": "It survived because one farmer in California refused to give up on it. The animals that spread its seeds went extinct 13,000 years ago. A global marketing conspiracy turned it into a lifestyle. 100 rich facts about the world's most complicated fruit.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/31.%20Avocados.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Croissants",
+      "subtitle": "Not Actually French and Never Was",
+      "description": "It was invented in Vienna, Austria. The French adopted it, refined it, and claimed it. The flaky layers were an accident. Marie Antoinette may have introduced it to Paris. 100 buttery facts about the pastry that lied about its passport.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/32.%20Croissants.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Spam",
+      "subtitle": "The Tin That Conquered the Pacific",
+      "description": "It was invented during the Great Depression. It fed Allied soldiers across three continents. Hawaii consumes more of it per capita than anywhere on Earth. 100 surprising facts about the canned meat the world cannot stop eating.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/33.%20Spam.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Gin",
+      "subtitle": "The Medicine That Destroyed a City",
+      "description": "It was invented by a Dutch doctor as a kidney medicine. The British adopted it and nearly drank themselves into collapse. The Gin Craze of 1720s London killed thousands. 100 botanically rich facts about history's most turbulent spirit.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/34.%20Gin.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Popcorn",
+      "subtitle": "Five Thousand Years Before the Movies",
+      "description": "The Aztecs used it in religious ceremonies. The first webcam was invented to monitor a popcorn machine. It is the only grain that explodes. 100 explosive facts about the world's oldest snack.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/35.%20Popcorn.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Tacos",
+      "subtitle": "Street Food That Defeated an Empire",
+      "description": "The Spanish tried to eliminate it. The Aztecs invented it. America turned it into a billion-dollar industry and then argued about authenticity. 100 crunchy facts about the most resilient street food in history.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/36.%20Tacos.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Maple Syrup",
+      "subtitle": "Canada's Liquid Gold and Dark Secret",
+      "description": "Canada controls over 70 percent of the world's supply. There is a global strategic reserve guarded like a state secret. A heist once stole 3,000 tonnes of it. 100 sticky facts about the sweetest cartel on Earth.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/37.%20Maple%20Syrup.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Bourbon",
+      "subtitle": "Born in Kentucky, Claimed by Everyone",
+      "description": "By law it can only be called bourbon if made in America. Kentucky produces 95 percent of the world's supply. A Baptist minister may have invented it by accident. 100 smooth facts about America's most fiercely protected spirit.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/38.%20Bourbon.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Ketchup",
+      "subtitle": "It Started as a Chinese Fish Sauce",
+      "description": "The original ketchup had no tomatoes. It was a fermented fish sauce from China. British sailors brought it to Europe. The tomato version took another century to arrive. 100 saucy facts about the condiment with a secret identity.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/39.%20Ketchup.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Champagne",
+      "subtitle": "The Accidental Explosion in a Bottle",
+      "description": "The bubbles were originally considered a defect. A monk tried for years to get rid of them. Napoleon took 36 bottles on every military campaign. 100 sparkling facts about the drink that turned a mistake into a celebration.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/40.%20Champagne.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Curry",
+      "subtitle": "The Dish That Does Not Exist",
+      "description": "There is no such thing as a curry plant. The word was invented by the British. India has thousands of distinct dishes that have nothing to do with each other. 100 spiced facts about the world's most misunderstood cuisine.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/41.%20Curry.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Absinthe",
+      "subtitle": "The Green Fairy Was Never the Problem",
+      "description": "It was banned across Europe for causing hallucinations. Modern science proved the hallucinations never existed. The ban lasted 100 years anyway. 100 luminous facts about the most unfairly demonized drink in history.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/42.%20Absinthe.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Mustard",
+      "subtitle": "Rome's Favorite Weapon at the Table",
+      "description": "Roman soldiers carried it into battle as medicine and seasoning. It is the world's oldest condiment. Dijon has legally protected its recipe for centuries. 100 sharp facts about the condiment that conquered every table on Earth.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/43.%20Mustard.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Caviar",
+      "subtitle": "The Fish Egg That Built an Empire",
+      "description": "Russian tsars controlled the global supply for centuries. The Soviet Union used it as a diplomatic weapon. The sturgeon that produces it is older than the dinosaurs. 100 glistening facts about the most expensive food on Earth.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/44.%20Caviar.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Cinnamon",
+      "subtitle": "Wars Were Fought Over This Bark",
+      "description": "The Portuguese invaded Sri Lanka for it. The Dutch massacred entire populations to control it. Medieval Europeans thought it came from giant bird nests in paradise. 100 aromatic facts about the spice that sparked empires.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/45.%20Cinnamon.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Worcestershire Sauce",
+      "subtitle": "Nobody Knows What's Actually In It",
+      "description": "It was invented by accident in a basement in Worcester, England. The original batch was deemed undrinkable and left to ferment for two years. The full recipe remains a trade secret. 100 mysterious facts about the sauce nobody can spell or explain.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/46.%20Worcestershire%20Sauce.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Doughnuts",
+      "subtitle": "The Fried Ring That Won Two Wars",
+      "description": "The hole was invented to solve a cooking problem. The Salvation Army handed them out to soldiers in World War I trenches. America consumes 10 billion of them every year. 100 glazed facts about the fried ring that became a cultural institution.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/47.%20Doughnuts.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Vanilla",
+      "subtitle": "The World's Second Most Expensive Spice",
+      "description": "It can only be pollinated by hand. A 12-year-old slave discovered how to do it in 1841. Madagascar controls 80 percent of global supply. 100 complex facts about the spice hiding behind its own reputation for simplicity.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/48.%20Vanilla.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Peanut Butter",
+      "subtitle": "Invented for People With No Teeth",
+      "description": "A Canadian doctor invented it in 1884 as a protein source for patients who could not chew. Marcellus Edson patented the paste. Kellogg refined it. America turned it into an obsession. 100 sticky facts about the spread that conquered the world one sandwich at a time.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/49.%20Peanut%20Butter.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
+    },
+    {
+      "title": "100 Facts About Hot Dogs",
+      "subtitle": "America's Favorite Mystery Meat",
+      "description": "Nobody agrees what is actually in it. Frankfurt and Vienna both claim they invented it. Americans eat 20 billion of them every year. 100 snapping facts about the sausage that became a national symbol.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/50.%20Hot%20Dogs.jpg",
+      "amazon_url": "#",
+      "category": "Food and Drink"
     }
   ]
 }
