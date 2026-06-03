@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Voynich Manuscript",
-    "subtitle": "The Book Nobody Can Read",
-    "description": "A 600-year-old illustrated book written in a language no one has ever decoded. 100 mind-bending facts about the most mysterious manuscript in human history.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20The%20Voynich%20Manuscript.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H3QDCP87",
-    "category": "Mystery"
+    "title": "100 Facts About Exoplanets",
+    "subtitle": "Worlds Beyond Our Sun",
+    "description": "Over 5,000 worlds beyond our solar system — some with two suns, some raining glass. 100 extraordinary facts about worlds beyond our own.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/15.%20Exoplanets%20Cover.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H3T59361",
+    "category": "Space"
   },
   "books": [
+    {
+      "title": "100 Facts About The Voynich Manuscript",
+      "subtitle": "The Book Nobody Can Read",
+      "description": "A 600-year-old illustrated book written in a language no one has ever decoded. 100 mind-bending facts about the most mysterious manuscript in human history.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20The%20Voynich%20Manuscript.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B0H3QDCP87",
+      "category": "Mystery"
+    },
     {
       "title": "100 Facts About Coffee",
       "subtitle": "The Most Popular Drug on Earth",
@@ -383,14 +391,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20PEACOCKS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Exoplanets",
-      "subtitle": "Worlds Beyond Our Sun",
-      "description": "Over 5,000 worlds beyond our solar system — some with two suns, some raining glass. 100 extraordinary facts about worlds beyond our own.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/15.%20Exoplanets%20Cover.jpg",
-      "amazon_url": "#",
-      "category": "Space"
     },
     {
       "title": "100 Facts About Asteroids",
