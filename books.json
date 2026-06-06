@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Platypuses",
-    "subtitle": "",
-    "description": "",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20PLATYPUSES%20COVER.jpg",
-    "amazon_url": "https://factologyguru.com/books/platypuses/",
+    "title": "100 Facts About Immortal Jellyfish",
+    "subtitle": "The Jellyfish That Refused to Die",
+    "description": "The only known animal that can revert to its juvenile state and live forever. 100 stunning facts about the jellyfish that broke mortality.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/6.%20IMMORTAL%20JELLYFISH%20COVER.jpg",
+    "amazon_url": "https://factologyguru.com/books/immortal-jellyfish/",
     "category": "Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Platypuses",
+      "subtitle": "",
+      "description": "",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20PLATYPUSES%20COVER.jpg",
+      "amazon_url": "https://factologyguru.com/books/platypuses/",
+      "category": "Animals"
+    },
     {
       "title": "100 Facts About Tardigrades",
       "subtitle": "",
@@ -349,14 +357,6 @@
       "subtitle": "The Unicorn of the Deep",
       "description": "That spiral tusk is actually a tooth packed with millions of nerve endings. 100 extraordinary facts about the ocean's most mythical creature.",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/7.%20NARWHALS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Immortal Jellyfish",
-      "subtitle": "The Jellyfish That Refused to Die",
-      "description": "The only known animal that can revert to its juvenile state and live forever. 100 stunning facts about the jellyfish that broke mortality.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/6.%20IMMORTAL%20JELLYFISH%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
