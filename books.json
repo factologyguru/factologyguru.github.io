@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Axolotls",
+    "title": "100 Facts About Capybaras",
     "subtitle": "",
     "description": "",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20AXOLOTLS%20COVER.jpg",
-    "amazon_url": "https://factologyguru.com/books/axolotl/",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20CAPYBARAS%20COVER.jpg",
+    "amazon_url": "https://factologyguru.com/books/capybara/",
     "category": "Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Axolotls",
+      "subtitle": "",
+      "description": "",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20AXOLOTLS%20COVER.jpg",
+      "amazon_url": "https://factologyguru.com/books/axolotl/",
+      "category": "Animals"
+    },
     {
       "title": "100 Facts About Ancient Codes and Ciphers",
       "subtitle": "Secrets Hidden in Plain Sight",
