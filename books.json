@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Ancient Codes and Ciphers",
-    "subtitle": "Secrets Hidden in Plain Sight",
-    "description": "From Caesar's cipher to the Zodiac Killer's letters — some codes were cracked, some never were. 100 fascinating facts about humanity's greatest hidden messages.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20Ancient%20Codes%20and%20Ciphers.jpg",
-    "amazon_url": "https://factologyguru.com/books/ancient-codes-and-ciphers/",
+    "title": "100 Facts About The Mary Celeste",
+    "subtitle": "Sailing, But Nobody Onboard",
+    "description": "A fully stocked ship found drifting in the Atlantic with no crew, no distress signal, and no explanation. 100 forensic facts about history's greatest maritime mystery.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/26.%20The%20Mary%20Celeste.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-mary-celeste/",
     "category": "Mystery"
   },
   "books": [
+    {
+      "title": "100 Facts About Ancient Codes and Ciphers",
+      "subtitle": "Secrets Hidden in Plain Sight",
+      "description": "From Caesar's cipher to the Zodiac Killer's letters — some codes were cracked, some never were. 100 fascinating facts about humanity's greatest hidden messages.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20Ancient%20Codes%20and%20Ciphers.jpg",
+      "amazon_url": "https://factologyguru.com/books/ancient-codes-and-ciphers/",
+      "category": "Mystery"
+    },
     {
       "title": "100 Facts About The Voynich Manuscript",
       "subtitle": "The Book Nobody Can Read",
@@ -351,14 +359,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20Coffee.jpg",
       "amazon_url": "#",
       "category": "Food and Drink"
-    },
-    {
-      "title": "100 Facts About The Mary Celeste",
-      "subtitle": "Sailing, But Nobody Onboard",
-      "description": "A fully stocked ship found drifting in the Atlantic with no crew, no distress signal, and no explanation. 100 forensic facts about history's greatest maritime mystery.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/26.%20The%20Mary%20Celeste.jpg",
-      "amazon_url": "#",
-      "category": "Mystery"
     },
     {
       "title": "100 Facts About Leafy Sea Dragons",
