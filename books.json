@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Atlantis",
-    "subtitle": "The Lost World That Refuses to Stay Lost",
-    "description": "A civilization so advanced it vanished overnight — or did it? 100 fascinating facts about the world's greatest lost city and the obsession it created.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20Atlantis.jpg",
-    "amazon_url": "https://factologyguru.com/books/atlantis/",
+    "title": "100 Facts About Lost Civilizations",
+    "subtitle": "The Worlds That Vanished Without a Trace",
+    "description": "Entire cultures that built empires, wrote laws, and disappeared. 100 remarkable facts about the civilizations history forgot.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Lost%20Civilizations.jpg",
+    "amazon_url": "https://factologyguru.com/books/lost-civilizations/",
     "category": "Mystery"
   },
   "books": [
+    {
+      "title": "100 Facts About Atlantis",
+      "subtitle": "The Lost World That Refuses to Stay Lost",
+      "description": "A civilization so advanced it vanished overnight — or did it? 100 fascinating facts about the world's greatest lost city and the obsession it created.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20Atlantis.jpg",
+      "amazon_url": "https://factologyguru.com/books/atlantis/",
+      "category": "Mystery"
+    },
     {
       "title": "100 Facts About The Bermuda Triangle",
       "subtitle": "The Ocean's Most Dangerous Secret",
@@ -349,14 +357,6 @@
       "subtitle": "Vessels That Sail With No One Aboard",
       "description": "Found drifting with meals on the table and no crew in sight. 100 chilling facts about the ocean's most haunting maritime mysteries.",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20Ghost%20Ships.jpg",
-      "amazon_url": "#",
-      "category": "Mystery"
-    },
-    {
-      "title": "100 Facts About Lost Civilizations",
-      "subtitle": "The Worlds That Vanished Without a Trace",
-      "description": "Entire cultures that built empires, wrote laws, and disappeared. 100 remarkable facts about the civilizations history forgot.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Lost%20Civilizations.jpg",
       "amazon_url": "#",
       "category": "Mystery"
     },
