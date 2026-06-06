@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Supernovas",
-    "subtitle": "The Most Violent Deaths in the Universe",
-    "description": "The most violent explosions in the universe — so bright they outshine entire galaxies. 100 explosive facts about the dramatic deaths of stars.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20Supernovas%20Cover.jpg",
-    "amazon_url": "https://factologyguru.com/books/supernovas/",
+    "title": "100 Facts About The Hubble Space Telescope",
+    "subtitle": "The Eye That Changed Everything",
+    "description": "Launched with a flaw and repaired in orbit, it went on to change everything we know about the cosmos. 100 remarkable facts about the eye that changed everything.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20The%20Hubble%20Space%20telescope%20Cover.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-hubble-space-telescope/",
     "category": "Space"
   },
   "books": [
+    {
+      "title": "100 Facts About Supernovas",
+      "subtitle": "The Most Violent Deaths in the Universe",
+      "description": "The most violent explosions in the universe — so bright they outshine entire galaxies. 100 explosive facts about the dramatic deaths of stars.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20Supernovas%20Cover.jpg",
+      "amazon_url": "https://factologyguru.com/books/supernovas/",
+      "category": "Space"
+    },
     {
       "title": "100 Facts About The Solar System",
       "subtitle": "Our Cosmic Neighborhood",
@@ -319,14 +327,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/26.%20The%20Mary%20Celeste.jpg",
       "amazon_url": "#",
       "category": "Mystery"
-    },
-    {
-      "title": "100 Facts About The Hubble Space Telescope",
-      "subtitle": "The Eye That Changed Everything",
-      "description": "Launched with a flaw and repaired in orbit, it went on to change everything we know about the cosmos. 100 remarkable facts about the eye that changed everything.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20The%20Hubble%20Space%20telescope%20Cover.jpg",
-      "amazon_url": "#",
-      "category": "Space"
     },
     {
       "title": "100 Facts About Ghost Ships",
