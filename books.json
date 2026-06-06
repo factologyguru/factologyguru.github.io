@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Orcas",
-    "subtitle": "The Ocean's Apex in Black and White",
-    "description": "They hunt great white sharks for sport and have complex family cultures passed down through generations. 100 powerful facts.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20ORCAS%20COVER.jpg",
-    "amazon_url": "https://factologyguru.com/books/orcas/",
+    "title": "100 Facts About Pangolins",
+    "subtitle": "The Articulated Artichoke",
+    "description": "The world's most trafficked mammal is also one of its most mysterious. 100 remarkable facts about the only mammal covered in scales.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20PANGOLINS%20COVER.jpg",
+    "amazon_url": "https://factologyguru.com/books/pangolins/",
     "category": "Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Orcas",
+      "subtitle": "The Ocean's Apex in Black and White",
+      "description": "They hunt great white sharks for sport and have complex family cultures passed down through generations. 100 powerful facts.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20ORCAS%20COVER.jpg",
+      "amazon_url": "https://factologyguru.com/books/orcas/",
+      "category": "Animals"
+    },
     {
       "title": "100 Facts About Narwhals",
       "subtitle": "",
@@ -349,14 +357,6 @@
       "subtitle": "The World's Happiest Animal",
       "description": "Always smiling, always unbothered — this tiny marsupial has taken the internet by storm. 100 delightful facts about Australia's most cheerful resident.",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20QUOKKAS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Pangolins",
-      "subtitle": "The Articulated Artichoke",
-      "description": "The world's most trafficked mammal is also one of its most mysterious. 100 remarkable facts about the only mammal covered in scales.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20PANGOLINS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
