@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Tardigrades",
+    "title": "100 Facts About Platypuses",
     "subtitle": "",
     "description": "",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20TARDIGRADES%20COVER.jpg",
-    "amazon_url": "https://factologyguru.com/books/tardigrades/",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20PLATYPUSES%20COVER.jpg",
+    "amazon_url": "https://factologyguru.com/books/platypuses/",
     "category": "Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Tardigrades",
+      "subtitle": "",
+      "description": "",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20TARDIGRADES%20COVER.jpg",
+      "amazon_url": "https://factologyguru.com/books/tardigrades/",
+      "category": "Animals"
+    },
     {
       "title": "100 Facts About Mantis Shrimp",
       "subtitle": "The Rainbow Assassin",
