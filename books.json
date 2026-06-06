@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Ancient Codes and Ciphers",
-    "subtitle": "Secrets Hidden in Plain Sight",
-    "description": "From Caesar's cipher to the Zodiac Killer's letters — some codes were cracked, some never were. 100 fascinating facts about humanity's greatest hidden messages.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20Ancient%20Codes%20and%20Ciphers.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H486TCQS",
-    "category": "Mystery"
+    "title": "100 Facts About Axolotls",
+    "subtitle": "",
+    "description": "",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20AXOLOTLS%20COVER.jpg",
+    "amazon_url": "https://factologyguru.com/books/axolotl/",
+    "category": "Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Ancient Codes and Ciphers",
+      "subtitle": "Secrets Hidden in Plain Sight",
+      "description": "From Caesar's cipher to the Zodiac Killer's letters — some codes were cracked, some never were. 100 fascinating facts about humanity's greatest hidden messages.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20Ancient%20Codes%20and%20Ciphers.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B0H486TCQS",
+      "category": "Mystery"
+    },
     {
       "title": "100 Facts About The Eiffel Tower",
       "subtitle": "Paris Wanted It Torn Down",
