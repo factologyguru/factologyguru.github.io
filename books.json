@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Solar System",
-    "subtitle": "Our Cosmic Neighborhood",
-    "description": "Eight planets, dozens of moons, millions of asteroids and one magnificent star. 100 spectacular facts about our cosmic neighborhood.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20The%20Solar%20System%20Cover.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-solar-system/",
+    "title": "100 Facts About Supernovas",
+    "subtitle": "The Most Violent Deaths in the Universe",
+    "description": "The most violent explosions in the universe — so bright they outshine entire galaxies. 100 explosive facts about the dramatic deaths of stars.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20Supernovas%20Cover.jpg",
+    "amazon_url": "https://factologyguru.com/books/supernovas/",
     "category": "Space"
   },
   "books": [
+    {
+      "title": "100 Facts About The Solar System",
+      "subtitle": "Our Cosmic Neighborhood",
+      "description": "Eight planets, dozens of moons, millions of asteroids and one magnificent star. 100 spectacular facts about our cosmic neighborhood.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20The%20Solar%20System%20Cover.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-solar-system/",
+      "category": "Space"
+    },
     {
       "title": "100 Facts About Dark Matter",
       "subtitle": "The Invisible Architect of Everything",
@@ -317,14 +325,6 @@
       "subtitle": "The Eye That Changed Everything",
       "description": "Launched with a flaw and repaired in orbit, it went on to change everything we know about the cosmos. 100 remarkable facts about the eye that changed everything.",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20The%20Hubble%20Space%20telescope%20Cover.jpg",
-      "amazon_url": "#",
-      "category": "Space"
-    },
-    {
-      "title": "100 Facts About Supernovas",
-      "subtitle": "The Most Violent Deaths in the Universe",
-      "description": "The most violent explosions in the universe — so bright they outshine entire galaxies. 100 explosive facts about the dramatic deaths of stars.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20Supernovas%20Cover.jpg",
       "amazon_url": "#",
       "category": "Space"
     },
