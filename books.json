@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Coffee",
-    "subtitle": "The Most Popular Drug on Earth",
-    "description": "It is the second most traded commodity on the planet after oil. It has been banned by governments, celebrated by empires, and consumed by billions every single day. 100 energizing facts about the world's favorite stimulant.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20Coffee.jpg",
-    "amazon_url": "https://factologyguru.com/books/coffee/",
+    "title": "100 Facts About Chocolate",
+    "subtitle": "It Was Currency Before It Was Candy",
+    "description": "The Aztecs used cacao beans as money. European royalty drank it as medicine. The solid bar form was only invented 200 years ago. 100 rich facts about the world's most beloved indulgence.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20Chocolate.jpg",
+    "amazon_url": "https://factologyguru.com/books/chocolate/",
     "category": "Food and Drink"
   },
   "books": [
+    {
+      "title": "100 Facts About Coffee",
+      "subtitle": "The Most Popular Drug on Earth",
+      "description": "It is the second most traded commodity on the planet after oil. It has been banned by governments, celebrated by empires, and consumed by billions every single day. 100 energizing facts about the world's favorite stimulant.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20Coffee.jpg",
+      "amazon_url": "https://factologyguru.com/books/coffee/",
+      "category": "Food and Drink"
+    },
     {
       "title": "100 Facts About The Eiffel Tower",
       "subtitle": "Paris Wanted It Torn Down",
@@ -351,14 +359,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20AXOLOTLS%20COVER.jpg",
       "amazon_url": "https://factologyguru.com/books/axolotl/",
       "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Chocolate",
-      "subtitle": "It Was Currency Before It Was Candy",
-      "description": "The Aztecs used cacao beans as money. European royalty drank it as medicine. The solid bar form was only invented 200 years ago. 100 rich facts about the world's most beloved indulgence.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20Chocolate.jpg",
-      "amazon_url": "#",
-      "category": "Food and Drink"
     },
     {
       "title": "100 Facts About Leafy Sea Dragons",
