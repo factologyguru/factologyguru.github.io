@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Voynich Manuscript",
-    "subtitle": "The Book Nobody Can Read",
-    "description": "A 600-year-old illustrated book written in a language no one has ever decoded. 100 mind-bending facts about the most mysterious manuscript in human history.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20The%20Voynich%20Manuscript.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-voynich-manuscript/",
+    "title": "100 Facts About Ancient Codes and Ciphers",
+    "subtitle": "Secrets Hidden in Plain Sight",
+    "description": "From Caesar's cipher to the Zodiac Killer's letters — some codes were cracked, some never were. 100 fascinating facts about humanity's greatest hidden messages.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20Ancient%20Codes%20and%20Ciphers.jpg",
+    "amazon_url": "https://factologyguru.com/books/ancient-codes-and-ciphers/",
     "category": "Mystery"
   },
   "books": [
+    {
+      "title": "100 Facts About The Voynich Manuscript",
+      "subtitle": "The Book Nobody Can Read",
+      "description": "A 600-year-old illustrated book written in a language no one has ever decoded. 100 mind-bending facts about the most mysterious manuscript in human history.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20The%20Voynich%20Manuscript.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-voynich-manuscript/",
+      "category": "Mystery"
+    },
     {
       "title": "100 Facts About Oak Island",
       "subtitle": "The Treasure Hunt That Never Ends",
@@ -319,14 +327,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20AXOLOTLS%20COVER.jpg",
       "amazon_url": "https://factologyguru.com/books/axolotl/",
       "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Ancient Codes and Ciphers",
-      "subtitle": "Secrets Hidden in Plain Sight",
-      "description": "From Caesar's cipher to the Zodiac Killer's letters — some codes were cracked, some never were. 100 fascinating facts about humanity's greatest hidden messages.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20Ancient%20Codes%20and%20Ciphers.jpg",
-      "amazon_url": "#",
-      "category": "Mystery"
     },
     {
       "title": "100 Facts About The Eiffel Tower",
