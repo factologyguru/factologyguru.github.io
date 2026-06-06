@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Eiffel Tower",
-    "subtitle": "Paris Wanted It Torn Down",
-    "description": "Built as a temporary structure for the 1889 World's Fair, Paris despised it. Artists called it an eyesore. The city planned to demolish it. 100 extraordinary facts about the tower that became the most visited monument on Earth.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20Eiffel%20Tower.jpg",
-    "amazon_url": "https://www.amazon.com/dp/B0H43S83CT",
-    "category": "Landmarks"
+    "title": "100 Facts About Ancient Codes and Ciphers",
+    "subtitle": "Secrets Hidden in Plain Sight",
+    "description": "From Caesar's cipher to the Zodiac Killer's letters — some codes were cracked, some never were. 100 fascinating facts about humanity's greatest hidden messages.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20Ancient%20Codes%20and%20Ciphers.jpg",
+    "amazon_url": "https://www.amazon.com/dp/B0H486TCQS",
+    "category": "Mystery"
   },
   "books": [
+    {
+      "title": "100 Facts About The Eiffel Tower",
+      "subtitle": "Paris Wanted It Torn Down",
+      "description": "Built as a temporary structure for the 1889 World's Fair, Paris despised it. Artists called it an eyesore. The city planned to demolish it. 100 extraordinary facts about the tower that became the most visited monument on Earth.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20Eiffel%20Tower.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B0H43S83CT",
+      "category": "Landmarks"
+    },
     {
       "title": "100 Facts About Blobfish",
       "subtitle": "The Ugliest Survivor",
@@ -493,14 +501,6 @@
       "subtitle": "They Left and Never Came Back",
       "description": "They were experienced, equipped, and prepared. Then they were gone. 100 gripping facts about the world's most baffling disappearances on land, sea, and ice.",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20Vanished%20Expeditions.jpg",
-      "amazon_url": "#",
-      "category": "Mystery, Lost History and The Unexplained"
-    },
-    {
-      "title": "100 Facts About Ancient Codes and Ciphers",
-      "subtitle": "Secrets Hidden in Plain Sight",
-      "description": "From Caesar's cipher to the Zodiac Killer's letters — some codes were cracked, some never were. 100 fascinating facts about humanity's greatest hidden messages.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20Ancient%20Codes%20and%20Ciphers.jpg",
       "amazon_url": "#",
       "category": "Mystery, Lost History and The Unexplained"
     },
