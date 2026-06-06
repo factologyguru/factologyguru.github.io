@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Sloths",
-    "subtitle": "The Art of Doing Nothing",
-    "description": "So slow that algae grows on their fur — and that's actually their superpower. 100 surprisingly fascinating facts about the world's most unhurried animal.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/12.%20SLOTHS%20COVER.jpg",
-    "amazon_url": "https://factologyguru.com/books/sloths/",
+    "title": "100 Facts About Komodo Dragons",
+    "subtitle": "The Last Living Dragon",
+    "description": "The world's largest lizard hunts with venom, bacteria, and terrifying patience. 100 fierce facts about the closest thing to a real dragon.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/13.%20KOMODO%20DRAGONS%20COVER.jpg",
+    "amazon_url": "https://factologyguru.com/books/komodo-dragons/",
     "category": "Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Sloths",
+      "subtitle": "The Art of Doing Nothing",
+      "description": "So slow that algae grows on their fur — and that's actually their superpower. 100 surprisingly fascinating facts about the world's most unhurried animal.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/12.%20SLOTHS%20COVER.jpg",
+      "amazon_url": "https://factologyguru.com/books/sloths/",
+      "category": "Animals"
+    },
     {
       "title": "100 Facts About Octopuses",
       "subtitle": "The Eight-Armed Alien of the Sea",
@@ -247,14 +255,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20Supernovas%20Cover.jpg",
       "amazon_url": "#",
       "category": "Space"
-    },
-    {
-      "title": "100 Facts About Komodo Dragons",
-      "subtitle": "The Last Living Dragon",
-      "description": "The world's largest lizard hunts with venom, bacteria, and terrifying patience. 100 fierce facts about the closest thing to a real dragon.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/13.%20KOMODO%20DRAGONS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
     },
     {
       "title": "100 Facts About The Solar System",
