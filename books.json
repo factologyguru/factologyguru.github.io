@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Secretary Birds",
-    "subtitle": "The Bird That Hunts Like a Ninja",
-    "description": "A bird that stomps snakes to death with kicks powerful enough to break bones. 100 extraordinary facts about Africa's most striking raptor.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/17.%20SECRETARY%20BIRDS%20COVER.jpg",
-    "amazon_url": "https://factologyguru.com/books/secretary-birds/",
+    "title": "100 Facts About Blobfish",
+    "subtitle": "The Ugliest Survivor",
+    "description": "It's not actually ugly — that's just what happens when you bring a deep sea creature to the surface. 100 surprisingly fascinating facts.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/18.%20BLOBFISH%20COVER.jpg",
+    "amazon_url": "https://factologyguru.com/books/blobfish/",
     "category": "Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Secretary Birds",
+      "subtitle": "The Bird That Hunts Like a Ninja",
+      "description": "A bird that stomps snakes to death with kicks powerful enough to break bones. 100 extraordinary facts about Africa's most striking raptor.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/17.%20SECRETARY%20BIRDS%20COVER.jpg",
+      "amazon_url": "https://factologyguru.com/books/secretary-birds/",
+      "category": "Animals"
+    },
     {
       "title": "100 Facts About Giant Squids",
       "subtitle": "The Monster of the Deep",
@@ -151,14 +159,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20Eiffel%20Tower.jpg",
       "amazon_url": "#",
       "category": "Landmarks"
-    },
-    {
-      "title": "100 Facts About Blobfish",
-      "subtitle": "The Ugliest Survivor",
-      "description": "It's not actually ugly — that's just what happens when you bring a deep sea creature to the surface. 100 surprisingly fascinating facts.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/18.%20BLOBFISH%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
     },
     {
       "title": "100 Facts About Chocolate",
