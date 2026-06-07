@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Chocolate",
-    "subtitle": "It Was Currency Before It Was Candy",
-    "description": "The Aztecs used cacao beans as money. European royalty drank it as medicine. The solid bar form was only invented 200 years ago. 100 rich facts about the world's most beloved indulgence.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20Chocolate.jpg",
-    "amazon_url": "https://factologyguru.com/books/chocolate/",
-    "category": "Food and Drink"
+    "title": "100 Facts About The Great White Shark",
+    "subtitle": "Nature Built the Perfect Killing Machine",
+    "description": "It has no natural predators. It can detect a single drop of blood in 25 gallons of water. It has been hunting in Earth's oceans for 16 million years. 100 razor-sharp facts about the ocean's apex predator.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20Great%20White%20Shark.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-great-white-shark/",
+    "category": "Deadly Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Chocolate",
+      "subtitle": "It Was Currency Before It Was Candy",
+      "description": "The Aztecs used cacao beans as money. European royalty drank it as medicine. The solid bar form was only invented 200 years ago. 100 rich facts about the world's most beloved indulgence.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20Chocolate.jpg",
+      "amazon_url": "https://factologyguru.com/books/chocolate/",
+      "category": "Food and Drink"
+    },
     {
       "title": "100 Facts About Coffee",
       "subtitle": "The Most Popular Drug on Earth",
@@ -1415,14 +1423,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Great%20Wall%20of%20China.jpg",
       "amazon_url": "#",
       "category": "Landmarks"
-    },
-    {
-      "title": "100 Facts About The Great White Shark",
-      "subtitle": "Nature Built the Perfect Killing Machine",
-      "description": "It has no natural predators. It can detect a single drop of blood in 25 gallons of water. It has been hunting in Earth's oceans for 16 million years. 100 razor-sharp facts about the ocean's apex predator.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20Great%20White%20Shark.jpg",
-      "amazon_url": "#",
-      "category": "Deadly Animals"
     },
     {
       "title": "100 Facts About The Saltwater Crocodile",
