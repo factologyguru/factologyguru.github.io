@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Great White Shark",
-    "subtitle": "Nature Built the Perfect Killing Machine",
-    "description": "It has no natural predators. It can detect a single drop of blood in 25 gallons of water. It has been hunting in Earth's oceans for 16 million years. 100 razor-sharp facts about the ocean's apex predator.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20Great%20White%20Shark.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-great-white-shark/",
-    "category": "Deadly Animals"
+    "title": "100 Facts About Honey",
+    "subtitle": "The Fearless Chaos Machine",
+    "description": "It attacks lions, survives snake venom, and escapes every enclosure ever built for it. 100 fearless facts about nature's toughest animal.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Honey.jpg",
+    "amazon_url": "https://factologyguru.com/books/honey/",
+    "category": "Food and Drink"
   },
   "books": [
+    {
+      "title": "100 Facts About The Great White Shark",
+      "subtitle": "Nature Built the Perfect Killing Machine",
+      "description": "It has no natural predators. It can detect a single drop of blood in 25 gallons of water. It has been hunting in Earth's oceans for 16 million years. 100 razor-sharp facts about the ocean's apex predator.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20Great%20White%20Shark.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-great-white-shark/",
+      "category": "Deadly Animals"
+    },
     {
       "title": "100 Facts About Chocolate",
       "subtitle": "It Was Currency Before It Was Candy",
@@ -405,14 +413,6 @@
       "subtitle": "The Flying Rodent",
       "description": "They don't actually fly — they glide up to 300 feet through the night sky. 100 soaring facts about nature's ultimate daredevil.",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/23.%20FLYING%20SQUIRRELS%20COVER.jpg",
-      "amazon_url": "#",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Honey Badgers",
-      "subtitle": "The Fearless Chaos Machine",
-      "description": "It attacks lions, survives snake venom, and escapes every enclosure ever built for it. 100 fearless facts about nature's toughest animal.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/24.%20HONEY%20BADGERS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
     },
@@ -1615,14 +1615,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Deathstalker%20Scorpion.jpg",
       "amazon_url": "#",
       "category": "Deadly Animals"
-    },
-    {
-      "title": "100 Facts About Honey",
-      "subtitle": "The Only Food That Never Expires",
-      "description": "Archaeologists have found 3,000-year-old honey in Egyptian tombs that was still perfectly edible. It has been used as currency, medicine, and offering to the gods. 100 golden facts about nature's most remarkable food.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Honey.jpg",
-      "amazon_url": "#",
-      "category": "Food and Drink"
     },
     {
       "title": "100 Facts About Salt",
