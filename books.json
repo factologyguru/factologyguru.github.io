@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Honey",
-    "subtitle": "The Only Food That Never Expires",
-    "description": "Archaeologists have found 3,000-year-old honey in Egyptian tombs that was still perfectly edible. It has been used as currency, medicine, and offering to the gods. 100 golden facts about nature's most remarkable food.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Honey.jpg",
-    "amazon_url": "https://factologyguru.com/books/honey/",
-    "category": "Food and Drink"
+    "title": "100 Facts About Asteroids",
+    "subtitle": "The Solar System's Leftover Builders",
+    "description": "The leftover building blocks of the solar system — and occasionally, civilization-enders. 100 rocky and remarkable facts about the solar system's ancient debris.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/16.%20Asteroids%20Cover.jpg",
+    "amazon_url": "https://factologyguru.com/books/asteroids/",
+    "category": "Space"
   },
   "books": [
+    {
+      "title": "100 Facts About Honey",
+      "subtitle": "The Only Food That Never Expires",
+      "description": "Archaeologists have found 3,000-year-old honey in Egyptian tombs that was still perfectly edible. It has been used as currency, medicine, and offering to the gods. 100 golden facts about nature's most remarkable food.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Honey.jpg",
+      "amazon_url": "https://factologyguru.com/books/honey/",
+      "category": "Food and Drink"
+    },
     {
       "title": "100 Facts About The Great White Shark",
       "subtitle": "Nature Built the Perfect Killing Machine",
@@ -416,7 +424,7 @@
       "amazon_url": "#",
       "category": "Animals"
     },
-     {
+    {
       "title": "100 Facts About Honey Badgers",
       "subtitle": "The Fearless Chaos Machine",
       "description": "It attacks lions, survives snake venom, and escapes every enclosure ever built for it. 100 fearless facts about nature's toughest animal.",
@@ -431,14 +439,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20PEACOCKS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Asteroids",
-      "subtitle": "The Solar System's Leftover Builders",
-      "description": "The leftover building blocks of the solar system — and occasionally, civilization-enders. 100 rocky and remarkable facts about the solar system's ancient debris.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/16.%20Asteroids%20Cover.jpg",
-      "amazon_url": "#",
-      "category": "Space"
     },
     {
       "title": "100 Facts About Comets",
