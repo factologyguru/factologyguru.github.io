@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Asteroids",
-    "subtitle": "The Solar System's Leftover Builders",
-    "description": "The leftover building blocks of the solar system — and occasionally, civilization-enders. 100 rocky and remarkable facts about the solar system's ancient debris.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/16.%20Asteroids%20Cover.jpg",
-    "amazon_url": "https://factologyguru.com/books/asteroids/",
-    "category": "Space"
+    "title": "100 Facts About The Statue of Liberty",
+    "subtitle": "She Wasn't Always Green",
+    "description": "When she arrived from France, Lady Liberty was a gleaming copper brown. The green came later. So did the secrets hidden inside her torch, her crown, and her foundation. 100 stunning facts about America's most iconic symbol.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20The%20Statue%20of%20Liberty.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-statue-of-liberty/",
+    "category": "Landmarks"
   },
   "books": [
+    {
+      "title": "100 Facts About Asteroids",
+      "subtitle": "The Solar System's Leftover Builders",
+      "description": "The leftover building blocks of the solar system — and occasionally, civilization-enders. 100 rocky and remarkable facts about the solar system's ancient debris.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/16.%20Asteroids%20Cover.jpg",
+      "amazon_url": "https://factologyguru.com/books/asteroids/",
+      "category": "Space"
+    },
     {
       "title": "100 Facts About Honey",
       "subtitle": "The Only Food That Never Expires",
@@ -1239,14 +1247,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/100.%20The%20Green%20Children%20of%20Woolpit.jpg",
       "amazon_url": "#",
       "category": "Mystery"
-    },
-    {
-      "title": "100 Facts About The Statue of Liberty",
-      "subtitle": "She Wasn't Always Green",
-      "description": "When she arrived from France, Lady Liberty was a gleaming copper brown. The green came later. So did the secrets hidden inside her torch, her crown, and her foundation. 100 stunning facts about America's most iconic symbol.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20The%20Statue%20of%20Liberty.jpg",
-      "amazon_url": "#",
-      "category": "Landmarks"
     },
     {
       "title": "100 Facts About The Burj Khalifa",
