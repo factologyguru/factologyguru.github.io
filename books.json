@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Leafy Sea Dragons",
-    "subtitle": "The Camouflage Kings",
-    "description": "Part plant, part animal, entirely magical. 100 breathtaking facts about the most beautiful and bizarre creature in the sea.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/19.%20LEAFY%20SEA%20DRAGONS%20COVER.jpg",
-    "amazon_url": "https://factologyguru.com/books/leafy-sea-dragons/",
-    "category": "Animals"
+    "title": "100 Facts About The Saltwater Crocodile",
+    "subtitle": "Unchanged for 200 Million Years for Good Reason",
+    "description": "It survived the extinction event that killed the dinosaurs. It has the strongest bite force of any living animal. Evolution has not needed to improve it. 100 ancient and terrifying facts about the world's largest reptile.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20The%20Saltwater%20Crocodile.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-saltwater-crocodile/",
+    "category": "Deadly Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Leafy Sea Dragons",
+      "subtitle": "The Camouflage Kings",
+      "description": "Part plant, part animal, entirely magical. 100 breathtaking facts about the most beautiful and bizarre creature in the sea.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/19.%20LEAFY%20SEA%20DRAGONS%20COVER.jpg",
+      "amazon_url": "https://factologyguru.com/books/leafy-sea-dragons/",
+      "category": "Animals"
+    },
     {
       "title": "100 Facts About The Statue of Liberty",
       "subtitle": "She Wasn't Always Green",
@@ -1431,14 +1439,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Great%20Wall%20of%20China.jpg",
       "amazon_url": "#",
       "category": "Landmarks"
-    },
-    {
-      "title": "100 Facts About The Saltwater Crocodile",
-      "subtitle": "Unchanged for 200 Million Years for Good Reason",
-      "description": "It survived the extinction event that killed the dinosaurs. It has the strongest bite force of any living animal. Evolution has not needed to improve it. 100 ancient and terrifying facts about the world's largest reptile.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20The%20Saltwater%20Crocodile.jpg",
-      "amazon_url": "#",
-      "category": "Deadly Animals"
     },
     {
       "title": "100 Facts About The Mosquito",
