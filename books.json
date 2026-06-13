@@ -11,10 +11,18 @@
     {
       "title": "100 Facts About Leafy Sea Dragons",
       "subtitle": "The Camouflage Kings",
-      "description": "Part plant, part animal, entirely magical. 100 breathtaking facts about the most beautiful and bizarre creature in the sea.",
+      "description": "",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/19.%20LEAFY%20SEA%20DRAGONS%20COVER.jpg",
       "amazon_url": "https://factologyguru.com/books/leafy-sea-dragons/",
       "category": "Animals"
+    },
+     {
+      "title": "100 Facts About The Saltwater Crocodile",
+      "subtitle": "Unchanged for 200 Million Years for Good Reasons",
+      "description": "Part plant, part animal, entirely magical. 100 breathtaking facts about the most beautiful and bizarre creature in the sea.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20The%20Saltwater%20Crocodile.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-saltwater-crocodile/",
+      "category": "Deadly Animals"
     },
     {
       "title": "100 Facts About The Statue of Liberty",
