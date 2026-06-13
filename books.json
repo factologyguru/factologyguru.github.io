@@ -1,11 +1,11 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Saltwater Crocodile",
-    "subtitle": "Unchanged for 200 Million Years for Good Reason",
-    "description": "It survived the extinction event that killed the dinosaurs. It has the strongest bite force of any living animal. Evolution has not needed to improve it. 100 ancient and terrifying facts about the world's largest reptile.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20The%20Saltwater%20Crocodile.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-saltwater-crocodile/",
-    "category": "Deadly Animals"
+    "title": "100 Facts About Salt",
+    "subtitle": "Wars Were Fought Over This",
+    "description": "Roman soldiers were paid in it. Empires were built on controlling it. Gandhi defied the British Empire over it. 100 essential facts about the mineral that shaped human civilization.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20Salt.jpg",
+    "amazon_url": "https://factologyguru.com/books/salt/",
+    "category": "Food and Drink"
   },
   "books": [
     {
@@ -1623,14 +1623,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Deathstalker%20Scorpion.jpg",
       "amazon_url": "#",
       "category": "Deadly Animals"
-    },
-    {
-      "title": "100 Facts About Salt",
-      "subtitle": "Wars Were Fought Over This",
-      "description": "Roman soldiers were paid in it. Empires were built on controlling it. Gandhi defied the British Empire over it. 100 essential facts about the mineral that shaped human civilization.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20Salt.jpg",
-      "amazon_url": "#",
-      "category": "Food and Drink"
     },
     {
       "title": "100 Facts About Sugar",
