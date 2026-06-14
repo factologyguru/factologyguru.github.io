@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Salt",
-    "subtitle": "Wars Were Fought Over This",
-    "description": "Roman soldiers were paid in it. Empires were built on controlling it. Gandhi defied the British Empire over it. 100 essential facts about the mineral that shaped human civilization.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20Salt.jpg",
-    "amazon_url": "https://factologyguru.com/books/salt/",
-    "category": "Food and Drink"
+    "title": "100 Facts About Hidden Treasures",
+    "subtitle": "The Greatest True Stories Ever Buried",
+    "description": "Billions in gold, jewels, and artifacts still buried, sunken, or hidden somewhere on Earth. 100 gripping facts about history's greatest lost fortunes.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20Hidden%20Treasures.jpg",
+    "amazon_url": "https://factologyguru.com/books/hidden-treasures/",
+    "category": "Mystery"
   },
   "books": [
+    {
+      "title": "100 Facts About Salt",
+      "subtitle": "Wars Were Fought Over This",
+      "description": "Roman soldiers were paid in it. Empires were built on controlling it. Gandhi defied the British Empire over it. 100 essential facts about the mineral that shaped human civilization.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20Salt.jpg",
+      "amazon_url": "https://factologyguru.com/books/salt/",
+      "category": "Food and Drink"
+    },
     {
       "title": "100 Facts About Leafy Sea Dragons",
       "subtitle": "The Camouflage Kings",
@@ -16,7 +24,7 @@
       "amazon_url": "https://factologyguru.com/books/leafy-sea-dragons/",
       "category": "Animals"
     },
-     {
+    {
       "title": "100 Facts About The Saltwater Crocodile",
       "subtitle": "Unchanged for 200 Million Years for Good Reasons",
       "description": "Part plant, part animal, entirely magical. 100 breathtaking facts about the most beautiful and bizarre creature in the sea.",
@@ -541,14 +549,6 @@
       "subtitle": "They Left and Never Came Back",
       "description": "They were experienced, equipped, and prepared. Then they were gone. 100 gripping facts about the world's most baffling disappearances on land, sea, and ice.",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20Vanished%20Expeditions.jpg",
-      "amazon_url": "#",
-      "category": "Mystery, Lost History and The Unexplained"
-    },
-    {
-      "title": "100 Facts About Hidden Treasures",
-      "subtitle": "The Greatest True Stories Ever Buried",
-      "description": "Billions in gold, jewels, and artifacts still buried, sunken, or hidden somewhere on Earth. 100 gripping facts about history's greatest lost fortunes.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20Hidden%20Treasures.jpg",
       "amazon_url": "#",
       "category": "Mystery, Lost History and The Unexplained"
     },
