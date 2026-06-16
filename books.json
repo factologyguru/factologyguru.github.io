@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Hidden Treasures",
-    "subtitle": "The Greatest True Stories Ever Buried",
-    "description": "Billions in gold, jewels, and artifacts still buried, sunken, or hidden somewhere on Earth. 100 gripping facts about history's greatest lost fortunes.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20Hidden%20Treasures.jpg",
-    "amazon_url": "https://factologyguru.com/books/hidden-treasures/",
-    "category": "Mystery"
+    "title": "100 Facts About The Viking",
+    "subtitle": "The Raiders Who Rewrote the Medieval World",
+    "description": "They reached North America 500 years before Columbus and had hygiene standards that shocked medieval Europe. Norse warriors sailed from Greenland to Baghdad in a single generation. 100 facts about the raiders history could not contain.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20Viking.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-viking/",
+    "category": "Legendary Warriors"
   },
   "books": [
+    {
+      "title": "100 Facts About Hidden Treasures",
+      "subtitle": "The Greatest True Stories Ever Buried",
+      "description": "Billions in gold, jewels, and artifacts still buried, sunken, or hidden somewhere on Earth. 100 gripping facts about history's greatest lost fortunes.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20Hidden%20Treasures.jpg",
+      "amazon_url": "https://factologyguru.com/books/hidden-treasures/",
+      "category": "Mystery"
+    },
     {
       "title": "100 Facts About Salt",
       "subtitle": "Wars Were Fought Over This",
@@ -2001,14 +2009,6 @@
       "category": "Food and Drink"
     },
     {
-      "title": "100 Facts About The Viking",
-      "subtitle": "The Raiders Who Rewrote the Medieval World",
-      "description": "They reached North America 500 years before Columbus and had hygiene standards that shocked medieval Europe. Norse warriors sailed from Greenland to Baghdad in a single generation. 100 facts about the raiders history could not contain.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20Viking.jpg",
-      "amazon_url": "#",
-      "category": "Legendary Warriors"
-    },
-    {
       "title": "100 Facts About The Samurai",
       "subtitle": "The Warrior Class That Ruled Japan for Seven Centuries",
       "description": "They were bureaucrats, poets and painters as much as they were killers. The code of Bushido was largely invented after the samurai were already gone. 100 facts about the warrior class Japan mythologized beyond recognition.",
@@ -3773,14 +3773,6 @@
       "subtitle": "The Siege Weapon Built to Smash Through Walls",
       "description": "The Assyrians developed the first wheeled battering ram around 900 BC, housing it in a protective wooden tower on wheels that could be rolled directly to a gate under arrow fire. Roman battering rams were named after the Latin word for male sheep — aries — because of how they headbutted walls. 100 facts about the ancient siege weapon that turned every gate into a vulnerability.",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/22.%20The%20Battering%20Ram.jpg",
-      "amazon_url": "#",
-      "category": "Legendary Weapons and Warfare"
-    },
-    {
-      "title": "100 Facts About The Viking Longship",
-      "subtitle": "The Vessel That Carried Warriors Across the Known World",
-      "description": "Viking longships had a draft of less than three feet, allowing them to sail up rivers and land directly on beaches — eliminating the need for ports entirely. The same vessel that crossed the North Atlantic to reach North America could also navigate inland waterways from Scandinavia to Constantinople. 100 facts about the ship that made the Viking Age possible.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/23.%20The%20Viking%20Longship.jpg",
       "amazon_url": "#",
       "category": "Legendary Weapons and Warfare"
     },
