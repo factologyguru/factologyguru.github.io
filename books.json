@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The French Bulldog",
-    "subtitle": "The Most Popular Dog in America Four Years Running",
-    "description": "The French Bulldog was invented in England, perfected in France, and conquered America — all without being able to swim, breathe properly, or give birth without human assistance. 100 facts about the dog that became the world's most popular breed despite being biologically fragile.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20French%20Bulldog.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-french-bulldog/",
-    "category": "Dogs"
+    "title": "100 Facts About Sugar",
+    "subtitle": "The Sweetest Poison in History",
+    "description": "It fueled the slave trade, built colonial empires, and is now the most consumed addictive substance on Earth. 100 bitter facts about the world's sweetest commodity.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20Sugar.jpg",
+    "amazon_url": "https://factologyguru.com/books/sugar/",
+    "category": "Food and Drink"
   },
   "books": [
+    {
+      "title": "100 Facts About The French Bulldog",
+      "subtitle": "The Most Popular Dog in America Four Years Running",
+      "description": "The French Bulldog was invented in England, perfected in France, and conquered America — all without being able to swim, breathe properly, or give birth without human assistance. 100 facts about the dog that became the world's most popular breed despite being biologically fragile.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20French%20Bulldog.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-french-bulldog/",
+      "category": "Dogs"
+    },
     {
       "title": "100 Facts About The Mosquito",
       "subtitle": "The Deadliest Creature on Earth Is Smaller Than Your Thumb",
@@ -1655,14 +1663,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Deathstalker%20Scorpion.jpg",
       "amazon_url": "#",
       "category": "Deadly Animals"
-    },
-    {
-      "title": "100 Facts About Sugar",
-      "subtitle": "The Sweetest Poison in History",
-      "description": "It fueled the slave trade, built colonial empires, and is now the most consumed addictive substance on Earth. 100 bitter facts about the world's sweetest commodity.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20Sugar.jpg",
-      "amazon_url": "#",
-      "category": "Food and Drink"
     },
     {
       "title": "100 Facts About Beer",
