@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Box Jellyfish",
-    "subtitle": "No Brain. No Heart. Still Deadly Enough to Kill You in Minutes.",
-    "description": "It has no brain, no heart, and no bones. It also has 24 eyes and enough venom to kill 60 adult humans. 100 chilling facts about the most venomous marine creature on Earth.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20The%20Box%20Jellyfish.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-box-jellyfish/",
-    "category": "Deadly Animals"
+    "title": "100 Facts About The Persian Cat",
+    "subtitle": "The Royal Feline That Has Captivated the World for Centuries",
+    "description": "Persian cats appeared in the oldest known cat show in history, held at Crystal Palace in London in 1871, and won. They were traded along Silk Road routes centuries before that and kept by Ottoman sultans as status symbols. 100 facts about the most regal cat breed in the world.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20Persian%20Cat.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-persian-cat/",
+    "category": "Cats"
   },
   "books": [
+    {
+      "title": "100 Facts About The Box Jellyfish",
+      "subtitle": "No Brain. No Heart. Still Deadly Enough to Kill You in Minutes.",
+      "description": "It has no brain, no heart, and no bones. It also has 24 eyes and enough venom to kill 60 adult humans. 100 chilling facts about the most venomous marine creature on Earth.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20The%20Box%20Jellyfish.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-box-jellyfish/",
+      "category": "Deadly Animals"
+    },
     {
       "title": "100 Facts About Sugar",
       "subtitle": "The Sweetest Poison in History",
@@ -2599,14 +2607,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20Dogs%20and%20Their%20Humans.jpg",
       "amazon_url": "#",
       "category": "Dogs"
-    },
-    {
-      "title": "100 Facts About The Persian Cat",
-      "subtitle": "The Royal Feline That Has Captivated the World for Centuries",
-      "description": "Persian cats appeared in the oldest known cat show in history, held at Crystal Palace in London in 1871, and won. They were traded along Silk Road routes centuries before that and kept by Ottoman sultans as status symbols. 100 facts about the most regal cat breed in the world.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20The%20Persian%20Cat.jpg",
-      "amazon_url": "#",
-      "category": "Cats"
     },
     {
       "title": "100 Facts About The Ragdoll",
