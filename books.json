@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Samurai",
-    "subtitle": "The Warrior Class That Ruled Japan for Seven Centuries",
-    "description": "They were bureaucrats, poets and painters as much as they were killers. The code of Bushido was largely invented after the samurai were already gone. 100 facts about the warrior class Japan mythologized beyond recognition.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20The%20Samurai.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-samurai/",
-    "category": "Legendary Warriors"
+    "title": "100 Facts About The Labrador Retriever",
+    "subtitle": "The Family Dog That Held America's Top Spot for 31 Years",
+    "description": "The Labrador Retriever held the number one spot on the American Kennel Club's popularity list for 31 consecutive years — longer than any other breed in history. They were originally bred to retrieve fishing nets in icy Canadian water. 100 facts about the dog that became the default definition of man's best friend.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20The%20Labrador%20Retriever.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-labrador-retriever/",
+    "category": "Dogs"
   },
   "books": [
+    {
+      "title": "100 Facts About The Samurai",
+      "subtitle": "The Warrior Class That Ruled Japan for Seven Centuries",
+      "description": "They were bureaucrats, poets and painters as much as they were killers. The code of Bushido was largely invented after the samurai were already gone. 100 facts about the warrior class Japan mythologized beyond recognition.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20The%20Samurai.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-samurai/",
+      "category": "Legendary Warriors"
+    },
     {
       "title": "100 Facts About Beer",
       "subtitle": "Older Than Bread and Just as Important",
@@ -2415,14 +2423,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20Hera.jpg",
       "amazon_url": "#",
       "category": "Ancient Mythology"
-    },
-    {
-      "title": "100 Facts About The Labrador Retriever",
-      "subtitle": "The Family Dog That Held America's Top Spot for 31 Years",
-      "description": "The Labrador Retriever held the number one spot on the American Kennel Club's popularity list for 31 consecutive years — longer than any other breed in history. They were originally bred to retrieve fishing nets in icy Canadian water. 100 facts about the dog that became the default definition of man's best friend.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20The%20Labrador%20Retriever.jpg",
-      "amazon_url": "#",
-      "category": "Dogs"
     },
     {
       "title": "100 Facts About The German Shepherd",
