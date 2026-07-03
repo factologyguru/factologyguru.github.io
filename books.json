@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Comets",
-    "subtitle": "Dirty Snowballs With Billion-Mile Tails",
-    "description": "Dirty snowballs with tails millions of miles long that have terrified and inspired humanity for millennia. 100 dazzling facts about the solar system's greatest travelers.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/17.%20Comets%20Cover.jpg",
-    "amazon_url": "https://factologyguru.com/books/comets/",
-    "category": "Space"
+    "title": "100 Facts About Odin",
+    "subtitle": "The All-Father Who Sacrificed His Eye for Wisdom",
+    "description": "Odin hung himself from the World Tree for nine days with a spear through his side to discover the secrets of the runes. He also traded his eye to drink from the well of cosmic knowledge. 100 facts about the Norse god who was obsessed with his own death.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20Odin.jpg",
+    "amazon_url": "https://factologyguru.com/books/odin/",
+    "category": "Ancient Mythology"
   },
   "books": [
+    {
+      "title": "100 Facts About Comets",
+      "subtitle": "Dirty Snowballs With Billion-Mile Tails",
+      "description": "Dirty snowballs with tails millions of miles long that have terrified and inspired humanity for millennia. 100 dazzling facts about the solar system's greatest travelers.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/17.%20Comets%20Cover.jpg",
+      "amazon_url": "https://factologyguru.com/books/comets/",
+      "category": "Space"
+    },
     {
       "title": "100 Facts About The Labrador Retriever",
       "subtitle": "The Family Dog That Held America's Top Spot for 31 Years",
@@ -2231,14 +2239,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Dahomey%20Amazon.jpg",
       "amazon_url": "#",
       "category": "Legendary Warriors"
-    },
-    {
-      "title": "100 Facts About Odin",
-      "subtitle": "The All-Father Who Sacrificed His Eye for Wisdom",
-      "description": "Odin hung himself from the World Tree for nine days with a spear through his side to discover the secrets of the runes. He also traded his eye to drink from the well of cosmic knowledge. 100 facts about the Norse god who was obsessed with his own death.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20Odin.jpg",
-      "amazon_url": "#",
-      "category": "Ancient Mythology"
     },
     {
       "title": "100 Facts About Medusa",
