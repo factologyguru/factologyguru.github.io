@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Odin",
-    "subtitle": "The All-Father Who Sacrificed His Eye for Wisdom",
-    "description": "Odin hung himself from the World Tree for nine days with a spear through his side to discover the secrets of the runes. He also traded his eye to drink from the well of cosmic knowledge. 100 facts about the Norse god who was obsessed with his own death.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20Odin.jpg",
-    "amazon_url": "https://factologyguru.com/books/odin/",
-    "category": "Ancient Mythology"
+    "title": "100 Facts About The Black Mamba",
+    "subtitle": "The Snake That Doesn't Miss",
+    "description": "It is the fastest snake on Earth, can strike up to 12 times in a single attack, and without antivenom its bite is nearly always fatal. 100 gripping facts about Africa's most feared serpent.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20The%20Black%20Mamba.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-black-mamba/",
+    "category": "Deadly Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Odin",
+      "subtitle": "The All-Father Who Sacrificed His Eye for Wisdom",
+      "description": "Odin hung himself from the World Tree for nine days with a spear through his side to discover the secrets of the runes. He also traded his eye to drink from the well of cosmic knowledge. 100 facts about the Norse god who was obsessed with his own death.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20Odin.jpg",
+      "amazon_url": "https://factologyguru.com/books/odin/",
+      "category": "Ancient Mythology"
+    },
     {
       "title": "100 Facts About Comets",
       "subtitle": "Dirty Snowballs With Billion-Mile Tails",
@@ -1535,14 +1543,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Great%20Wall%20of%20China.jpg",
       "amazon_url": "#",
       "category": "Landmarks"
-    },
-    {
-      "title": "100 Facts About The Black Mamba",
-      "subtitle": "The Snake That Doesn't Miss",
-      "description": "It is the fastest snake on Earth, can strike up to 12 times in a single attack, and without antivenom its bite is nearly always fatal. 100 gripping facts about Africa's most feared serpent.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20The%20Black%20Mamba.jpg",
-      "amazon_url": "#",
-      "category": "Deadly Animals"
     },
     {
       "title": "100 Facts About The Hippopotamus",
