@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Medusa",
-    "subtitle": "The Gorgon Whose Gaze Turned Men to Stone",
-    "description": "Medusa was not born a monster — she was transformed into one by Athena as punishment for being assaulted in her own temple. The original myth is a story of divine injustice. 100 facts about the most misunderstood figure in Greek mythology.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Medusa.jpg",
-    "amazon_url": "https://factologyguru.com/books/medusa/",
-    "category": "Ancient Mythology"
+    "title": "100 Facts About Wine",
+    "subtitle": "Ten Thousand Years in a Glass",
+    "description": "The oldest evidence of winemaking dates back 8,000 years. It has been central to religion, medicine, trade, and every major civilization since. 100 intoxicating facts about the world's most storied drink.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/7.%20Wine.jpg",
+    "amazon_url": "https://factologyguru.com/books/wine/",
+    "category": "Food and Drink"
   },
   "books": [
+    {
+      "title": "100 Facts About Medusa",
+      "subtitle": "The Gorgon Whose Gaze Turned Men to Stone",
+      "description": "Medusa was not born a monster — she was transformed into one by Athena as punishment for being assaulted in her own temple. The original myth is a story of divine injustice. 100 facts about the most misunderstood figure in Greek mythology.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Medusa.jpg",
+      "amazon_url": "https://factologyguru.com/books/medusa/",
+      "category": "Ancient Mythology"
+    },
     {
       "title": "100 Facts About The Black Mamba",
       "subtitle": "The Snake That Doesn't Miss",
@@ -1711,14 +1719,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Deathstalker%20Scorpion.jpg",
       "amazon_url": "#",
       "category": "Deadly Animals"
-    },
-    {
-      "title": "100 Facts About Wine",
-      "subtitle": "Ten Thousand Years in a Glass",
-      "description": "The oldest evidence of winemaking dates back 8,000 years. It has been central to religion, medicine, trade, and every major civilization since. 100 intoxicating facts about the world's most storied drink.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/7.%20Wine.jpg",
-      "amazon_url": "#",
-      "category": "Food and Drink"
     },
     {
       "title": "100 Facts About Cheese",
