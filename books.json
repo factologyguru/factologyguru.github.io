@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Wine",
-    "subtitle": "Ten Thousand Years in a Glass",
-    "description": "The oldest evidence of winemaking dates back 8,000 years. It has been central to religion, medicine, trade, and every major civilization since. 100 intoxicating facts about the world's most storied drink.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/7.%20Wine.jpg",
-    "amazon_url": "https://factologyguru.com/books/wine/",
-    "category": "Food and Drink"
+    "title": "100 Facts About The Ragdoll",
+    "subtitle": "The Cat That Goes Limp in Your Arms Like a Rag Doll",
+    "description": "The Ragdoll breed was created by a single woman in California in the 1960s who claimed her cat had been altered by a car accident — a myth that persisted for decades. What is real is that they go completely limp when held and follow their owners around like dogs. 100 facts about the most docile and affectionate large cat breed in existence.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20The%20Ragdoll.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-ragdoll/",
+    "category": "Cats"
   },
   "books": [
+    {
+      "title": "100 Facts About Wine",
+      "subtitle": "Ten Thousand Years in a Glass",
+      "description": "The oldest evidence of winemaking dates back 8,000 years. It has been central to religion, medicine, trade, and every major civilization since. 100 intoxicating facts about the world's most storied drink.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/7.%20Wine.jpg",
+      "amazon_url": "https://factologyguru.com/books/wine/",
+      "category": "Food and Drink"
+    },
     {
       "title": "100 Facts About Medusa",
       "subtitle": "The Gorgon Whose Gaze Turned Men to Stone",
@@ -2607,14 +2615,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20Dogs%20and%20Their%20Humans.jpg",
       "amazon_url": "#",
       "category": "Dogs"
-    },
-    {
-      "title": "100 Facts About The Ragdoll",
-      "subtitle": "The Cat That Goes Limp in Your Arms Like a Rag Doll",
-      "description": "The Ragdoll breed was created by a single woman in California in the 1960s who claimed her cat had been altered by a car accident — a myth that persisted for decades. What is real is that they go completely limp when held and follow their owners around like dogs. 100 facts about the most docile and affectionate large cat breed in existence.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/2.%20The%20Ragdoll.jpg",
-      "amazon_url": "#",
-      "category": "Cats"
     },
     {
       "title": "100 Facts About The Maine Coon",
