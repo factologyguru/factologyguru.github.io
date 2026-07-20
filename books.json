@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The German Shepherd",
-    "subtitle": "The World's Most Versatile Working Dog",
-    "description": "German Shepherds serve as police dogs, military dogs, guide dogs, search and rescue dogs, and bomb detection dogs — often switching roles within a single career. The breed was created in 1899 by one man with a very specific vision. 100 facts about the dog that can do almost any job better than any other breed.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20The%20German%20Shepherd.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-german-shepherd/",
-    "category": "Dogs"
+    "title": "100 Facts About The Hippopotamus",
+    "subtitle": "Africa's Most Dangerous Animal Isn't the Lion",
+    "description": "It looks slow. It is not slow. It kills more people in Africa every year than lions, leopards, and crocodiles combined. 100 explosive facts about the most aggressive large animal on the continent.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/6.%20The%20Hippopotamus.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-hippopotamus/",
+    "category": "Deadly Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About The German Shepherd",
+      "subtitle": "The World's Most Versatile Working Dog",
+      "description": "German Shepherds serve as police dogs, military dogs, guide dogs, search and rescue dogs, and bomb detection dogs — often switching roles within a single career. The breed was created in 1899 by one man with a very specific vision. 100 facts about the dog that can do almost any job better than any other breed.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20The%20German%20Shepherd.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-german-shepherd/",
+      "category": "Dogs"
+    },
     {
       "title": "100 Facts About Big Ben",
       "subtitle": "It's Not Even Big Ben",
@@ -1583,14 +1591,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Great%20Wall%20of%20China.jpg",
       "amazon_url": "#",
       "category": "Landmarks"
-    },
-    {
-      "title": "100 Facts About The Hippopotamus",
-      "subtitle": "Africa's Most Dangerous Animal Isn't the Lion",
-      "description": "It looks slow. It is not slow. It kills more people in Africa every year than lions, leopards, and crocodiles combined. 100 explosive facts about the most aggressive large animal on the continent.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/6.%20The%20Hippopotamus.jpg",
-      "amazon_url": "#",
-      "category": "Deadly Animals"
     },
     {
       "title": "100 Facts About The King Cobra",
