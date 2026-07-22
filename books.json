@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Maine Coon",
-    "subtitle": "The Gentle Giant That Won America's First Cat Show",
-    "description": "A Maine Coon named Cosey won the very first major American cat show at Madison Square Garden in 1895 — and the breed has never stopped competing since. They can weigh up to 18 pounds, chirp instead of meow, and love water. 100 facts about America's original giant cat.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20The%20Maine%20Coon.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-maine-coon/",
-    "category": "Cats"
+    "title": "100 Facts About Cheese",
+    "subtitle": "The Most Stolen Food on the Planet",
+    "description": "It is the most shoplifted food item in the world. It has over 1,800 documented varieties. Some of it is legally required to be made within a specific radius of a specific village. 100 aged facts about the world's most obsessively crafted food.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20Cheese.jpg",
+    "amazon_url": "https://factologyguru.com/books/cheese/",
+    "category": "Food and Drink"
   },
   "books": [
+    {
+      "title": "100 Facts About The Maine Coon",
+      "subtitle": "The Gentle Giant That Won America's First Cat Show",
+      "description": "A Maine Coon named Cosey won the very first major American cat show at Madison Square Garden in 1895 — and the breed has never stopped competing since. They can weigh up to 18 pounds, chirp instead of meow, and love water. 100 facts about America's original giant cat.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20The%20Maine%20Coon.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-maine-coon/",
+      "category": "Cats"
+    },
     {
       "title": "100 Facts About The Hippopotamus",
       "subtitle": "",
@@ -1751,14 +1759,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Deathstalker%20Scorpion.jpg",
       "amazon_url": "#",
       "category": "Deadly Animals"
-    },
-    {
-      "title": "100 Facts About Cheese",
-      "subtitle": "The Most Stolen Food on the Planet",
-      "description": "It is the most shoplifted food item in the world. It has over 1,800 documented varieties. Some of it is legally required to be made within a specific radius of a specific village. 100 aged facts about the world's most obsessively crafted food.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20Cheese.jpg",
-      "amazon_url": "#",
-      "category": "Food and Drink"
     },
     {
       "title": "100 Facts About Bread",
