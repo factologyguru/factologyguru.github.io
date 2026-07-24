@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Milky Way",
-    "subtitle": "The Galaxy We Call Home",
-    "description": "We live inside it but can never see it whole. A spiral galaxy of 400 billion stars — and we're on one tiny arm. 100 breathtaking facts about the galaxy we call home.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/18.%20The%20Milky%20Way%20Cover.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-milky-way/",
-    "category": "Space"
+    "title": "100 Facts About Star-Nosed Moles",
+    "subtitle": "The Star-Faced Digger",
+    "description": "With 22 pink tentacles on its face and the fastest eating speed of any mammal, this creature is pure biological madness. 100 wild facts.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/20.%20STAR-NOSED%20MOLES%20COVER.jpg",
+    "amazon_url": "https://factologyguru.com/books/star-nosed-moles/",
+    "category": "Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About The Milky Way",
+      "subtitle": "The Galaxy We Call Home",
+      "description": "We live inside it but can never see it whole. A spiral galaxy of 400 billion stars — and we're on one tiny arm. 100 breathtaking facts about the galaxy we call home.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/18.%20The%20Milky%20Way%20Cover.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-milky-way/",
+      "category": "Space"
+    },
     {
       "title": "100 Facts About Cheese",
       "subtitle": "The Most Stolen Food on the Planet",
@@ -622,14 +630,6 @@
       "description": "",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20AXOLOTLS%20COVER.jpg",
       "amazon_url": "https://factologyguru.com/books/axolotl/",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Star-Nosed Moles",
-      "subtitle": "The Star-Faced Digger",
-      "description": "With 22 pink tentacles on its face and the fastest eating speed of any mammal, this creature is pure biological madness. 100 wild facts.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/20.%20STAR-NOSED%20MOLES%20COVER.jpg",
-      "amazon_url": "#",
       "category": "Animals"
     },
     {
