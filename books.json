@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Golden Retriever",
-    "subtitle": "The Dog That Became America's Favorite Family Companion",
-    "description": "Golden Retrievers were bred in the Scottish Highlands in the 1860s to retrieve shot waterfowl without damaging them — their mouths are so gentle they can carry a raw egg without cracking it. 100 facts about the dog whose temperament is so consistent it seems almost engineered for human love.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20The%20Golden%20Retriever.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-golden-retriever/",
-    "category": "Dogs"
+    "title": "100 Facts About The King Cobra",
+    "subtitle": "One Bite Kills an Elephant",
+    "description": "It is the longest venomous snake in the world and delivers enough neurotoxin in a single bite to kill an elephant. It also builds nests and guards its eggs. 100 commanding facts about the snake that rules them all.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/7.%20The%20King%20Cobra.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-king-cobra/",
+    "category": "Deadly Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About The Golden Retriever",
+      "subtitle": "The Dog That Became America's Favorite Family Companion",
+      "description": "Golden Retrievers were bred in the Scottish Highlands in the 1860s to retrieve shot waterfowl without damaging them — their mouths are so gentle they can carry a raw egg without cracking it. 100 facts about the dog whose temperament is so consistent it seems almost engineered for human love.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20The%20Golden%20Retriever.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-golden-retriever/",
+      "category": "Dogs"
+    },
     {
       "title": "100 Facts About Star-Nosed Moles",
       "subtitle": "The Star-Faced Digger",
@@ -1615,14 +1623,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Great%20Wall%20of%20China.jpg",
       "amazon_url": "#",
       "category": "Landmarks"
-    },
-    {
-      "title": "100 Facts About The King Cobra",
-      "subtitle": "One Bite Kills an Elephant",
-      "description": "It is the longest venomous snake in the world and delivers enough neurotoxin in a single bite to kill an elephant. It also builds nests and guards its eggs. 100 commanding facts about the snake that rules them all.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/7.%20The%20King%20Cobra.jpg",
-      "amazon_url": "#",
-      "category": "Deadly Animals"
     },
     {
       "title": "100 Facts About The Polar Bear",
