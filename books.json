@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The King Cobra",
-    "subtitle": "One Bite Kills an Elephant",
-    "description": "It is the longest venomous snake in the world and delivers enough neurotoxin in a single bite to kill an elephant. It also builds nests and guards its eggs. 100 commanding facts about the snake that rules them all.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/7.%20The%20King%20Cobra.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-king-cobra/",
-    "category": "Deadly Animals"
+    "title": "100 Facts About Anubis",
+    "subtitle": "The Egyptian God Who Judged the Dead",
+    "description": "Anubis weighed every human heart against a feather — if your heart was heavier, a monster ate it and you ceased to exist forever. He was also the god who invented embalming. 100 facts about the jackal-headed god who decided who got to live forever.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20Anubis.jpg",
+    "amazon_url": "https://factologyguru.com/books/anubis/",
+    "category": "Ancient Mythology"
   },
   "books": [
+    {
+      "title": "100 Facts About The King Cobra",
+      "subtitle": "One Bite Kills an Elephant",
+      "description": "It is the longest venomous snake in the world and delivers enough neurotoxin in a single bite to kill an elephant. It also builds nests and guards its eggs. 100 commanding facts about the snake that rules them all.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/7.%20The%20King%20Cobra.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-king-cobra/",
+      "category": "Deadly Animals"
+    },
     {
       "title": "100 Facts About The Golden Retriever",
       "subtitle": "The Dog That Became America's Favorite Family Companion",
@@ -2279,14 +2287,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Dahomey%20Amazon.jpg",
       "amazon_url": "#",
       "category": "Legendary Warriors"
-    },
-    {
-      "title": "100 Facts About Anubis",
-      "subtitle": "The Egyptian God Who Judged the Dead",
-      "description": "Anubis weighed every human heart against a feather — if your heart was heavier, a monster ate it and you ceased to exist forever. He was also the god who invented embalming. 100 facts about the jackal-headed god who decided who got to live forever.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20Anubis.jpg",
-      "amazon_url": "#",
-      "category": "Ancient Mythology"
     },
     {
       "title": "100 Facts About Thor",
