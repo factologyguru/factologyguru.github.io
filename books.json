@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Anubis",
-    "subtitle": "The Egyptian God Who Judged the Dead",
-    "description": "Anubis weighed every human heart against a feather — if your heart was heavier, a monster ate it and you ceased to exist forever. He was also the god who invented embalming. 100 facts about the jackal-headed god who decided who got to live forever.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20Anubis.jpg",
-    "amazon_url": "https://factologyguru.com/books/anubis/",
-    "category": "Ancient Mythology"
+    "title": "100 Facts About Nebulae",
+    "subtitle": "The Universe's Greatest Art",
+    "description": "The universe's greatest art — vast clouds of gas and dust where stars are born and die. 100 colorful and cosmic facts about the universe's most beautiful objects.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/19.%20Nebulae%20Cover.jpg",
+    "amazon_url": "https://factologyguru.com/books/nebulae/",
+    "category": "Space"
   },
   "books": [
+    {
+      "title": "100 Facts About Anubis",
+      "subtitle": "The Egyptian God Who Judged the Dead",
+      "description": "Anubis weighed every human heart against a feather — if your heart was heavier, a monster ate it and you ceased to exist forever. He was also the god who invented embalming. 100 facts about the jackal-headed god who decided who got to live forever.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20Anubis.jpg",
+      "amazon_url": "https://factologyguru.com/books/anubis/",
+      "category": "Ancient Mythology"
+    },
     {
       "title": "100 Facts About The King Cobra",
       "subtitle": "One Bite Kills an Elephant",
@@ -695,14 +703,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20PEACOCKS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Nebulae",
-      "subtitle": "The Universe's Greatest Art",
-      "description": "The universe's greatest art — vast clouds of gas and dust where stars are born and die. 100 colorful and cosmic facts about the universe's most beautiful objects.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/19.%20Nebulae%20Cover.jpg",
-      "amazon_url": "#",
-      "category": "Space"
     },
     {
       "title": "100 Facts About The Voyager Probes",
