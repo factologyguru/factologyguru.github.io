@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Sunken Cities",
-    "subtitle": "Civilizations Swallowed by the Sea",
-    "description": "Entire cities swallowed by earthquakes, floods, and rising seas — and preserved perfectly beneath the waves. 100 stunning facts about the silent empires of the deep.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/11.%20Sunken%20Cities.jpg",
-    "amazon_url": "https://factologyguru.com/books/sunken-cities/",
-    "category": "Mystery"
+    "title": "100 Facts About Thor",
+    "subtitle": "The Norse God of Thunder and Lightning",
+    "description": "Thor once dressed as a bride to retrieve his stolen hammer from a giant — and ate an entire ox at the wedding feast before anyone noticed. He was not the sharpest god on Asgard but he was the strongest. 100 facts about the hammer-wielding son of Odin history never stopped loving.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20Thor.jpg",
+    "amazon_url": "https://factologyguru.com/books/thor/",
+    "category": "Ancient Mythology"
   },
   "books": [
+    {
+      "title": "100 Facts About Sunken Cities",
+      "subtitle": "Civilizations Swallowed by the Sea",
+      "description": "Entire cities swallowed by earthquakes, floods, and rising seas — and preserved perfectly beneath the waves. 100 stunning facts about the silent empires of the deep.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/11.%20Sunken%20Cities.jpg",
+      "amazon_url": "https://factologyguru.com/books/sunken-cities/",
+      "category": "Mystery"
+    },
     {
       "title": "100 Facts About Bread",
       "subtitle": "The Food That Built Civilization",
@@ -2305,14 +2313,6 @@
       "category": "Legendary Warriors"
     },
     {
-      "title": "100 Facts About Thor",
-      "subtitle": "The Norse God of Thunder and Lightning",
-      "description": "Thor once dressed as a bride to retrieve his stolen hammer from a giant — and ate an entire ox at the wedding feast before anyone noticed. He was not the sharpest god on Asgard but he was the strongest. 100 facts about the hammer-wielding son of Odin history never stopped loving.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20Thor.jpg",
-      "amazon_url": "#",
-      "category": "Ancient Mythology"
-    },
-    {
       "title": "100 Facts About Hercules",
       "subtitle": "The Demigod Famous for His Twelve Labors",
       "description": "Hercules was assigned his twelve labors as punishment for killing his own family in a fit of madness sent by Hera. He completed tasks that gods said were impossible, including holding up the sky. 100 facts about the demigod whose strength was matched only by his suffering.",
@@ -3909,14 +3909,6 @@
       "subtitle": "The Explorer Who Invented Modern Environmental Science",
       "description": "Humboldt climbed the highest mountain yet ascended by any human, mapped the magnetic equator, discovered the ocean current that bears his name, and was the first person to describe climate change caused by human activity — in 1800. Darwin called him the greatest scientific traveler who ever lived. 100 facts about the explorer who saw the Earth as a single connected living system two centuries before everyone else.",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/15.%20Alexander%20von%20Humboldt.jpg",
-      "amazon_url": "#",
-      "category": "Famous Explorers"
-    },
-    {
-      "title": "100 Facts About Thor Heyerdahl",
-      "subtitle": "The Man Who Crossed the Pacific on a Raft",
-      "description": "Thor Heyerdahl sailed 4,300 miles from Peru to Polynesia on a balsa wood raft called the Kon-Tiki in 1947 to prove that ancient South Americans could have reached the Pacific Islands. The voyage took 101 days and he nearly died twice. His book about it became one of the bestselling nonfiction titles of the 20th century. 100 facts about the anthropologist who proved his theory by risking his life on a raft.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/16.%20Thor%20Heyerdahl.jpg",
       "amazon_url": "#",
       "category": "Famous Explorers"
     },
