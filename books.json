@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Thor",
-    "subtitle": "The Norse God of Thunder and Lightning",
-    "description": "Thor once dressed as a bride to retrieve his stolen hammer from a giant — and ate an entire ox at the wedding feast before anyone noticed. He was not the sharpest god on Asgard but he was the strongest. 100 facts about the hammer-wielding son of Odin history never stopped loving.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20Thor.jpg",
-    "amazon_url": "https://factologyguru.com/books/thor/",
-    "category": "Ancient Mythology"
+    "title": "100 Facts About Mimic Octopuses",
+    "subtitle": "The Master of Disguise",
+    "description": "It can transform into a lionfish, flatfish, or sea snake in seconds — matching not just the shape but the behavior. 100 astonishing facts about the ocean's ultimate shape-shifter.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/21.%20MIMIC%20OCTOPUSES%20COVER.jpg",
+    "amazon_url": "https://factologyguru.com/books/mimic-octopuses/",
+    "category": "Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Thor",
+      "subtitle": "The Norse God of Thunder and Lightning",
+      "description": "Thor once dressed as a bride to retrieve his stolen hammer from a giant — and ate an entire ox at the wedding feast before anyone noticed. He was not the sharpest god on Asgard but he was the strongest. 100 facts about the hammer-wielding son of Odin history never stopped loving.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20Thor.jpg",
+      "amazon_url": "https://factologyguru.com/books/thor/",
+      "category": "Ancient Mythology"
+    },
     {
       "title": "100 Facts About Sunken Cities",
       "subtitle": "Civilizations Swallowed by the Sea",
@@ -710,14 +718,6 @@
       "description": "",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/1.%20AXOLOTLS%20COVER.jpg",
       "amazon_url": "https://factologyguru.com/books/axolotl/",
-      "category": "Animals"
-    },
-    {
-      "title": "100 Facts About Mimic Octopuses",
-      "subtitle": "The Master of Disguise",
-      "description": "It can transform into a lionfish, flatfish, or sea snake in seconds — matching not just the shape but the behavior. 100 astonishing facts about the ocean's ultimate shape-shifter.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/21.%20MIMIC%20OCTOPUSES%20COVER.jpg",
-      "amazon_url": "#",
       "category": "Animals"
     },
     {
