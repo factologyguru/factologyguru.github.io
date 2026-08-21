@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Golden Gate Bridge",
-    "subtitle": "Everyone Said It Was Impossible",
-    "description": "Engineers said the currents were too strong, the fog too thick, the water too deep. They were wrong. 100 breathtaking facts about the bridge that defied every prediction.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/7.%20The%20Golden%20Gate%20Bridge.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-golden-gate-bridge/",
-    "category": "Landmarks"
+    "title": "100 Facts About The Voyager Probes",
+    "subtitle": "Humanity's Farthest Reach",
+    "description": "Launched in 1977 and still sending data from beyond our solar system. 100 extraordinary facts about humanity's farthest and most loyal ambassadors.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/20.%20The%20Voyager%20Probe%20Cover.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-voyager-probes/",
+    "category": "Space"
   },
   "books": [
+    {
+      "title": "100 Facts About The Golden Gate Bridge",
+      "subtitle": "Everyone Said It Was Impossible",
+      "description": "Engineers said the currents were too strong, the fog too thick, the water too deep. They were wrong. 100 breathtaking facts about the bridge that defied every prediction.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/7.%20The%20Golden%20Gate%20Bridge.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-golden-gate-bridge/",
+      "category": "Landmarks"
+    },
     {
       "title": "100 Facts About Cleopatra",
       "subtitle": "The Last Pharaoh Who Spoke Nine Languages and Ruled an Empire",
@@ -775,14 +783,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20PEACOCKS%20COVER.jpg",
       "amazon_url": "#",
       "category": "Animals"
-    },
-    {
-      "title": "100 Facts About The Voyager Probes",
-      "subtitle": "Humanity's Farthest Reach",
-      "description": "Launched in 1977 and still sending data from beyond our solar system. 100 extraordinary facts about humanity's farthest and most loyal ambassadors.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/20.%20The%20Voyager%20Probe%20Cover.jpg",
-      "amazon_url": "#",
-      "category": "Space"
     },
     {
       "title": "100 Facts About The International Space Station",
