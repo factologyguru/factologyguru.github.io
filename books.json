@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Voyager Probes",
-    "subtitle": "Humanity's Farthest Reach",
-    "description": "Launched in 1977 and still sending data from beyond our solar system. 100 extraordinary facts about humanity's farthest and most loyal ambassadors.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/20.%20The%20Voyager%20Probe%20Cover.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-voyager-probes/",
-    "category": "Space"
+    "title": "100 Facts About The Polar Bear",
+    "subtitle": "The Arctic's Apex Predator Has No Natural Enemies",
+    "description": "Nothing hunts it. It can smell a seal through three feet of ice from a mile away. It is the largest land carnivore on Earth. 100 formidable facts about the white giant of the Arctic.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20The%20Polar%20Bear.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-polar-bear/",
+    "category": "Deadly Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About The Voyager Probes",
+      "subtitle": "Humanity's Farthest Reach",
+      "description": "Launched in 1977 and still sending data from beyond our solar system. 100 extraordinary facts about humanity's farthest and most loyal ambassadors.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/20.%20The%20Voyager%20Probe%20Cover.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-voyager-probes/",
+      "category": "Space"
+    },
     {
       "title": "100 Facts About The Golden Gate Bridge",
       "subtitle": "Everyone Said It Was Impossible",
@@ -1679,14 +1687,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Great%20Wall%20of%20China.jpg",
       "amazon_url": "#",
       "category": "Landmarks"
-    },
-    {
-      "title": "100 Facts About The Polar Bear",
-      "subtitle": "The Arctic's Apex Predator Has No Natural Enemies",
-      "description": "Nothing hunts it. It can smell a seal through three feet of ice from a mile away. It is the largest land carnivore on Earth. 100 formidable facts about the white giant of the Arctic.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20The%20Polar%20Bear.jpg",
-      "amazon_url": "#",
-      "category": "Deadly Animals"
     },
     {
       "title": "100 Facts About The African Lion",
