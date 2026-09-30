@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Polar Bear",
-    "subtitle": "The Arctic's Apex Predator Has No Natural Enemies",
-    "description": "Nothing hunts it. It can smell a seal through three feet of ice from a mile away. It is the largest land carnivore on Earth. 100 formidable facts about the white giant of the Arctic.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20The%20Polar%20Bear.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-polar-bear/",
-    "category": "Deadly Animals"
+    "title": "100 Facts About Hercules",
+    "subtitle": "The Demigod Famous for His Twelve Labors",
+    "description": "Hercules was assigned his twelve labors as punishment for killing his own family in a fit of madness sent by Hera. He completed tasks that gods said were impossible, including holding up the sky. 100 facts about the demigod whose strength was matched only by his suffering.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/6.%20Hercules.jpg",
+    "amazon_url": "https://factologyguru.com/books/hercules/",
+    "category": "Ancient Mythology"
   },
   "books": [
+    {
+      "title": "100 Facts About The Polar Bear",
+      "subtitle": "The Arctic's Apex Predator Has No Natural Enemies",
+      "description": "Nothing hunts it. It can smell a seal through three feet of ice from a mile away. It is the largest land carnivore on Earth. 100 formidable facts about the white giant of the Arctic.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20The%20Polar%20Bear.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-polar-bear/",
+      "category": "Deadly Animals"
+    },
     {
       "title": "100 Facts About The Voyager Probes",
       "subtitle": "Humanity's Farthest Reach",
@@ -2329,14 +2337,6 @@
       "category": "Legendary Warriors"
     },
     {
-      "title": "100 Facts About Hercules",
-      "subtitle": "The Demigod Famous for His Twelve Labors",
-      "description": "Hercules was assigned his twelve labors as punishment for killing his own family in a fit of madness sent by Hera. He completed tasks that gods said were impossible, including holding up the sky. 100 facts about the demigod whose strength was matched only by his suffering.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/6.%20Hercules.jpg",
-      "amazon_url": "#",
-      "category": "Ancient Mythology"
-    },
-    {
       "title": "100 Facts About Quetzalcoatl",
       "subtitle": "The Feathered Serpent God of the Aztecs",
       "description": "Quetzalcoatl was so beloved that when the Spanish arrived, some Aztecs believed Cortes was the god returning — a myth the Spanish themselves encouraged to justify conquest. He was the god of wind, learning, and the morning star. 100 facts about the feathered serpent at the heart of Mesoamerican civilization.",
@@ -3357,14 +3357,6 @@
       "subtitle": "The Insect Mother That Guards Her Young",
       "description": "Earwigs are among the only insects that display genuine maternal care — the mother guards her eggs, cleans them to prevent fungal infection, and protects the hatched nymphs for weeks. Their curved pincers are used for defence, mating signals, and folding their wings — not for crawling into ears. 100 facts about the most misunderstood and surprisingly devoted insect parent on Earth.",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/20.%20The%20Earwig.jpg",
-      "amazon_url": "#",
-      "category": "Insects and Bugs"
-    },
-    {
-      "title": "100 Facts About The Hercules Beetle",
-      "subtitle": "The Giant Beetle Famous for Incredible Strength",
-      "description": "The Hercules beetle is the longest insect in the world and can carry 850 times its own body weight — the human equivalent of lifting 65 tons. Despite its fearsome appearance, it feeds entirely on rotting fruit. 100 facts about the gentle giant of the insect world and the strongest creature on Earth relative to its size.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/21.%20The%20Hercules%20Beetle.jpg",
       "amazon_url": "#",
       "category": "Insects and Bugs"
     },
