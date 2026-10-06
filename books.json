@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Underground Cities",
-    "subtitle": "The Hidden World Beneath Our Feet",
-    "description": "Entire cities carved into the rock below our feet — built for survival, secrecy, and spiritual refuge. 100 remarkable facts about the hidden world beneath our feet.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/12.%20Underground%20Cities.jpg",
-    "amazon_url": "https://factologyguru.com/books/underground-cities/",
-    "category": "Mystery"
+    "title": "100 Facts About The Siberian Husky",
+    "subtitle": "The Arctic Sled Dog Built to Survive the Impossible",
+    "description": "A team of Siberian Huskies ran 658 miles through an Alaskan blizzard in 1925 to deliver diphtheria antitoxin to a dying city — in five and a half days. Their metabolism can shift into a fat-burning mode that allows them to run indefinitely without hitting a wall. 100 facts about the sled dog built for conditions that would kill anything else.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20The%20Siberian%20Husky.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-siberian-husky/",
+    "category": "Dogs"
   },
   "books": [
+    {
+      "title": "100 Facts About Underground Cities",
+      "subtitle": "The Hidden World Beneath Our Feet",
+      "description": "Entire cities carved into the rock below our feet — built for survival, secrecy, and spiritual refuge. 100 remarkable facts about the hidden world beneath our feet.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/12.%20Underground%20Cities.jpg",
+      "amazon_url": "https://factologyguru.com/books/underground-cities/",
+      "category": "Mystery"
+    },
     {
       "title": "100 Facts About Hercules",
       "subtitle": "The Demigod Famous for His Twelve Labors",
@@ -2487,14 +2495,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20Hera.jpg",
       "amazon_url": "#",
       "category": "Ancient Mythology"
-    },
-    {
-      "title": "100 Facts About The Siberian Husky",
-      "subtitle": "The Arctic Sled Dog Built to Survive the Impossible",
-      "description": "A team of Siberian Huskies ran 658 miles through an Alaskan blizzard in 1925 to deliver diphtheria antitoxin to a dying city — in five and a half days. Their metabolism can shift into a fat-burning mode that allows them to run indefinitely without hitting a wall. 100 facts about the sled dog built for conditions that would kill anything else.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20The%20Siberian%20Husky.jpg",
-      "amazon_url": "#",
-      "category": "Dogs"
     },
     {
       "title": "100 Facts About The Dachshund",
