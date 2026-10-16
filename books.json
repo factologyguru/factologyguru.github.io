@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Buckingham Palace",
-    "subtitle": "The Palace Full of Secrets",
-    "description": "Behind the gates and the famous balcony lies a building with a post office, a cinema, a swimming pool, and a history far stranger than any royal biography admits. 100 fascinating facts about the world's most famous residence.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20Buckingham%20Palace.jpg",
-    "amazon_url": "https://factologyguru.com/books/buckingham-palace/",
-    "category": "Landmarks"
+    "title": "100 Facts About Genghis Khan",
+    "subtitle": "The Orphan Who Built the Largest Land Empire in History",
+    "description": "Genghis Khan was abandoned on the steppe as a child, enslaved as a teenager, and went on to conquer more territory than any human being in history. His empire stretched from the Pacific Ocean to Eastern Europe. 100 facts about the most unlikely and most devastating conqueror the world has ever produced.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Genghis%20Khan.jpg",
+    "amazon_url": "https://factologyguru.com/books/genghis-khan/",
+    "category": "Emperors Kings and Rulers"
   },
   "books": [
+    {
+      "title": "100 Facts About Buckingham Palace",
+      "subtitle": "The Palace Full of Secrets",
+      "description": "Behind the gates and the famous balcony lies a building with a post office, a cinema, a swimming pool, and a history far stranger than any royal biography admits. 100 fascinating facts about the world's most famous residence.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20Buckingham%20Palace.jpg",
+      "amazon_url": "https://factologyguru.com/books/buckingham-palace/",
+      "category": "Landmarks"
+    },
     {
       "title": "100 Facts About Ching Shih",
       "subtitle": "The Chinese Pirate Queen Who Commanded 80,000 Men",
@@ -2839,14 +2847,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20Cats%20and%20Their%20Humans.jpg",
       "amazon_url": "#",
       "category": "Cats"
-    },
-    {
-      "title": "100 Facts About Genghis Khan",
-      "subtitle": "The Orphan Who Built the Largest Land Empire in History",
-      "description": "Genghis Khan was abandoned on the steppe as a child, enslaved as a teenager, and went on to conquer more territory than any human being in history. His empire stretched from the Pacific Ocean to Eastern Europe. 100 facts about the most unlikely and most devastating conqueror the world has ever produced.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Genghis%20Khan.jpg",
-      "amazon_url": "#",
-      "category": "Emperors Kings and Rulers"
     },
     {
       "title": "100 Facts About Napoleon Bonaparte",
