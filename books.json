@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Genghis Khan",
-    "subtitle": "The Orphan Who Built the Largest Land Empire in History",
-    "description": "Genghis Khan was abandoned on the steppe as a child, enslaved as a teenager, and went on to conquer more territory than any human being in history. His empire stretched from the Pacific Ocean to Eastern Europe. 100 facts about the most unlikely and most devastating conqueror the world has ever produced.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Genghis%20Khan.jpg",
-    "amazon_url": "https://factologyguru.com/books/genghis-khan/",
-    "category": "Emperors Kings and Rulers"
+    "title": "100 Facts About The African Lion",
+    "subtitle": "The King Didn't Get That Title for Nothing",
+    "description": "It is the only cat that lives and hunts in social groups. Its roar can be heard five miles away. It sleeps 20 hours a day and wakes up ready to kill. 100 majestic facts about the apex predator of the African savanna.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20The%20African%20Lion.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-african-lion/",
+    "category": "Deadly Animals"
   },
   "books": [
+    {
+      "title": "100 Facts About Genghis Khan",
+      "subtitle": "The Orphan Who Built the Largest Land Empire in History",
+      "description": "Genghis Khan was abandoned on the steppe as a child, enslaved as a teenager, and went on to conquer more territory than any human being in history. His empire stretched from the Pacific Ocean to Eastern Europe. 100 facts about the most unlikely and most devastating conqueror the world has ever produced.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/3.%20Genghis%20Khan.jpg",
+      "amazon_url": "https://factologyguru.com/books/genghis-khan/",
+      "category": "Emperors Kings and Rulers"
+    },
     {
       "title": "100 Facts About Buckingham Palace",
       "subtitle": "The Palace Full of Secrets",
@@ -1719,14 +1727,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Great%20Wall%20of%20China.jpg",
       "amazon_url": "#",
       "category": "Landmarks"
-    },
-    {
-      "title": "100 Facts About The African Lion",
-      "subtitle": "The King Didn't Get That Title for Nothing",
-      "description": "It is the only cat that lives and hunts in social groups. Its roar can be heard five miles away. It sleeps 20 hours a day and wakes up ready to kill. 100 majestic facts about the apex predator of the African savanna.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/9.%20The%20African%20Lion.jpg",
-      "amazon_url": "#",
-      "category": "Deadly Animals"
     },
     {
       "title": "100 Facts About The Nile Crocodile",
