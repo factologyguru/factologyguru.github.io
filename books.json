@@ -2921,7 +2921,7 @@
       "category": "Emperors Kings and Rulers"
     },
     {
-      "title": "100 Facts About Ramesses II",
+      "title": "100 Facts About Ramses II",
       "subtitle": "The Pharaoh Who Ruled Egypt for Sixty-Six Years",
       "description": "Ramesses II ruled Egypt for 66 years, fathered over 100 children, built more monuments than any other pharaoh, and signed the world's first known peace treaty after fighting the Hittites to a standstill he declared a victory. His mummy was issued an Egyptian passport in 1974. 100 facts about the pharaoh who turned self-promotion into an art form.",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/13.%20Ramsses%20II.jpg",
@@ -3360,6 +3360,14 @@
       "amazon_url": "#",
       "category": "Insects and Bugs"
     },
+        {
+      "title": "100 Facts About The Hercules Beetle",
+      "subtitle": "The Giant Beetle Famous for Incredible Strength",
+      "description": "The Hercules beetle is one of the longest beetles on Earth, with males reaching about 17 centimeters including the giant horn they use to wrestle rivals. Its shell even changes color with the humidity, turning from olive green to black. 100 facts about the rainforest heavyweight named after the strongest hero in Greek myth.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/21.%20The%20Hercules%20Beetle.jpg",
+      "amazon_url": "#",
+      "category": "Insects and Bugs"
+    },
     {
       "title": "100 Facts About The Atlas Moth",
       "subtitle": "The Moth Born Without a Mouth",
@@ -3769,6 +3777,14 @@
       "category": "Legendary Weapons and Warfare"
     },
     {
+      "title": "100 Facts About The Viking Longship",
+      "subtitle": "The Vessel That Carried Warriors Across the Known World",
+      "description": "Viking longships could cross open ocean and then row up rivers barely a meter deep, landing warriors on beaches where no other ship could reach. They carried Norse raiders, traders and settlers from Greenland to Constantinople. 100 facts about the ship that made the Viking Age possible.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/23.%20The%20Viking%20Longship.jpg",
+      "amazon_url": "#",
+      "category": "Legendary Weapons and Warfare"
+    },
+    {
       "title": "100 Facts About The Phalanx",
       "subtitle": "The Greek Battle Formation That Conquered Empires",
       "description": "The Greek phalanx — a wall of overlapping shields and projecting spears eight ranks deep — was virtually impenetrable from the front and Alexander the Great used it as the anvil while his cavalry acted as the hammer to defeat every army in the known world. The formation worked for 300 years until the Romans developed tactics to get around it. 100 facts about the battle formation that made ancient Greece the dominant military power of its era.",
@@ -3901,6 +3917,14 @@
       "subtitle": "The Explorer Who Invented Modern Environmental Science",
       "description": "Humboldt climbed the highest mountain yet ascended by any human, mapped the magnetic equator, discovered the ocean current that bears his name, and was the first person to describe climate change caused by human activity — in 1800. Darwin called him the greatest scientific traveler who ever lived. 100 facts about the explorer who saw the Earth as a single connected living system two centuries before everyone else.",
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/15.%20Alexander%20von%20Humboldt.jpg",
+      "amazon_url": "#",
+      "category": "Famous Explorers"
+    },
+    {
+      "title": "100 Facts About Thor Heyerdahl",
+      "subtitle": "The Man Who Crossed the Pacific on a Raft",
+      "description": "In 1947 Thor Heyerdahl and five crewmates drifted 101 days and roughly 8,000 kilometers across the Pacific on a balsa wood raft named Kon-Tiki, to prove ancient sailors could have done it. His film of the voyage won an Academy Award. 100 facts about the explorer who risked his life to test a theory most experts rejected.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/16.%20Thor%20Heyerdahl.jpg",
       "amazon_url": "#",
       "category": "Famous Explorers"
     },
