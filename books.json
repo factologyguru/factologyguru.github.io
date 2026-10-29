@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The International Space Station",
-    "subtitle": "Humanity's Outpost in Orbit",
-    "description": "A football-field-sized laboratory orbiting at 17,500 mph where humans have lived continuously since 2000. 100 fascinating facts about humanity's outpost in orbit.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/21.%20The%20International%20Space%20Station%20Cover.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-international-space-station/",
-    "category": "Space"
+    "title": "100 Facts About Captain Kidd",
+    "subtitle": "The Pirate Hunter Who Became the Pirate He Was Sent to Catch",
+    "description": "Captain Kidd was hired by English lords to hunt pirates and protect merchant ships — and ended up hanged as a pirate himself after a voyage that went catastrophically wrong. His buried treasure has been searched for in three different countries for 300 years. 100 facts about the privateer whose downfall became one of history's great legal controversies.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20Captain%20Kidd.jpg",
+    "amazon_url": "https://factologyguru.com/books/captain-kidd/",
+    "category": "Pirates and Buccaneers"
   },
   "books": [
+    {
+      "title": "100 Facts About The International Space Station",
+      "subtitle": "Humanity's Outpost in Orbit",
+      "description": "A football-field-sized laboratory orbiting at 17,500 mph where humans have lived continuously since 2000. 100 fascinating facts about humanity's outpost in orbit.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/21.%20The%20International%20Space%20Station%20Cover.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-international-space-station/",
+      "category": "Space"
+    },
     {
       "title": "100 Facts About Quetzalcoatl",
       "subtitle": "The Feathered Serpent God of the Aztecs",
@@ -3023,14 +3031,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20Hatshepsut.jpg",
       "amazon_url": "#",
       "category": "Emperors Kings and Rulers"
-    },
-    {
-      "title": "100 Facts About Captain Kidd",
-      "subtitle": "The Pirate Hunter Who Became the Pirate He Was Sent to Catch",
-      "description": "Captain Kidd was hired by English lords to hunt pirates and protect merchant ships — and ended up hanged as a pirate himself after a voyage that went catastrophically wrong. His buried treasure has been searched for in three different countries for 300 years. 100 facts about the privateer whose downfall became one of history's great legal controversies.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/4.%20Captain%20Kidd.jpg",
-      "amazon_url": "#",
-      "category": "Pirates and Buccaneers"
     },
     {
       "title": "100 Facts About Henry Morgan",
