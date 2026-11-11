@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About The Nile Crocodile",
-    "subtitle": "It's Been Eating Everything in Its Path Since the Dinosaurs",
-    "description": "It has barely changed in 200 million years because it has never needed to. It is responsible for hundreds of human deaths every year across Africa. 100 ferocious facts about the river's deadliest resident.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20The%20Nile%20Crocodile.jpg",
-    "amazon_url": "https://factologyguru.com/books/the-nile-crocodile/",
-    "category": "Deadly Animals"
+    "title": "100 Facts About Poseidon",
+    "subtitle": "The Greek God Who Controlled the Seas",
+    "description": "Poseidon lost the contest for Athens to Athena and spent centuries making the city's life miserable in revenge. He created horses, caused earthquakes, and held grudges longer than any other Olympian. 100 facts about the sea god whose temper shaped the ancient world.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20Poseidon.jpg",
+    "amazon_url": "https://factologyguru.com/books/poseidon/",
+    "category": "Ancient Mythology"
   },
   "books": [
+    {
+      "title": "100 Facts About The Nile Crocodile",
+      "subtitle": "It's Been Eating Everything in Its Path Since the Dinosaurs",
+      "description": "It has barely changed in 200 million years because it has never needed to. It is responsible for hundreds of human deaths every year across Africa. 100 ferocious facts about the river's deadliest resident.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20The%20Nile%20Crocodile.jpg",
+      "amazon_url": "https://factologyguru.com/books/the-nile-crocodile/",
+      "category": "Deadly Animals"
+    },
     {
       "title": "100 Facts About The Colosseum",
       "subtitle": "The Greatest Show in Human History",
@@ -2383,14 +2391,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20The%20Dahomey%20Amazon.jpg",
       "amazon_url": "#",
       "category": "Legendary Warriors"
-    },
-    {
-      "title": "100 Facts About Poseidon",
-      "subtitle": "The Greek God Who Controlled the Seas",
-      "description": "Poseidon lost the contest for Athens to Athena and spent centuries making the city's life miserable in revenge. He created horses, caused earthquakes, and held grudges longer than any other Olympian. 100 facts about the sea god whose temper shaped the ancient world.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/8.%20Poseidon.jpg",
-      "amazon_url": "#",
-      "category": "Ancient Mythology"
     },
     {
       "title": "100 Facts About Loki",
