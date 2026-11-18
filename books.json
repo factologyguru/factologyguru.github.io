@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Pistol Shrimp",
-    "subtitle": "The Fastest Gun in the Ocean",
-    "description": "A shrimp that creates a bubble hotter than the sun with a snap of its claw. 100 explosive facts about the ocean's smallest but deadliest hunter.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/22.%20PISTOL%20SHRIMP%20COVER.jpg",
-    "amazon_url": "https://factologyguru.com/books/pistol-shrimp/",
-    "category": "Animals"
+    "title": "100 Facts About Alexander the Great",
+    "subtitle": "The King Who Conquered the Known World Before Age Thirty",
+    "description": "Alexander the Great never lost a single battle in 15 years of continuous warfare across 22,000 miles. He was tutored by Aristotle, wept because there were no more worlds to conquer, and died at 32 under circumstances that remain unexplained. 100 facts about the most successful military commander in human history.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20Alexander%20the%20Great.jpg",
+    "amazon_url": "https://factologyguru.com/books/alexander-the-great/",
+    "category": "Emperors Kings and Rulers"
   },
   "books": [
+    {
+      "title": "100 Facts About Pistol Shrimp",
+      "subtitle": "The Fastest Gun in the Ocean",
+      "description": "A shrimp that creates a bubble hotter than the sun with a snap of its claw. 100 explosive facts about the ocean's smallest but deadliest hunter.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/22.%20PISTOL%20SHRIMP%20COVER.jpg",
+      "amazon_url": "https://factologyguru.com/books/pistol-shrimp/",
+      "category": "Animals"
+    },
     {
       "title": "100 Facts About Poseidon",
       "subtitle": "The Greek God Who Controlled the Seas",
@@ -2863,14 +2871,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/25.%20Cats%20and%20Their%20Humans.jpg",
       "amazon_url": "#",
       "category": "Cats"
-    },
-    {
-      "title": "100 Facts About Alexander the Great",
-      "subtitle": "The King Who Conquered the Known World Before Age Thirty",
-      "description": "Alexander the Great never lost a single battle in 15 years of continuous warfare across 22,000 miles. He was tutored by Aristotle, wept because there were no more worlds to conquer, and died at 32 under circumstances that remain unexplained. 100 facts about the most successful military commander in human history.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/5.%20Alexander%20the%20Great.jpg",
-      "amazon_url": "#",
-      "category": "Emperors Kings and Rulers"
     },
     {
       "title": "100 Facts About Attila the Hun",
