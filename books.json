@@ -1,13 +1,21 @@
 {
   "spotlight": {
-    "title": "100 Facts About Pluto",
-    "subtitle": "The Planet That Fought Back",
-    "description": "Discovered, loved, demoted — but never forgotten. 100 heartfelt and surprising facts about the solar system's most famous underdog.",
-    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/22.%20Pluto%20Cover.jpg",
-    "amazon_url": "https://factologyguru.com/books/pluto/",
-    "category": "Space"
+    "title": "100 Facts About The Taj Mahal",
+    "subtitle": "Built From a Broken Heart",
+    "description": "An emperor lost his beloved wife and spent 22 years and the labor of 20,000 workers building her a tomb. Then he was imprisoned by his own son, left to stare at it from a window until he died. 100 magnificent facts about the world's greatest monument to love.",
+    "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20The%20Taj%20Mahal.jpg",
+    "amazon_url": "https://factologyguru.com/books/the-taj-mahal/",
+    "category": "Landmarks"
   },
   "books": [
+    {
+      "title": "100 Facts About Pluto",
+      "subtitle": "The Planet That Fought Back",
+      "description": "Discovered, loved, demoted — but never forgotten. 100 heartfelt and surprising facts about the solar system's most famous underdog.",
+      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/22.%20Pluto%20Cover.jpg",
+      "amazon_url": "https://factologyguru.com/books/pluto/",
+      "category": "Space"
+    },
     {
       "title": "100 Facts About Alexander the Great",
       "subtitle": "The King Who Conquered the Known World Before Age Thirty",
@@ -1647,14 +1655,6 @@
       "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/100.%20The%20Green%20Children%20of%20Woolpit.jpg",
       "amazon_url": "#",
       "category": "Mystery"
-    },
-    {
-      "title": "100 Facts About The Taj Mahal",
-      "subtitle": "Built From a Broken Heart",
-      "description": "An emperor lost his beloved wife and spent 22 years and the labor of 20,000 workers building her a tomb. Then he was imprisoned by his own son, left to stare at it from a window until he died. 100 magnificent facts about the world's greatest monument to love.",
-      "cover": "https://factologyguru.github.io/2.%20BOOK%20COVERS/10.%20The%20Taj%20Mahal.jpg",
-      "amazon_url": "#",
-      "category": "Landmarks"
     },
     {
       "title": "100 Facts About The Sagrada Familia",
